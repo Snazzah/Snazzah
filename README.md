@@ -14,6 +14,7 @@ Find out more on my [website][website].
 [twitter]: https://twitter.com/Snazzah
 [discord]: https://snaz.in/discord
 [twitch]: https://twitch.tv/SnazzahGuy
+[patreon]: https://patreon.com/Snazzah
 
 ### Reach me:
 
@@ -21,6 +22,7 @@ Find out more on my [website][website].
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/simple-icons:twitter.svg?color=%23e84118&height=32" />][twitter]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23e84118&height=32" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23e84118&height=32" />][twitch]
+[<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/simple-icons:patreon.svg?color=%23e84118&height=32" />][patreon]
 
 <br />
 
