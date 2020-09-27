@@ -58,6 +58,8 @@ Find out more on my [website][website].
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<center>
+
 <details>
   <summary><b>Projects</b></summary><br />
 
@@ -80,3 +82,5 @@ Find out more on my [website][website].
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Terminal&repo=botlist-servers&show_owner=true)](https://github.com/Terminal/botlist-servers)
 
 </details>
+
+</center>
