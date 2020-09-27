@@ -60,6 +60,9 @@ Find out more on my [website][website].
 
 ### Notable projects:
 
+<details>
+  <summary><b>Projects</b></summary><br />
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=SublimeDiscordRP)](https://github.com/Snazzah/SublimeDiscordRP)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dbots-pkg&repo=dbots.js&show_owner=true)](https://github.com/dbots-pkg/dbots.js)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=HotImage)](https://github.com/Snazzah/HotImage)
@@ -67,12 +70,19 @@ Find out more on my [website][website].
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=MediaSessionMaster)](https://github.com/Snazzah/MediaSessionMaster)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=Lightcord)](https://github.com/Snazzah/Lightcord)
 
+</details>
+
 <br />
 
 ### Contributions:
+
+<details>
+  <summary><b>Contributions</b></summary><br />
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js)](https://github.com/discordjs/discord.js)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlexFlipnote&repo=Modesta&show_owner=true)](https://github.com/AlexFlipnote/Modesta)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=discordrb&repo=discordrb)](https://github.com/discordrb/discordrb)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=DiscordInjections&repo=DiscordInjections)](https://github.com/DiscordInjections/DiscordInjections)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Terminal&repo=botlist-servers&show_owner=true)](https://github.com/Terminal/botlist-servers)
+
+</details>
