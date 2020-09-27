@@ -58,8 +58,6 @@ Find out more on my [website][website].
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Notable projects:
-
 <details>
   <summary><b>Projects</b></summary><br />
 
@@ -71,10 +69,6 @@ Find out more on my [website][website].
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=Lightcord)](https://github.com/Snazzah/Lightcord)
 
 </details>
-
-<br />
-
-### Contributions:
 
 <details>
   <summary><b>Contributions</b></summary><br />
