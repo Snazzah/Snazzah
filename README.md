@@ -80,6 +80,7 @@ Find out more on my [website][website].
 [![](https://github-readme-stats.vercel.app/api/pin/?username=discordrb&repo=discordrb)](https://github.com/discordrb/discordrb)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=DiscordInjections&repo=DiscordInjections)](https://github.com/DiscordInjections/DiscordInjections)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Terminal&repo=botlist-servers&show_owner=true)](https://github.com/Terminal/botlist-servers)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=abalabahaha&repo=eris)](https://github.com/abalabahaha/eris)
 
 </details>
 
