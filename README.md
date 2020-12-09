@@ -20,7 +20,7 @@ Find out more on my [website][website].
 
 [<img align="left" alt="snazzah.com" width="32px" src="https://api.iconify.design/bi:globe.svg?color=%23e84118&height=32" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/simple-icons:twitter.svg?color=%23e84118&height=32" />][twitter]
-[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23e84118&height=32" />][discord]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23e84118&height=32" />][discord]
 [<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/simple-icons:twitch.svg?color=%23e84118&height=32" />][twitch]
 [<img align="left" alt="Patreon" width="32px" src="https://api.iconify.design/simple-icons:patreon.svg?color=%23e84118&height=32" />][patreon]
 
@@ -38,9 +38,9 @@ Find out more on my [website][website].
 <br />
 
 #### Tools:
-<img align="left" alt="visualstudiocode" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23c23616&height=26" />
-<img align="left" alt="git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23c23616&height=26" />
-<img align="left" alt="github" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23c23616&height=26" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23c23616&height=26" />
+<img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23c23616&height=26" />
+<img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23c23616&height=26" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23c23616&height=26" />
 <img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23c23616&height=26" />
 <img align="left" alt="Vue" width="26px" src="https://api.iconify.design/simple-icons:vue-dot-js.svg?color=%23c23616&height=26" />
@@ -51,17 +51,14 @@ Find out more on my [website][website].
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
   </a>
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <center>
 
