@@ -39,6 +39,7 @@ Find out more on my [website][website].
 
 #### Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/simple-icons:visualstudiocode.svg?color=%23c23616&height=26" />
+<img align="left" alt="Sublime Text" width="26px" src="https://api.iconify.design/simple-icons:sublimetext.svg?color=%23c23616&height=26" />
 <img align="left" alt="Git" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23c23616&height=26" />
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23c23616&height=26" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23c23616&height=26" />
