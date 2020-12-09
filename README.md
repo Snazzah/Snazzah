@@ -53,6 +53,9 @@ Find out more on my [website][website].
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true" />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact" />
+  </a>
 </div>
 
 <!--START_SECTION:waka-->
