@@ -51,12 +51,10 @@ Find out more on my [website][website].
 ---
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
 </div>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://wakatime.com/@Snazzah">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
   </a>
 </div>
