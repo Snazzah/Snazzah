@@ -45,17 +45,18 @@ Find out more on my [website][website].
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23c23616&height=26" />
 <img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23c23616&height=26" />
 <img align="left" alt="Vue" width="26px" src="https://api.iconify.design/simple-icons:vue-dot-js.svg?color=%23c23616&height=26" />
+<img align="left" alt="NGINX" width="26px" src="https://api.iconify.design/cib:nginx.svg?color=%23c23616&height=26" />
 
 <br />
 
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=852121&title_color=fff&text_color=fff" />
 </div>
 <div align="center">
   <a href="https://wakatime.com/@Snazzah">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=30,de0c0c,852121&title_color=fff&text_color=fff" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=852121&title_color=fff&text_color=fff" />
   </a>
 </div>
 
