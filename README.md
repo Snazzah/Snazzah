@@ -34,6 +34,7 @@ Find out more on my [website][website].
 <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23c23616&height=26" />
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23c23616&height=26" />
 <img align="left" alt="Ruby" width="26px" src="https://api.iconify.design/simple-icons:ruby.svg?color=%23c23616&height=26" />
+<img align="left" alt="Stylus" width="26px" src="https://api.iconify.design/simple-icons:stylus.svg?color=%23c23616&height=26" />
 
 <br />
 
@@ -60,17 +61,24 @@ Find out more on my [website][website].
   </a>
 </div>
 
-<center>
+---
 
 <details>
   <summary><b>Projects</b></summary><br />
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=SublimeDiscordRP)](https://github.com/Snazzah/SublimeDiscordRP)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=dbots-pkg&repo=dbots.js&show_owner=true)](https://github.com/dbots-pkg/dbots.js)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=HotImage)](https://github.com/Snazzah/HotImage)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=trello-talk&repo=Taco&show_owner=true)](https://github.com/trello-talk/Taco)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=MediaSessionMaster)](https://github.com/Snazzah/MediaSessionMaster)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=Lightcord)](https://github.com/Snazzah/Lightcord)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=slash-create)](https://github.com/Snazzah/slash-create)
 
 </details>
 
@@ -78,12 +86,13 @@ Find out more on my [website][website].
   <summary><b>Contributions</b></summary><br />
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js)](https://github.com/discordjs/discord.js)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=AlexFlipnote&repo=Modesta&show_owner=true)](https://github.com/AlexFlipnote/Modesta)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=discordrb&repo=discordrb)](https://github.com/discordrb/discordrb)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=DiscordInjections&repo=DiscordInjections)](https://github.com/DiscordInjections/DiscordInjections)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Terminal&repo=botlist-servers&show_owner=true)](https://github.com/Terminal/botlist-servers)
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=abalabahaha&repo=eris)](https://github.com/abalabahaha/eris)
 
 </details>
-
-</center>
