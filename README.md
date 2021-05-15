@@ -1,13 +1,11 @@
 ## Hey, I'm Snazzah. ![](https://enb1p2fwazcr7bh.m.pipedream.net)
 
-I code things like websites and apps.  
-I most use
+I code things like websites and apps, backend and frontend stuff.  
+I mostly use
 [![](https://api.iconify.design/simple-icons:node-dot-js.svg?color=%234cacfc&height=16) Node.JS](https://nodejs.org/),
-but i have some experience in
-[![](https://api.iconify.design/simple-icons:python.svg?color=%234cacfc&height=16) Python](https://python.org/) and
-[![](https://api.iconify.design/simple-icons:ruby.svg?color=%234cacfc&height=16) Ruby](https://www.ruby-lang.org/en/).  
-I'm well known for my [![](https://api.iconify.design/simple-icons:discord.svg?color=%234cacfc&height=16) Discord](https://discord.com)-related
-projects.  
+but I have some experience in
+[![](https://api.iconify.design/simple-icons:python.svg?color=%234cacfc&height=16) Python](https://python.org/).
+
 Find out more on my [website][website].
 
 [website]: https://snazzah.com/
