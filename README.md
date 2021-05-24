@@ -1,6 +1,6 @@
 <div align=center>
 
-[![](https://get.snaz.in/3U33W9V.png)][website]
+[![](https://snazzah.com/i/banner2.png)][website]
 ![](https://enb1p2fwazcr7bh.m.pipedream.net)
   
 </div>
