@@ -48,6 +48,13 @@
 
 ---
 
+####  Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snazzah&show_icons=true&count_private=true&hide_border=true&icon_color=fff&bg_color=852121&title_color=fff&text_color=fff" />
 </div>
