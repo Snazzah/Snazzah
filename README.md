@@ -52,10 +52,10 @@
 
 <!--START_SECTION:activity-->
 1. ✔️ Reviewed [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-2. 💪 Opened PR [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-3. 💪 Opened PR [#102](https://github.com/skyra-project/discord-components/pull/102) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-4. 🏷️ Published release [v9,0,1](https://github.com/dbots-pkg/dbots.js/releases/tag/v9,0,1) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-5. ❗️ Closed issue [#90](https://github.com/Snazzah/slash-create/issues/90) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+3. 💪 Opened PR [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+4. 💪 Opened PR [#102](https://github.com/skyra-project/discord-components/pull/102) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+5. 🏷️ Published release [v9,0,1](https://github.com/dbots-pkg/dbots.js/releases/tag/v9,0,1) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
 <!--END_SECTION:activity-->
 
 ---
