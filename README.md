@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v9,0,1](https://github.com/dbots-pkg/dbots.js/releases/tag/v9,0,1) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-2. ❗️ Closed issue [#90](https://github.com/Snazzah/slash-create/issues/90) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#90](https://github.com/Snazzah/slash-create/issues/90) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v3.4.1](https://github.com/Snazzah/slash-create/releases/tag/v3.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🎉 Merged PR [#86](https://github.com/Snazzah/slash-create/pull/86) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#102](https://github.com/skyra-project/discord-components/pull/102) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+2. 🏷️ Published release [v9,0,1](https://github.com/dbots-pkg/dbots.js/releases/tag/v9,0,1) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+3. ❗️ Closed issue [#90](https://github.com/Snazzah/slash-create/issues/90) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#90](https://github.com/Snazzah/slash-create/issues/90) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v3.4.1](https://github.com/Snazzah/slash-create/releases/tag/v3.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
