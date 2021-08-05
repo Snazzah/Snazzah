@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v7.2.6](https://github.com/trello-talk/Taco/releases/tag/v7.2.6) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-2. ✔️ Reviewed [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+1. 🏷️ Published release [v3.4.2](https://github.com/Snazzah/slash-create/releases/tag/v3.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v7.2.6](https://github.com/trello-talk/Taco/releases/tag/v7.2.6) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
 3. ✔️ Reviewed [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-4. 💪 Opened PR [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-5. 💪 Opened PR [#102](https://github.com/skyra-project/discord-components/pull/102) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+4. ✔️ Reviewed [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+5. 💪 Opened PR [#103](https://github.com/skyra-project/discord-components/pull/103) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
 <!--END_SECTION:activity-->
 
 ---
