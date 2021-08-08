@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.1.1](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.1) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-2. ❗️ Opened issue [#12](https://github.com/Timeraa/TS-DevScript/issues/12) in [Timeraa/TS-DevScript](https://github.com/Timeraa/TS-DevScript)
-3. 💪 Opened PR [#105](https://github.com/skyra-project/discord-components/pull/105) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-4. 🏷️ Published release [v3.4.2](https://github.com/Snazzah/slash-create/releases/tag/v3.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v7.2.6](https://github.com/trello-talk/Taco/releases/tag/v7.2.6) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+1. 🗣 Commented on [#91](https://github.com/Snazzah/slash-create/issues/91) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v2.1.1](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.1) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. ❗️ Opened issue [#12](https://github.com/Timeraa/TS-DevScript/issues/12) in [Timeraa/TS-DevScript](https://github.com/Timeraa/TS-DevScript)
+4. 💪 Opened PR [#105](https://github.com/skyra-project/discord-components/pull/105) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+5. 🏷️ Published release [v3.4.2](https://github.com/Snazzah/slash-create/releases/tag/v3.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
