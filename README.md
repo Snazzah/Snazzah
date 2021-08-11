@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#94](https://github.com/Snazzah/slash-create/pull/94) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#93](https://github.com/Snazzah/slash-create/issues/93) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Opened issue [#93](https://github.com/Snazzah/slash-create/issues/93) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Opened issue [#92](https://github.com/Snazzah/slash-create/issues/92) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v2.1.2](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.2) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 🎉 Merged PR [#94](https://github.com/Snazzah/slash-create/pull/94) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#92](https://github.com/Snazzah/slash-create/issues/92) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#94](https://github.com/Snazzah/slash-create/pull/94) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#93](https://github.com/Snazzah/slash-create/issues/93) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Opened issue [#93](https://github.com/Snazzah/slash-create/issues/93) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
