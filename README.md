@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Opened issue [#356](https://github.com/trello-talk/Taco/issues/356) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-4. ❗️ Closed issue [#232](https://github.com/trello-talk/Taco/issues/232) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-5. 🗣 Commented on [#151](https://github.com/trello-talk/Taco/issues/151) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+1. ❗️ Closed issue [#95](https://github.com/Snazzah/slash-create/issues/95) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Opened issue [#356](https://github.com/trello-talk/Taco/issues/356) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+5. ❗️ Closed issue [#232](https://github.com/trello-talk/Taco/issues/232) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
 <!--END_SECTION:activity-->
 
 ---
