@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/advaith1/libs/pull/3) in [advaith1/libs](https://github.com/advaith1/libs)
-2. ❗️ Closed issue [#95](https://github.com/Snazzah/slash-create/issues/95) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Opened issue [#356](https://github.com/trello-talk/Taco/issues/356) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+1. 🎉 Merged PR [#355](https://github.com/trello-talk/Taco/pull/355) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+2. 💪 Opened PR [#3](https://github.com/advaith1/libs/pull/3) in [advaith1/libs](https://github.com/advaith1/libs)
+3. ❗️ Closed issue [#95](https://github.com/Snazzah/slash-create/issues/95) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#78](https://github.com/Snazzah/slash-create/issues/78) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
