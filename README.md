@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#13](https://github.com/dbots-pkg/dbots.py/issues/13) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-2. ❗️ Opened issue [#3](https://github.com/ZeroIdeaDevelopment/pkg/issues/3) in [ZeroIdeaDevelopment/pkg](https://github.com/ZeroIdeaDevelopment/pkg)
-3. 🗣 Commented on [#79](https://github.com/Snazzah/SublimeDiscordRP/issues/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. 🗣 Commented on [#78](https://github.com/Snazzah/SublimeDiscordRP/issues/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. ❌ Closed PR [#78](https://github.com/Snazzah/SublimeDiscordRP/pull/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🗣 Commented on [#79](https://github.com/Snazzah/SublimeDiscordRP/issues/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. 🏷️ Published release [v4.0.0](https://github.com/Snazzah/slash-create/releases/tag/v4.0.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#13](https://github.com/dbots-pkg/dbots.py/issues/13) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+4. ❗️ Opened issue [#3](https://github.com/ZeroIdeaDevelopment/pkg/issues/3) in [ZeroIdeaDevelopment/pkg](https://github.com/ZeroIdeaDevelopment/pkg)
+5. 🗣 Commented on [#79](https://github.com/Snazzah/SublimeDiscordRP/issues/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
