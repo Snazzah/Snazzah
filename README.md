@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/Snazzah/slash-create/pull/97) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#96](https://github.com/Snazzah/slash-create/pull/96) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#96](https://github.com/Snazzah/slash-create/pull/96) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v1.0.1](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.1) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-5. 🏷️ Published release [v1.0.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+1. ❗️ Opened issue [#3](https://github.com/ZeroIdeaDevelopment/pkg/issues/3) in [ZeroIdeaDevelopment/pkg](https://github.com/ZeroIdeaDevelopment/pkg)
+2. 🗣 Commented on [#79](https://github.com/Snazzah/SublimeDiscordRP/issues/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. 🗣 Commented on [#78](https://github.com/Snazzah/SublimeDiscordRP/issues/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. ❌ Closed PR [#78](https://github.com/Snazzah/SublimeDiscordRP/pull/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. 🎉 Merged PR [#97](https://github.com/Snazzah/slash-create/pull/97) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
