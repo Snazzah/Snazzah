@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/ZeroIdeaDevelopment/pkg/issues/3) in [ZeroIdeaDevelopment/pkg](https://github.com/ZeroIdeaDevelopment/pkg)
-2. 🗣 Commented on [#79](https://github.com/Snazzah/SublimeDiscordRP/issues/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. 🗣 Commented on [#78](https://github.com/Snazzah/SublimeDiscordRP/issues/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. ❌ Closed PR [#78](https://github.com/Snazzah/SublimeDiscordRP/pull/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. 🎉 Merged PR [#97](https://github.com/Snazzah/slash-create/pull/97) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ❗️ Closed issue [#13](https://github.com/dbots-pkg/dbots.py/issues/13) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+2. ❗️ Opened issue [#3](https://github.com/ZeroIdeaDevelopment/pkg/issues/3) in [ZeroIdeaDevelopment/pkg](https://github.com/ZeroIdeaDevelopment/pkg)
+3. 🗣 Commented on [#79](https://github.com/Snazzah/SublimeDiscordRP/issues/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. 🗣 Commented on [#78](https://github.com/Snazzah/SublimeDiscordRP/issues/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. ❌ Closed PR [#78](https://github.com/Snazzah/SublimeDiscordRP/pull/78) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
