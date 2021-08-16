@@ -49,9 +49,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.0.1](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.1) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-2. 🏷️ Published release [v1.0.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-3. ✔️ Reviewed [#96](https://github.com/Snazzah/slash-create/pull/96) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#96](https://github.com/Snazzah/slash-create/pull/96) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v1.0.1](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.1) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+3. 🏷️ Published release [v1.0.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
 4. ✔️ Reviewed [#96](https://github.com/Snazzah/slash-create/pull/96) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. ✔️ Reviewed [#96](https://github.com/Snazzah/slash-create/pull/96) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
