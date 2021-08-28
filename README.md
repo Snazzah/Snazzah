@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2827](https://github.com/vscode-icons/vscode-icons/pull/2827) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. ❗️ Closed issue [#98](https://github.com/Snazzah/slash-create/issues/98) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#98](https://github.com/Snazzah/slash-create/issues/98) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#111](https://github.com/skyra-project/discord-components/pull/111) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-5. 💪 Opened PR [#110](https://github.com/skyra-project/discord-components/pull/110) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+1. 💪 Opened PR [#117](https://github.com/skyra-project/discord-components/pull/117) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+2. 💪 Opened PR [#2827](https://github.com/vscode-icons/vscode-icons/pull/2827) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. ❗️ Closed issue [#98](https://github.com/Snazzah/slash-create/issues/98) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#98](https://github.com/Snazzah/slash-create/issues/98) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#111](https://github.com/skyra-project/discord-components/pull/111) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
 <!--END_SECTION:activity-->
 
 ---
