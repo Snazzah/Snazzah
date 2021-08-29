@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/TheMaestro0/better-revolt.js/pull/3) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
-2. ❗️ Opened issue [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
-3. 💪 Opened PR [#117](https://github.com/skyra-project/discord-components/pull/117) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-4. 💪 Opened PR [#2827](https://github.com/vscode-icons/vscode-icons/pull/2827) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-5. ❗️ Closed issue [#98](https://github.com/Snazzah/slash-create/issues/98) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#80](https://github.com/Snazzah/SublimeDiscordRP/issues/80) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. 💪 Opened PR [#3](https://github.com/TheMaestro0/better-revolt.js/pull/3) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
+3. ❗️ Opened issue [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
+4. 💪 Opened PR [#117](https://github.com/skyra-project/discord-components/pull/117) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+5. 💪 Opened PR [#2827](https://github.com/vscode-icons/vscode-icons/pull/2827) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 <!--END_SECTION:activity-->
 
 ---
