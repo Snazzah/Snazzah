@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
-2. 🏷️ Published release [v0.1.0](https://github.com/Dexare/Voltare/releases/tag/v0.1.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-3. 🗣 Commented on [#80](https://github.com/Snazzah/SublimeDiscordRP/issues/80) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. 💪 Opened PR [#3](https://github.com/TheMaestro0/better-revolt.js/pull/3) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
-5. ❗️ Opened issue [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
+1. 💪 Opened PR [#154](https://github.com/revoltchat/revite/pull/154) in [revoltchat/revite](https://github.com/revoltchat/revite)
+2. 🗣 Commented on [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
+3. 🏷️ Published release [v0.1.0](https://github.com/Dexare/Voltare/releases/tag/v0.1.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+4. 🗣 Commented on [#80](https://github.com/Snazzah/SublimeDiscordRP/issues/80) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. 💪 Opened PR [#3](https://github.com/TheMaestro0/better-revolt.js/pull/3) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
 <!--END_SECTION:activity-->
 
 ---
