@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#107](https://github.com/Snazzah/slash-create/issues/107) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#155](https://github.com/revoltchat/revite/pull/155) in [revoltchat/revite](https://github.com/revoltchat/revite)
-3. 💪 Opened PR [#154](https://github.com/revoltchat/revite/pull/154) in [revoltchat/revite](https://github.com/revoltchat/revite)
-4. 🗣 Commented on [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
-5. 🏷️ Published release [v0.1.0](https://github.com/Dexare/Voltare/releases/tag/v0.1.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+1. 💪 Opened PR [#8](https://github.com/Andre601/anti-scam-database/pull/8) in [Andre601/anti-scam-database](https://github.com/Andre601/anti-scam-database)
+2. 🗣 Commented on [#107](https://github.com/Snazzah/slash-create/issues/107) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#155](https://github.com/revoltchat/revite/pull/155) in [revoltchat/revite](https://github.com/revoltchat/revite)
+4. 💪 Opened PR [#154](https://github.com/revoltchat/revite/pull/154) in [revoltchat/revite](https://github.com/revoltchat/revite)
+5. 🗣 Commented on [#1](https://github.com/TheMaestro0/better-revolt.js/issues/1) in [TheMaestro0/better-revolt.js](https://github.com/TheMaestro0/better-revolt.js)
 <!--END_SECTION:activity-->
 
 ---
