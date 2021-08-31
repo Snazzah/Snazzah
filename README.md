@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 💪 Opened PR [#159](https://github.com/revoltchat/revite/pull/159) in [revoltchat/revite](https://github.com/revoltchat/revite)
-4. 💪 Opened PR [#158](https://github.com/revoltchat/revite/pull/158) in [revoltchat/revite](https://github.com/revoltchat/revite)
-5. 💪 Opened PR [#8](https://github.com/Andre601/anti-scam-database/pull/8) in [Andre601/anti-scam-database](https://github.com/Andre601/anti-scam-database)
+1. ❗️ Opened issue [#22](https://github.com/RevoltSocial/lists/issues/22) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
+2. 🎉 Merged PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 💪 Opened PR [#159](https://github.com/revoltchat/revite/pull/159) in [revoltchat/revite](https://github.com/revoltchat/revite)
+5. 💪 Opened PR [#158](https://github.com/revoltchat/revite/pull/158) in [revoltchat/revite](https://github.com/revoltchat/revite)
 <!--END_SECTION:activity-->
 
 ---
