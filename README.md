@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v0.2.0](https://github.com/Dexare/Voltare/releases/tag/v0.2.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-2. 💪 Opened PR [#10](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/10) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
-3. ❗️ Opened issue [#22](https://github.com/RevoltSocial/lists/issues/22) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
-4. 🎉 Merged PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#20](https://github.com/insertish/awesome-revolt/pull/20) in [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt)
+2. 🏷️ Published release [v0.2.0](https://github.com/Dexare/Voltare/releases/tag/v0.2.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+3. 💪 Opened PR [#10](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/10) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+4. ❗️ Opened issue [#22](https://github.com/RevoltSocial/lists/issues/22) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
+5. 🎉 Merged PR [#114](https://github.com/Snazzah/slash-create/pull/114) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
