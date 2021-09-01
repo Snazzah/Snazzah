@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/11) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
-2. 🎉 Merged PR [#12](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/12) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
-3. 💪 Opened PR [#20](https://github.com/insertish/awesome-revolt/pull/20) in [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt)
-4. 🏷️ Published release [v0.2.0](https://github.com/Dexare/Voltare/releases/tag/v0.2.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-5. 💪 Opened PR [#10](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/10) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+1. 🎉 Merged PR [#14](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/14) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+2. 🗣 Commented on [#11](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/11) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+3. 🎉 Merged PR [#12](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/12) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+4. 💪 Opened PR [#20](https://github.com/insertish/awesome-revolt/pull/20) in [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt)
+5. 🏷️ Published release [v0.2.0](https://github.com/Dexare/Voltare/releases/tag/v0.2.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
