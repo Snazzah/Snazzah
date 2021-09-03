@@ -40,6 +40,7 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23c23616&height=26" />
 <img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23c23616&height=26" />
 <img align="left" alt="Vue" width="26px" src="https://api.iconify.design/simple-icons:vue-dot-js.svg?color=%23c23616&height=26" />
+<img align="left" alt="React" width="26px" src="https://api.iconify.design/akar-icons:react-fill.svg?color=%23c23616&height=26" />
 <img align="left" alt="NGINX" width="26px" src="https://api.iconify.design/cib:nginx.svg?color=%23c23616&height=26" />
 
 <br />
