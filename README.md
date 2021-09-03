@@ -49,11 +49,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/insertish/awesome-revolt/pull/22) in [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt)
-2. ❗️ Opened issue [#30](https://github.com/RevoltSocial/lists/issues/30) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
-3. 🏷️ Published release [v0.3.1](https://github.com/Dexare/Voltare/releases/tag/v0.3.1) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-4. 🏷️ Published release [v0.3.0](https://github.com/Dexare/Voltare/releases/tag/v0.3.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-5. 🎉 Merged PR [#14](https://github.com/ThatTonybo/Revolt-Discord-Theme/pull/14) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+1. 🏷️ Published release [v0.3.2](https://github.com/Dexare/Voltare/releases/tag/v0.3.2) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+2. 💪 Opened PR [#22](https://github.com/insertish/awesome-revolt/pull/22) in [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt)
+3. ❗️ Opened issue [#30](https://github.com/RevoltSocial/lists/issues/30) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
+4. 🏷️ Published release [v0.3.1](https://github.com/Dexare/Voltare/releases/tag/v0.3.1) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. 🏷️ Published release [v0.3.0](https://github.com/Dexare/Voltare/releases/tag/v0.3.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
