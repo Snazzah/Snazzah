@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#180](https://github.com/revoltchat/revite/pull/180) in [revoltchat/revite](https://github.com/revoltchat/revite)
-2. 💪 Opened PR [#179](https://github.com/revoltchat/revite/pull/179) in [revoltchat/revite](https://github.com/revoltchat/revite)
-3. 💪 Opened PR [#178](https://github.com/revoltchat/revite/pull/178) in [revoltchat/revite](https://github.com/revoltchat/revite)
-4. 🏷️ Published release [v0.3.2](https://github.com/Dexare/Voltare/releases/tag/v0.3.2) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-5. 💪 Opened PR [#22](https://github.com/insertish/awesome-revolt/pull/22) in [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt)
+1. 💪 Opened PR [#1](https://github.com/revoltchat/translations/pull/1) in [revoltchat/translations](https://github.com/revoltchat/translations)
+2. 💪 Opened PR [#180](https://github.com/revoltchat/revite/pull/180) in [revoltchat/revite](https://github.com/revoltchat/revite)
+3. 💪 Opened PR [#179](https://github.com/revoltchat/revite/pull/179) in [revoltchat/revite](https://github.com/revoltchat/revite)
+4. 💪 Opened PR [#178](https://github.com/revoltchat/revite/pull/178) in [revoltchat/revite](https://github.com/revoltchat/revite)
+5. 🏷️ Published release [v0.3.2](https://github.com/Dexare/Voltare/releases/tag/v0.3.2) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
