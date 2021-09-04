@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/revoltchat/translations/pull/3) in [revoltchat/translations](https://github.com/revoltchat/translations)
-2. 💪 Opened PR [#2](https://github.com/revoltchat/translations/pull/2) in [revoltchat/translations](https://github.com/revoltchat/translations)
-3. 💪 Opened PR [#8](https://github.com/revoltchat/revolt.js/pull/8) in [revoltchat/revolt.js](https://github.com/revoltchat/revolt.js)
-4. 💪 Opened PR [#1](https://github.com/revoltchat/translations/pull/1) in [revoltchat/translations](https://github.com/revoltchat/translations)
-5. 💪 Opened PR [#180](https://github.com/revoltchat/revite/pull/180) in [revoltchat/revite](https://github.com/revoltchat/revite)
+1. 💪 Opened PR [#181](https://github.com/revoltchat/revite/pull/181) in [revoltchat/revite](https://github.com/revoltchat/revite)
+2. 💪 Opened PR [#3](https://github.com/revoltchat/translations/pull/3) in [revoltchat/translations](https://github.com/revoltchat/translations)
+3. 💪 Opened PR [#2](https://github.com/revoltchat/translations/pull/2) in [revoltchat/translations](https://github.com/revoltchat/translations)
+4. 💪 Opened PR [#8](https://github.com/revoltchat/revolt.js/pull/8) in [revoltchat/revolt.js](https://github.com/revoltchat/revolt.js)
+5. 💪 Opened PR [#1](https://github.com/revoltchat/translations/pull/1) in [revoltchat/translations](https://github.com/revoltchat/translations)
 <!--END_SECTION:activity-->
 
 ---
