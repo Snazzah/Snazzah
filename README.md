@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+1. ❗️ Opened issue [#17](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/17) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
 2. 🗣 Commented on [#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
-3. 💪 Opened PR [#181](https://github.com/revoltchat/revite/pull/181) in [revoltchat/revite](https://github.com/revoltchat/revite)
-4. 💪 Opened PR [#3](https://github.com/revoltchat/translations/pull/3) in [revoltchat/translations](https://github.com/revoltchat/translations)
-5. 💪 Opened PR [#2](https://github.com/revoltchat/translations/pull/2) in [revoltchat/translations](https://github.com/revoltchat/translations)
+3. 🗣 Commented on [#16](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/16) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+4. 💪 Opened PR [#181](https://github.com/revoltchat/revite/pull/181) in [revoltchat/revite](https://github.com/revoltchat/revite)
+5. 💪 Opened PR [#3](https://github.com/revoltchat/translations/pull/3) in [revoltchat/translations](https://github.com/revoltchat/translations)
 <!--END_SECTION:activity-->
 
 ---
