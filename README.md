@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/trello-talk/WebhookAPI/issues/67) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-2. 🗣 Commented on [#118](https://github.com/Snazzah/slash-create/issues/118) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#117](https://github.com/Snazzah/slash-create/issues/117) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v1.0.2](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.2) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-5. ❗️ Opened issue [#17](https://github.com/ThatTonybo/Revolt-Discord-Theme/issues/17) in [ThatTonybo/Revolt-Discord-Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme)
+1. 💪 Opened PR [#204](https://github.com/revoltchat/revite/pull/204) in [revoltchat/revite](https://github.com/revoltchat/revite)
+2. 🗣 Commented on [#67](https://github.com/trello-talk/WebhookAPI/issues/67) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+3. 🗣 Commented on [#118](https://github.com/Snazzah/slash-create/issues/118) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#117](https://github.com/Snazzah/slash-create/issues/117) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v1.0.2](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.0.2) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
 <!--END_SECTION:activity-->
 
 ---
