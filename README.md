@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#120](https://github.com/Snazzah/slash-create/pull/120) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#204](https://github.com/revoltchat/revite/pull/204) in [revoltchat/revite](https://github.com/revoltchat/revite)
-3. 🗣 Commented on [#67](https://github.com/trello-talk/WebhookAPI/issues/67) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-4. 🗣 Commented on [#118](https://github.com/Snazzah/slash-create/issues/118) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#117](https://github.com/Snazzah/slash-create/issues/117) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#215](https://github.com/revoltchat/revite/pull/215) in [revoltchat/revite](https://github.com/revoltchat/revite)
+2. 🎉 Merged PR [#120](https://github.com/Snazzah/slash-create/pull/120) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#204](https://github.com/revoltchat/revite/pull/204) in [revoltchat/revite](https://github.com/revoltchat/revite)
+4. 🗣 Commented on [#67](https://github.com/trello-talk/WebhookAPI/issues/67) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+5. 🗣 Commented on [#118](https://github.com/Snazzah/slash-create/issues/118) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
