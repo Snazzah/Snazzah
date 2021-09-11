@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#215](https://github.com/revoltchat/revite/pull/215) in [revoltchat/revite](https://github.com/revoltchat/revite)
-3. 💪 Opened PR [#215](https://github.com/revoltchat/revite/pull/215) in [revoltchat/revite](https://github.com/revoltchat/revite)
-4. 🎉 Merged PR [#120](https://github.com/Snazzah/slash-create/pull/120) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#204](https://github.com/revoltchat/revite/pull/204) in [revoltchat/revite](https://github.com/revoltchat/revite)
+1. 🏷️ Published release [v0.3.3](https://github.com/Dexare/Voltare/releases/tag/v0.3.3) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+2. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#215](https://github.com/revoltchat/revite/pull/215) in [revoltchat/revite](https://github.com/revoltchat/revite)
+4. 💪 Opened PR [#215](https://github.com/revoltchat/revite/pull/215) in [revoltchat/revite](https://github.com/revoltchat/revite)
+5. 🎉 Merged PR [#120](https://github.com/Snazzah/slash-create/pull/120) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
