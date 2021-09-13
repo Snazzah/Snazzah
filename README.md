@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#121](https://github.com/Snazzah/slash-create/pull/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v4.1.0](https://github.com/Snazzah/slash-create/releases/tag/v4.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#121](https://github.com/Snazzah/slash-create/pull/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 3. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#5](https://github.com/Dexare/Voltare/issues/5) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
