@@ -51,10 +51,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#5](https://github.com/Dexare/Voltare/issues/5) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-3. 🗣 Commented on [#5](https://github.com/Dexare/Voltare/issues/5) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-4. 🏷️ Published release [v0.3.4](https://github.com/Dexare/Voltare/releases/tag/v0.3.4) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-5. 🏷️ Published release [v0.3.3](https://github.com/Dexare/Voltare/releases/tag/v0.3.3) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+2. 🗣 Commented on [#121](https://github.com/Snazzah/slash-create/issues/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#5](https://github.com/Dexare/Voltare/issues/5) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+4. 🗣 Commented on [#5](https://github.com/Dexare/Voltare/issues/5) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. 🏷️ Published release [v0.3.4](https://github.com/Dexare/Voltare/releases/tag/v0.3.4) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
