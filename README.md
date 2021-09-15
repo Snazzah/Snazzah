@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Dexare/Voltare/issues/6) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-2. 🏷️ Published release [v2.1.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🏷️ Published release [v4.1.1](https://github.com/Snazzah/slash-create/releases/tag/v4.1.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v4.1.0](https://github.com/Snazzah/slash-create/releases/tag/v4.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🎉 Merged PR [#121](https://github.com/Snazzah/slash-create/pull/121) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v2.1.4](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.4) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. ❗️ Opened issue [#6](https://github.com/Dexare/Voltare/issues/6) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+3. 🏷️ Published release [v2.1.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🏷️ Published release [v4.1.1](https://github.com/Snazzah/slash-create/releases/tag/v4.1.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v4.1.0](https://github.com/Snazzah/slash-create/releases/tag/v4.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
