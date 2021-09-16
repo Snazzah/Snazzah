@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.1.4](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.4) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-2. ❗️ Opened issue [#6](https://github.com/Dexare/Voltare/issues/6) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-3. 🏷️ Published release [v2.1.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. 🏷️ Published release [v4.1.1](https://github.com/Snazzah/slash-create/releases/tag/v4.1.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v4.1.0](https://github.com/Snazzah/slash-create/releases/tag/v4.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ❗️ Opened issue [#60](https://github.com/RevoltSocial/lists/issues/60) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
+2. 🗣 Commented on [#5](https://github.com/BotBoyTeam/BotBoyRevolt/issues/5) in [BotBoyTeam/BotBoyRevolt](https://github.com/BotBoyTeam/BotBoyRevolt)
+3. 🏷️ Published release [v2.1.4](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.4) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. ❗️ Opened issue [#6](https://github.com/Dexare/Voltare/issues/6) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. 🏷️ Published release [v2.1.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
