@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4367](https://github.com/PreMiD/Presences/pull/4367) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 🗣 Commented on [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Opened issue [#60](https://github.com/RevoltSocial/lists/issues/60) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
-4. 🗣 Commented on [#5](https://github.com/BotBoyTeam/BotBoyRevolt/issues/5) in [BotBoyTeam/BotBoyRevolt](https://github.com/BotBoyTeam/BotBoyRevolt)
-5. 🏷️ Published release [v2.1.4](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.4) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#4368](https://github.com/PreMiD/Presences/pull/4368) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 💪 Opened PR [#4367](https://github.com/PreMiD/Presences/pull/4367) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 🗣 Commented on [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Opened issue [#60](https://github.com/RevoltSocial/lists/issues/60) in [RevoltSocial/lists](https://github.com/RevoltSocial/lists)
+5. 🗣 Commented on [#5](https://github.com/BotBoyTeam/BotBoyRevolt/issues/5) in [BotBoyTeam/BotBoyRevolt](https://github.com/BotBoyTeam/BotBoyRevolt)
 <!--END_SECTION:activity-->
 
 ---
