@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#134](https://github.com/Snazzah/slash-create/pull/134) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#134](https://github.com/Snazzah/slash-create/pull/134) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#4368](https://github.com/PreMiD/Presences/pull/4368) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. 🗣 Commented on [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ✔️ Reviewed [#319](https://github.com/dbots-pkg/dbots.js/pull/319) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+1. 🏷️ Published release [v4.2.0](https://github.com/Snazzah/slash-create/releases/tag/v4.2.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#134](https://github.com/Snazzah/slash-create/pull/134) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#134](https://github.com/Snazzah/slash-create/pull/134) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#4368](https://github.com/PreMiD/Presences/pull/4368) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. 🗣 Commented on [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
