@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#143](https://github.com/xelA/bucket/issues/143) in [xelA/bucket](https://github.com/xelA/bucket)
-2. 🏷️ Published release [v2.1.5](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.5) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 💪 Opened PR [#1](https://github.com/xelA/html_preview/pull/1) in [xelA/html_preview](https://github.com/xelA/html_preview)
-4. 🎉 Merged PR [#143](https://github.com/Snazzah/slash-create/pull/143) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#142](https://github.com/Snazzah/slash-create/issues/142) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ❗️ Opened issue [#144](https://github.com/xelA/bucket/issues/144) in [xelA/bucket](https://github.com/xelA/bucket)
+2. ❗️ Opened issue [#143](https://github.com/xelA/bucket/issues/143) in [xelA/bucket](https://github.com/xelA/bucket)
+3. 🏷️ Published release [v2.1.5](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.5) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 💪 Opened PR [#1](https://github.com/xelA/html_preview/pull/1) in [xelA/html_preview](https://github.com/xelA/html_preview)
+5. 🎉 Merged PR [#143](https://github.com/Snazzah/slash-create/pull/143) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
