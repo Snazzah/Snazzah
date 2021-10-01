@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/xelA/html_png/pull/2) in [xelA/html_png](https://github.com/xelA/html_png)
-2. ❗️ Opened issue [#144](https://github.com/xelA/bucket/issues/144) in [xelA/bucket](https://github.com/xelA/bucket)
-3. ❗️ Opened issue [#143](https://github.com/xelA/bucket/issues/143) in [xelA/bucket](https://github.com/xelA/bucket)
-4. 🏷️ Published release [v2.1.5](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.5) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 💪 Opened PR [#1](https://github.com/xelA/html_preview/pull/1) in [xelA/html_preview](https://github.com/xelA/html_preview)
+1. 💪 Opened PR [#3](https://github.com/xelA/html_png/pull/3) in [xelA/html_png](https://github.com/xelA/html_png)
+2. 💪 Opened PR [#2](https://github.com/xelA/html_png/pull/2) in [xelA/html_png](https://github.com/xelA/html_png)
+3. ❗️ Opened issue [#144](https://github.com/xelA/bucket/issues/144) in [xelA/bucket](https://github.com/xelA/bucket)
+4. ❗️ Opened issue [#143](https://github.com/xelA/bucket/issues/143) in [xelA/bucket](https://github.com/xelA/bucket)
+5. 🏷️ Published release [v2.1.5](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.5) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
