@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/xelA/html_png/pull/3) in [xelA/html_png](https://github.com/xelA/html_png)
-2. 💪 Opened PR [#2](https://github.com/xelA/html_png/pull/2) in [xelA/html_png](https://github.com/xelA/html_png)
-3. ❗️ Opened issue [#144](https://github.com/xelA/bucket/issues/144) in [xelA/bucket](https://github.com/xelA/bucket)
-4. ❗️ Opened issue [#143](https://github.com/xelA/bucket/issues/143) in [xelA/bucket](https://github.com/xelA/bucket)
-5. 🏷️ Published release [v2.1.5](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.1.5) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 🗣 Commented on [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#144](https://github.com/Snazzah/slash-create/issues/144) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#144](https://github.com/Snazzah/slash-create/issues/144) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#145](https://github.com/Snazzah/slash-create/pull/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ✔️ Reviewed [#145](https://github.com/Snazzah/slash-create/pull/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
