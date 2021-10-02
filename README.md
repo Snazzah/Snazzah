@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#145](https://github.com/Snazzah/slash-create/pull/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#146](https://github.com/Snazzah/slash-create/pull/146) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#146](https://github.com/Snazzah/slash-create/pull/146) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#144](https://github.com/Snazzah/slash-create/issues/144) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#112](https://github.com/skyra-project/discord-components/issues/112) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+2. 💪 Opened PR [#150](https://github.com/skyra-project/discord-components/pull/150) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+3. ✔️ Reviewed [#145](https://github.com/Snazzah/slash-create/pull/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#146](https://github.com/Snazzah/slash-create/pull/146) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ✔️ Reviewed [#146](https://github.com/Snazzah/slash-create/pull/146) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
