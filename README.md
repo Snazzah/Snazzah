@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#333](https://github.com/dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-2. 🗣 Commented on [#332](https://github.com/dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-3. 💪 Opened PR [#320](https://github.com/revoltchat/revite/pull/320) in [revoltchat/revite](https://github.com/revoltchat/revite)
-4. 🗣 Commented on [#145](https://github.com/Snazzah/slash-create/issues/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🎉 Merged PR [#147](https://github.com/Snazzah/slash-create/pull/147) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ✔️ Reviewed [#334](https://github.com/dbots-pkg/dbots.js/pull/334) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+2. 🗣 Commented on [#333](https://github.com/dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+3. 🗣 Commented on [#332](https://github.com/dbots-pkg/dbots.js/issues/332) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+4. 💪 Opened PR [#320](https://github.com/revoltchat/revite/pull/320) in [revoltchat/revite](https://github.com/revoltchat/revite)
+5. 🗣 Commented on [#145](https://github.com/Snazzah/slash-create/issues/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
