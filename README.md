@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v4.3.0](https://github.com/Snazzah/slash-create/releases/tag/v4.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#145](https://github.com/Snazzah/slash-create/pull/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#153](https://github.com/Snazzah/slash-create/pull/153) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#334](https://github.com/dbots-pkg/dbots.js/pull/334) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-5. 🗣 Commented on [#333](https://github.com/dbots-pkg/dbots.js/issues/333) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+1. 🎉 Merged PR [#25](https://github.com/Snazzah/duck-duck-scrape/pull/25) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. 💪 Opened PR [#25](https://github.com/Snazzah/duck-duck-scrape/pull/25) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🏷️ Published release [v4.3.0](https://github.com/Snazzah/slash-create/releases/tag/v4.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#145](https://github.com/Snazzah/slash-create/pull/145) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#153](https://github.com/Snazzah/slash-create/pull/153) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
