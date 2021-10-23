@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#392](https://github.com/trello-talk/Taco/issues/392) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-2. 🗣 Commented on [#392](https://github.com/trello-talk/Taco/issues/392) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-3. 🗣 Commented on [#163](https://github.com/Snazzah/slash-create/issues/163) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#25](https://github.com/Snazzah/duck-duck-scrape/pull/25) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 💪 Opened PR [#25](https://github.com/Snazzah/duck-duck-scrape/pull/25) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 🗣 Commented on [#163](https://github.com/Snazzah/slash-create/issues/163) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#392](https://github.com/trello-talk/Taco/issues/392) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+3. 🗣 Commented on [#392](https://github.com/trello-talk/Taco/issues/392) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+4. 🗣 Commented on [#163](https://github.com/Snazzah/slash-create/issues/163) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#25](https://github.com/Snazzah/duck-duck-scrape/pull/25) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
