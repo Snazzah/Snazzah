@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#4](https://github.com/xelA/html_png/pull/4) in [xelA/html_png](https://github.com/xelA/html_png)
 2. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🗣 Commented on [#33](https://github.com/PhotoBoxPW/PhotoBoxRevolt/issues/33) in [PhotoBoxPW/PhotoBoxRevolt](https://github.com/PhotoBoxPW/PhotoBoxRevolt)
-4. 🗣 Commented on [#163](https://github.com/Snazzah/slash-create/issues/163) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#392](https://github.com/trello-talk/Taco/issues/392) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+3. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🗣 Commented on [#33](https://github.com/PhotoBoxPW/PhotoBoxRevolt/issues/33) in [PhotoBoxPW/PhotoBoxRevolt](https://github.com/PhotoBoxPW/PhotoBoxRevolt)
+5. 🗣 Commented on [#163](https://github.com/Snazzah/slash-create/issues/163) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
