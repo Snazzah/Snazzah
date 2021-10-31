@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/xelA/html_png/pull/4) in [xelA/html_png](https://github.com/xelA/html_png)
-2. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. 🗣 Commented on [#33](https://github.com/PhotoBoxPW/PhotoBoxRevolt/issues/33) in [PhotoBoxPW/PhotoBoxRevolt](https://github.com/PhotoBoxPW/PhotoBoxRevolt)
-5. 🗣 Commented on [#163](https://github.com/Snazzah/slash-create/issues/163) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+2. ❗️ Closed issue [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+3. 💪 Opened PR [#4](https://github.com/xelA/html_png/pull/4) in [xelA/html_png](https://github.com/xelA/html_png)
+4. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
