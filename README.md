@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/dbots-pkg/dbots.py/pull/16) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-2. ✔️ Reviewed [#10](https://github.com/Dexare/cron/pull/10) in [Dexare/cron](https://github.com/Dexare/cron)
-3. 🗣 Commented on [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-4. ❗️ Closed issue [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-5. 💪 Opened PR [#4](https://github.com/xelA/html_png/pull/4) in [xelA/html_png](https://github.com/xelA/html_png)
+1. 🗣 Commented on [#20](https://github.com/dbots-pkg/dbots.py/issues/20) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+2. 🗣 Commented on [#21](https://github.com/dbots-pkg/dbots.py/issues/21) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+3. 🗣 Commented on [#22](https://github.com/dbots-pkg/dbots.py/issues/22) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+4. 🗣 Commented on [#23](https://github.com/dbots-pkg/dbots.py/issues/23) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+5. 🗣 Commented on [#24](https://github.com/dbots-pkg/dbots.py/issues/24) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
 <!--END_SECTION:activity-->
 
 ---
