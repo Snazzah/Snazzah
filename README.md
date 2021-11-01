@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v4.0.0](https://github.com/dbots-pkg/dbots.py/releases/tag/v4.0.0) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-2. 🗣 Commented on [#18](https://github.com/dbots-pkg/dbots.py/issues/18) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-3. 🗣 Commented on [#20](https://github.com/dbots-pkg/dbots.py/issues/20) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-4. 🗣 Commented on [#21](https://github.com/dbots-pkg/dbots.py/issues/21) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-5. 🗣 Commented on [#22](https://github.com/dbots-pkg/dbots.py/issues/22) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+1. 🎉 Merged PR [#175](https://github.com/Snazzah/slash-create/pull/175) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#174](https://github.com/Snazzah/slash-create/issues/174) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🏷️ Published release [v4.0.0](https://github.com/dbots-pkg/dbots.py/releases/tag/v4.0.0) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+4. 🗣 Commented on [#18](https://github.com/dbots-pkg/dbots.py/issues/18) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+5. 🗣 Commented on [#20](https://github.com/dbots-pkg/dbots.py/issues/20) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
 <!--END_SECTION:activity-->
 
 ---
