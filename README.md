@@ -50,10 +50,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-2. ❗️ Closed issue [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
-3. 💪 Opened PR [#4](https://github.com/xelA/html_png/pull/4) in [xelA/html_png](https://github.com/xelA/html_png)
-4. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. ✔️ Reviewed [#10](https://github.com/Dexare/cron/pull/10) in [Dexare/cron](https://github.com/Dexare/cron)
+2. 🗣 Commented on [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+3. ❗️ Closed issue [#14](https://github.com/dbots-pkg/dbots.py/issues/14) in [dbots-pkg/dbots.py](https://github.com/dbots-pkg/dbots.py)
+4. 💪 Opened PR [#4](https://github.com/xelA/html_png/pull/4) in [xelA/html_png](https://github.com/xelA/html_png)
 5. 🏷️ Published release [v2.2.0](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.0) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
