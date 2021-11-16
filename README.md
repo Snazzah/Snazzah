@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v4.3.1](https://github.com/Snazzah/slash-create/releases/tag/v4.3.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#180](https://github.com/Snazzah/slash-create/issues/180) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#158](https://github.com/Snazzah/slash-create/issues/158) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ✔️ Reviewed [#158](https://github.com/Snazzah/slash-create/pull/158) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v4.3.1](https://github.com/Snazzah/slash-create/releases/tag/v4.3.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#180](https://github.com/Snazzah/slash-create/issues/180) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🗣 Commented on [#158](https://github.com/Snazzah/slash-create/issues/158) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#127](https://github.com/Snazzah/slash-create/issues/127) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#158](https://github.com/Snazzah/slash-create/issues/158) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
