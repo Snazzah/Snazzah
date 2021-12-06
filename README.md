@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/Snazzah/slash-create/pull/189) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#189](https://github.com/Snazzah/slash-create/pull/189) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ✔️ Reviewed [#189](https://github.com/Snazzah/slash-create/pull/189) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v4.4.0](https://github.com/Snazzah/slash-create/releases/tag/v4.4.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#189](https://github.com/Snazzah/slash-create/pull/189) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#189](https://github.com/Snazzah/slash-create/pull/189) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ✔️ Reviewed [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
