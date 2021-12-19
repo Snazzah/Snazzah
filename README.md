@@ -50,8 +50,8 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v8.0.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.0.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
-2. 🏷️ Published release [v4.4.0](https://github.com/Snazzah/slash-create/releases/tag/v4.4.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v4.4.1](https://github.com/Snazzah/slash-create/releases/tag/v4.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v8.0.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.0.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
 3. ✔️ Reviewed [#189](https://github.com/Snazzah/slash-create/pull/189) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🎉 Merged PR [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. ✔️ Reviewed [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
