@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v4.4.2](https://github.com/Snazzah/slash-create/releases/tag/v4.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v4.4.1](https://github.com/Snazzah/slash-create/releases/tag/v4.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🏷️ Published release [v8.0.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.0.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
-4. 🎉 Merged PR [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ✔️ Reviewed [#188](https://github.com/Snazzah/slash-create/pull/188) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/slash-up/releases/tag/v1.0.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/slash-up/releases/tag/v1.0.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/slash-up/releases/tag/v1.0.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. 🏷️ Published release [v4.4.2](https://github.com/Snazzah/slash-create/releases/tag/v4.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v4.4.1](https://github.com/Snazzah/slash-create/releases/tag/v4.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
