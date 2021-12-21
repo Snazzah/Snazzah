@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.0.3](https://github.com/Snazzah/slash-up/releases/tag/v1.0.3) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. 🎉 Merged PR [#1](https://github.com/Snazzah/slash-up/pull/1) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. 🏷️ Published release [v1.0.2](https://github.com/Snazzah/slash-up/releases/tag/v1.0.2) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-4. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/slash-up/releases/tag/v1.0.1) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-5. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/slash-up/releases/tag/v1.0.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+1. 🏷️ Published release [v1.0.5](https://github.com/Snazzah/slash-up/releases/tag/v1.0.5) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. 🏷️ Published release [v1.0.4](https://github.com/Snazzah/slash-up/releases/tag/v1.0.4) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. 🏷️ Published release [v1.0.3](https://github.com/Snazzah/slash-up/releases/tag/v1.0.3) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. 🎉 Merged PR [#1](https://github.com/Snazzah/slash-up/pull/1) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+5. 🏷️ Published release [v1.0.2](https://github.com/Snazzah/slash-up/releases/tag/v1.0.2) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
 <!--END_SECTION:activity-->
 
 ---
