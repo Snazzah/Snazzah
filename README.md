@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#533](https://github.com/Snazzah/PreMiDPresences/pull/533) in [Snazzah/PreMiDPresences](https://github.com/Snazzah/PreMiDPresences)
-2. 🏷️ Published release [v7.2.7](https://github.com/trello-talk/Taco/releases/tag/v7.2.7) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-3. 🏷️ Published release [v1.0.5](https://github.com/Snazzah/slash-up/releases/tag/v1.0.5) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-4. 🏷️ Published release [v1.0.4](https://github.com/Snazzah/slash-up/releases/tag/v1.0.4) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-5. 🏷️ Published release [v1.0.3](https://github.com/Snazzah/slash-up/releases/tag/v1.0.3) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+1. 💪 Opened PR [#5099](https://github.com/PreMiD/Presences/pull/5099) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. 🎉 Merged PR [#533](https://github.com/Snazzah/PreMiDPresences/pull/533) in [Snazzah/PreMiDPresences](https://github.com/Snazzah/PreMiDPresences)
+3. 🏷️ Published release [v7.2.7](https://github.com/trello-talk/Taco/releases/tag/v7.2.7) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+4. 🏷️ Published release [v1.0.5](https://github.com/Snazzah/slash-up/releases/tag/v1.0.5) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+5. 🏷️ Published release [v1.0.4](https://github.com/Snazzah/slash-up/releases/tag/v1.0.4) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
 <!--END_SECTION:activity-->
 
 ---
