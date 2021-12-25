@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-2. 🗣 Commented on [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. ❗️ Closed issue [#205](https://github.com/Snazzah/slash-create/issues/205) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#205](https://github.com/Snazzah/slash-create/issues/205) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v5.0.1](https://github.com/Snazzah/slash-create/releases/tag/v5.0.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+2. ❗️ Closed issue [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. 🗣 Commented on [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. ❗️ Closed issue [#205](https://github.com/Snazzah/slash-create/issues/205) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#205](https://github.com/Snazzah/slash-create/issues/205) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
