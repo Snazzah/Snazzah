@@ -51,10 +51,10 @@
 
 <!--START_SECTION:activity-->
 1. ✔️ Reviewed [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 🏷️ Published release [v1.0.6](https://github.com/Snazzah/slash-up/releases/tag/v1.0.6) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. 💪 Opened PR [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-4. ❗️ Closed issue [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. 🗣 Commented on [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. ✔️ Reviewed [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 🏷️ Published release [v1.0.6](https://github.com/Snazzah/slash-up/releases/tag/v1.0.6) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. 💪 Opened PR [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+5. ❗️ Closed issue [#82](https://github.com/Snazzah/SublimeDiscordRP/issues/82) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
