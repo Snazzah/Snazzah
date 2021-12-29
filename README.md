@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/Yahweasel/eris/pull/3) in [Yahweasel/eris](https://github.com/Yahweasel/eris)
-2. 🗣 Commented on [#5124](https://github.com/PreMiD/Presences/issues/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. ✔️ Reviewed [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 🏷️ Published release [v1.0.7](https://github.com/Snazzah/slash-up/releases/tag/v1.0.7) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. 💪 Opened PR [#3](https://github.com/Yahweasel/eris/pull/3) in [Yahweasel/eris](https://github.com/Yahweasel/eris)
+3. 🗣 Commented on [#5124](https://github.com/PreMiD/Presences/issues/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 4. ✔️ Reviewed [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-5. 🏷️ Published release [v1.0.6](https://github.com/Snazzah/slash-up/releases/tag/v1.0.6) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+5. ✔️ Reviewed [#5124](https://github.com/PreMiD/Presences/pull/5124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 ---
