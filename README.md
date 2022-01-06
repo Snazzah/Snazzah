@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#215](https://github.com/Snazzah/slash-create/pull/215) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#215](https://github.com/Snazzah/slash-create/pull/215) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🏷️ Published release [v1.0.10](https://github.com/Snazzah/slash-up/releases/tag/v1.0.10) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-4. 💪 Opened PR [#16](https://github.com/Yahweasel/craig/pull/16) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-5. 🏷️ Published release [v1.0.9](https://github.com/Snazzah/slash-up/releases/tag/v1.0.9) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+1. 🏷️ Published release [v5.0.2](https://github.com/Snazzah/slash-create/releases/tag/v5.0.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#215](https://github.com/Snazzah/slash-create/pull/215) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#215](https://github.com/Snazzah/slash-create/pull/215) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🏷️ Published release [v1.0.10](https://github.com/Snazzah/slash-up/releases/tag/v1.0.10) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+5. 💪 Opened PR [#16](https://github.com/Yahweasel/craig/pull/16) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
 <!--END_SECTION:activity-->
 
 ---
