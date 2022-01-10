@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#83](https://github.com/Snazzah/SublimeDiscordRP/issues/83) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-2. ❗️ Closed issue [#85](https://github.com/Snazzah/SublimeDiscordRP/issues/85) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. 🗣 Commented on [#85](https://github.com/Snazzah/SublimeDiscordRP/issues/85) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. 🏷️ Published release [v2.2.6](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.6) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. 🎉 Merged PR [#79](https://github.com/Snazzah/SublimeDiscordRP/pull/79) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 💪 Opened PR [#20](https://github.com/Yahweasel/craig/pull/20) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
+2. ❗️ Closed issue [#83](https://github.com/Snazzah/SublimeDiscordRP/issues/83) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. ❗️ Closed issue [#85](https://github.com/Snazzah/SublimeDiscordRP/issues/85) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. 🗣 Commented on [#85](https://github.com/Snazzah/SublimeDiscordRP/issues/85) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. 🏷️ Published release [v2.2.6](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.6) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
