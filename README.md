@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/Yahweasel/craig/pull/19) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-2. 💪 Opened PR [#18](https://github.com/Yahweasel/craig/pull/18) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-3. 💪 Opened PR [#17](https://github.com/Yahweasel/craig/pull/17) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-4. ✔️ Reviewed [#216](https://github.com/Snazzah/slash-create/pull/216) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ✔️ Reviewed [#216](https://github.com/Snazzah/slash-create/pull/216) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#86](https://github.com/Snazzah/SublimeDiscordRP/pull/86) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. ❗️ Closed issue [#77](https://github.com/Snazzah/SublimeDiscordRP/issues/77) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. 🗣 Commented on [#77](https://github.com/Snazzah/SublimeDiscordRP/issues/77) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. 💪 Opened PR [#19](https://github.com/Yahweasel/craig/pull/19) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
+5. 💪 Opened PR [#18](https://github.com/Yahweasel/craig/pull/18) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
 <!--END_SECTION:activity-->
 
 ---
