@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v5.0.3](https://github.com/Snazzah/slash-create/releases/tag/v5.0.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#29](https://github.com/Snazzah/VideoEmbedFix/issues/29) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
-3. 💪 Opened PR [#20](https://github.com/Yahweasel/craig/pull/20) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-4. ❗️ Closed issue [#83](https://github.com/Snazzah/SublimeDiscordRP/issues/83) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. ❗️ Closed issue [#85](https://github.com/Snazzah/SublimeDiscordRP/issues/85) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🎉 Merged PR [#216](https://github.com/Snazzah/slash-create/pull/216) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v5.0.3](https://github.com/Snazzah/slash-create/releases/tag/v5.0.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#29](https://github.com/Snazzah/VideoEmbedFix/issues/29) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
+4. 💪 Opened PR [#20](https://github.com/Yahweasel/craig/pull/20) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
+5. ❗️ Closed issue [#83](https://github.com/Snazzah/SublimeDiscordRP/issues/83) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
