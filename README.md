@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-2. 💪 Opened PR [#21](https://github.com/Yahweasel/craig/pull/21) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-3. 🎉 Merged PR [#216](https://github.com/Snazzah/slash-create/pull/216) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v5.0.3](https://github.com/Snazzah/slash-create/releases/tag/v5.0.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#29](https://github.com/Snazzah/VideoEmbedFix/issues/29) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
+1. ❗️ Opened issue [#2](https://github.com/PhotoBoxPW/slash-commands/issues/2) in [PhotoBoxPW/slash-commands](https://github.com/PhotoBoxPW/slash-commands)
+2. ❗️ Opened issue [#1](https://github.com/PhotoBoxPW/slash-commands/issues/1) in [PhotoBoxPW/slash-commands](https://github.com/PhotoBoxPW/slash-commands)
+3. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+4. 💪 Opened PR [#21](https://github.com/Yahweasel/craig/pull/21) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
+5. 🎉 Merged PR [#216](https://github.com/Snazzah/slash-create/pull/216) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
