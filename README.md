@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/PhotoBoxPW/slash-commands/issues/2) in [PhotoBoxPW/slash-commands](https://github.com/PhotoBoxPW/slash-commands)
-2. ❗️ Opened issue [#1](https://github.com/PhotoBoxPW/slash-commands/issues/1) in [PhotoBoxPW/slash-commands](https://github.com/PhotoBoxPW/slash-commands)
-3. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-4. 💪 Opened PR [#21](https://github.com/Yahweasel/craig/pull/21) in [Yahweasel/craig](https://github.com/Yahweasel/craig)
-5. 🎉 Merged PR [#216](https://github.com/Snazzah/slash-create/pull/216) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ❗️ Closed issue [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Opened issue [#2](https://github.com/PhotoBoxPW/slash-commands/issues/2) in [PhotoBoxPW/slash-commands](https://github.com/PhotoBoxPW/slash-commands)
+4. ❗️ Opened issue [#1](https://github.com/PhotoBoxPW/slash-commands/issues/1) in [PhotoBoxPW/slash-commands](https://github.com/PhotoBoxPW/slash-commands)
+5. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
