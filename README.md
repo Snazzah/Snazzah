@@ -52,9 +52,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 2. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#34](https://github.com/trello-talk/tacobot.app/issues/34) in [trello-talk/tacobot.app](https://github.com/trello-talk/tacobot.app)
-4. 🗣 Commented on [#33](https://github.com/Snazzah/VideoEmbedFix/issues/33) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
-5. ❗️ Closed issue [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#34](https://github.com/trello-talk/tacobot.app/issues/34) in [trello-talk/tacobot.app](https://github.com/trello-talk/tacobot.app)
+5. 🗣 Commented on [#33](https://github.com/Snazzah/VideoEmbedFix/issues/33) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
 <!--END_SECTION:activity-->
 
 ---
