@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#385](https://github.com/dbots-pkg/dbots.js/pull/385) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-2. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v1.0.11](https://github.com/Snazzah/slash-up/releases/tag/v1.0.11) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. ✔️ Reviewed [#385](https://github.com/dbots-pkg/dbots.js/pull/385) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
 3. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#34](https://github.com/trello-talk/tacobot.app/issues/34) in [trello-talk/tacobot.app](https://github.com/trello-talk/tacobot.app)
+5. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
