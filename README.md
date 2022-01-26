@@ -50,10 +50,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/trello-talk/tacobot.app/issues/39) in [trello-talk/tacobot.app](https://github.com/trello-talk/tacobot.app)
-2. 🏷️ Published release [v1.0.11](https://github.com/Snazzah/slash-up/releases/tag/v1.0.11) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#23](https://github.com/CraigChat/craig/pull/23) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. 💪 Opened PR [#23](https://github.com/CraigChat/craig/pull/23) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. 🗣 Commented on [#39](https://github.com/trello-talk/tacobot.app/issues/39) in [trello-talk/tacobot.app](https://github.com/trello-talk/tacobot.app)
+4. 🏷️ Published release [v1.0.11](https://github.com/Snazzah/slash-up/releases/tag/v1.0.11) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
 5. 🗣 Commented on [#221](https://github.com/Snazzah/slash-create/issues/221) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
