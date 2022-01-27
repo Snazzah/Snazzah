@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#232](https://github.com/Snazzah/slash-create/issues/232) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#232](https://github.com/Snazzah/slash-create/issues/232) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#23](https://github.com/CraigChat/craig/pull/23) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. 💪 Opened PR [#23](https://github.com/CraigChat/craig/pull/23) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. 🗣 Commented on [#39](https://github.com/trello-talk/tacobot.app/issues/39) in [trello-talk/tacobot.app](https://github.com/trello-talk/tacobot.app)
+1. 🗣 Commented on [#231](https://github.com/Snazzah/slash-create/issues/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#232](https://github.com/Snazzah/slash-create/issues/232) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#232](https://github.com/Snazzah/slash-create/issues/232) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#23](https://github.com/CraigChat/craig/pull/23) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 💪 Opened PR [#23](https://github.com/CraigChat/craig/pull/23) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
