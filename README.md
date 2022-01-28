@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#231](https://github.com/Snazzah/slash-create/pull/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#231](https://github.com/Snazzah/slash-create/issues/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#231](https://github.com/Snazzah/slash-create/issues/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#232](https://github.com/Snazzah/slash-create/issues/232) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#232](https://github.com/Snazzah/slash-create/issues/232) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v2.2.0](https://github.com/Dexare/Dexare/releases/tag/v2.2.0) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+2. 🏷️ Published release [v2.2.0](https://github.com/Dexare/Dexare/releases/tag/v2.2.0) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+3. 🎉 Merged PR [#231](https://github.com/Snazzah/slash-create/pull/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#231](https://github.com/Snazzah/slash-create/issues/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#231](https://github.com/Snazzah/slash-create/issues/231) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
