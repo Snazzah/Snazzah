@@ -51,10 +51,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v2.2.2](https://github.com/Dexare/Dexare/releases/tag/v2.2.2) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-3. 🏷️ Published release [v1.0.1](https://github.com/Dexare/logger/releases/tag/v1.0.1) in [Dexare/logger](https://github.com/Dexare/logger)
-4. 🏷️ Published release [v1.0.1](https://github.com/Dexare/logger/releases/tag/v1.0.1) in [Dexare/logger](https://github.com/Dexare/logger)
-5. 🏷️ Published release [v2.2.1](https://github.com/Dexare/Dexare/releases/tag/v2.2.1) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+2. ❗️ Closed issue [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🏷️ Published release [v2.2.2](https://github.com/Dexare/Dexare/releases/tag/v2.2.2) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+5. 🏷️ Published release [v1.0.1](https://github.com/Dexare/logger/releases/tag/v1.0.1) in [Dexare/logger](https://github.com/Dexare/logger)
 <!--END_SECTION:activity-->
 
 ---
