@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v2.2.2](https://github.com/Dexare/Dexare/releases/tag/v2.2.2) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-5. 🏷️ Published release [v1.0.1](https://github.com/Dexare/logger/releases/tag/v1.0.1) in [Dexare/logger](https://github.com/Dexare/logger)
+1. 🗣 Commented on [#15](https://github.com/Snazzah/lbry.org/issues/15) in [Snazzah/lbry.org](https://github.com/Snazzah/lbry.org)
+2. 🗣 Commented on [#42](https://github.com/Snazzah/VideoEmbedFix/issues/42) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
+3. 🗣 Commented on [#211](https://github.com/trello-talk/WebhookAPI/issues/211) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+4. 🗣 Commented on [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
