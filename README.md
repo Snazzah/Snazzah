@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33](https://github.com/Snazzah/duck-duck-scrape/issues/33) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-2. 🗣 Commented on [#15](https://github.com/Snazzah/lbry.org/issues/15) in [Snazzah/lbry.org](https://github.com/Snazzah/lbry.org)
-3. 🗣 Commented on [#42](https://github.com/Snazzah/VideoEmbedFix/issues/42) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
-4. 🗣 Commented on [#211](https://github.com/trello-talk/WebhookAPI/issues/211) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-5. 🗣 Commented on [#234](https://github.com/Snazzah/slash-create/issues/234) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v2.2.1](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.1) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. ❗️ Closed issue [#33](https://github.com/Snazzah/duck-duck-scrape/issues/33) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🗣 Commented on [#33](https://github.com/Snazzah/duck-duck-scrape/issues/33) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🗣 Commented on [#15](https://github.com/Snazzah/lbry.org/issues/15) in [Snazzah/lbry.org](https://github.com/Snazzah/lbry.org)
+5. 🗣 Commented on [#42](https://github.com/Snazzah/VideoEmbedFix/issues/42) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
 <!--END_SECTION:activity-->
 
 ---
