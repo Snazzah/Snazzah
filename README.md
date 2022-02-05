@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v5.1.0](https://github.com/Snazzah/slash-create/releases/tag/v5.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#222](https://github.com/trello-talk/WebhookAPI/issues/222) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-3. 🏷️ Published release [v2.2.1](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.1) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. ❗️ Closed issue [#33](https://github.com/Snazzah/duck-duck-scrape/issues/33) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 🗣 Commented on [#33](https://github.com/Snazzah/duck-duck-scrape/issues/33) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#26](https://github.com/CraigChat/craig/pull/26) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. 🏷️ Published release [v5.1.0](https://github.com/Snazzah/slash-create/releases/tag/v5.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#222](https://github.com/trello-talk/WebhookAPI/issues/222) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+4. 🏷️ Published release [v2.2.1](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.1) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. ❗️ Closed issue [#33](https://github.com/Snazzah/duck-duck-scrape/issues/33) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
