@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
-2. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
-3. 🎉 Merged PR [#26](https://github.com/CraigChat/craig/pull/26) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. 💪 Opened PR [#26](https://github.com/CraigChat/craig/pull/26) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. 🏷️ Published release [v5.1.0](https://github.com/Snazzah/slash-create/releases/tag/v5.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
+2. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
+3. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
+4. 🎉 Merged PR [#26](https://github.com/CraigChat/craig/pull/26) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 💪 Opened PR [#26](https://github.com/CraigChat/craig/pull/26) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
