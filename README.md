@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
-2. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
-3. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
-4. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
-5. 🎉 Merged PR [#26](https://github.com/CraigChat/craig/pull/26) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. 🗣 Commented on [#45](https://github.com/Snazzah/VideoEmbedFix/issues/45) in [Snazzah/VideoEmbedFix](https://github.com/Snazzah/VideoEmbedFix)
+2. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
+3. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
+4. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
+5. 💪 Opened PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
 <!--END_SECTION:activity-->
 
 ---
