@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/Snazzah/slash-create/pull/217) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel/pull/1) in [CraigChat/ennuizel](https://github.com/CraigChat/ennuizel)
-5. 🎉 Merged PR [#1](https://github.com/CraigChat/ennuizel-craig-plugin/pull/1) in [CraigChat/ennuizel-craig-plugin](https://github.com/CraigChat/ennuizel-craig-plugin)
+1. 🎉 Merged PR [#245](https://github.com/Snazzah/slash-create/pull/245) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#245](https://github.com/Snazzah/slash-create/pull/245) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#217](https://github.com/Snazzah/slash-create/pull/217) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
