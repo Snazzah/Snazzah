@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#247](https://github.com/Snazzah/slash-create/issues/247) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#242](https://github.com/railwayapp/starters/pull/242) in [railwayapp/starters](https://github.com/railwayapp/starters)
-5. 🏷️ Published release [v5.2.0](https://github.com/Snazzah/slash-create/releases/tag/v5.2.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v5.2.1](https://github.com/Snazzah/slash-create/releases/tag/v5.2.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#247](https://github.com/Snazzah/slash-create/issues/247) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#242](https://github.com/railwayapp/starters/pull/242) in [railwayapp/starters](https://github.com/railwayapp/starters)
 <!--END_SECTION:activity-->
 
 ---
