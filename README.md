@@ -50,10 +50,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5788](https://github.com/PreMiD/Presences/pull/5788) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 🏷️ Published release [v5.2.1](https://github.com/Snazzah/slash-create/releases/tag/v5.2.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#247](https://github.com/Snazzah/slash-create/issues/247) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#1](https://github.com/Snazzah/slash-create-vercel/issues/1) in [Snazzah/slash-create-vercel](https://github.com/Snazzah/slash-create-vercel)
+2. 💪 Opened PR [#5788](https://github.com/PreMiD/Presences/pull/5788) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 🏷️ Published release [v5.2.1](https://github.com/Snazzah/slash-create/releases/tag/v5.2.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#247](https://github.com/Snazzah/slash-create/issues/247) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. ✔️ Reviewed [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
