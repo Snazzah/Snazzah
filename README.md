@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Snazzah/slash-create-vercel/issues/1) in [Snazzah/slash-create-vercel](https://github.com/Snazzah/slash-create-vercel)
-2. 💪 Opened PR [#5788](https://github.com/PreMiD/Presences/pull/5788) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. 🏷️ Published release [v5.2.1](https://github.com/Snazzah/slash-create/releases/tag/v5.2.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#247](https://github.com/Snazzah/slash-create/issues/247) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ✔️ Reviewed [#246](https://github.com/Snazzah/slash-create/pull/246) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/MediaSessionMaster/releases/tag/v1.2.1) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
+2. ❗️ Closed issue [#2](https://github.com/Snazzah/MediaSessionMaster/issues/2) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
+3. 🗣 Commented on [#2](https://github.com/Snazzah/MediaSessionMaster/issues/2) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
+4. 🗣 Commented on [#1](https://github.com/Snazzah/slash-create-vercel/issues/1) in [Snazzah/slash-create-vercel](https://github.com/Snazzah/slash-create-vercel)
+5. 💪 Opened PR [#5788](https://github.com/PreMiD/Presences/pull/5788) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
 <!--END_SECTION:activity-->
 
 ---
