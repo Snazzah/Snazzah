@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/MediaSessionMaster/releases/tag/v1.2.1) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
-2. ❗️ Closed issue [#2](https://github.com/Snazzah/MediaSessionMaster/issues/2) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
-3. 🗣 Commented on [#2](https://github.com/Snazzah/MediaSessionMaster/issues/2) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
-4. 🗣 Commented on [#1](https://github.com/Snazzah/slash-create-vercel/issues/1) in [Snazzah/slash-create-vercel](https://github.com/Snazzah/slash-create-vercel)
-5. 💪 Opened PR [#5788](https://github.com/PreMiD/Presences/pull/5788) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+1. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.7) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. ❗️ Closed issue [#88](https://github.com/Snazzah/SublimeDiscordRP/issues/88) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. ❗️ Closed issue [#89](https://github.com/Snazzah/SublimeDiscordRP/issues/89) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/MediaSessionMaster/releases/tag/v1.2.1) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
+5. ❗️ Closed issue [#2](https://github.com/Snazzah/MediaSessionMaster/issues/2) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
 <!--END_SECTION:activity-->
 
 ---
