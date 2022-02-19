@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.7) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-2. ❗️ Closed issue [#88](https://github.com/Snazzah/SublimeDiscordRP/issues/88) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. ❗️ Closed issue [#89](https://github.com/Snazzah/SublimeDiscordRP/issues/89) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/MediaSessionMaster/releases/tag/v1.2.1) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
-5. ❗️ Closed issue [#2](https://github.com/Snazzah/MediaSessionMaster/issues/2) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
+1. 🏷️ Published release [v2.2.3](https://github.com/Dexare/Dexare/releases/tag/v2.2.3) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+2. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.7) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. ❗️ Closed issue [#88](https://github.com/Snazzah/SublimeDiscordRP/issues/88) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. ❗️ Closed issue [#89](https://github.com/Snazzah/SublimeDiscordRP/issues/89) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/MediaSessionMaster/releases/tag/v1.2.1) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
 <!--END_SECTION:activity-->
 
 ---
