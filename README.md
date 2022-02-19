@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.2.3](https://github.com/Dexare/Dexare/releases/tag/v2.2.3) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-2. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.7) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. ❗️ Closed issue [#88](https://github.com/Snazzah/SublimeDiscordRP/issues/88) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. ❗️ Closed issue [#89](https://github.com/Snazzah/SublimeDiscordRP/issues/89) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/MediaSessionMaster/releases/tag/v1.2.1) in [Snazzah/MediaSessionMaster](https://github.com/Snazzah/MediaSessionMaster)
+1. ❗️ Closed issue [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+2. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+3. 🏷️ Published release [v1.0.0](https://github.com/Dexare/Voltare/releases/tag/v1.0.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+4. 🏷️ Published release [v2.2.3](https://github.com/Dexare/Dexare/releases/tag/v2.2.3) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+5. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.7) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
