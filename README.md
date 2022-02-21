@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-2. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-3. 🏷️ Published release [v1.0.0](https://github.com/Dexare/Voltare/releases/tag/v1.0.0) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-4. 🏷️ Published release [v2.2.3](https://github.com/Dexare/Dexare/releases/tag/v2.2.3) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-5. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.7) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🎉 Merged PR [#26](https://github.com/Dexare/Voltare/pull/26) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+2. 🏷️ Published release [v1.0.1](https://github.com/Dexare/Voltare/releases/tag/v1.0.1) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+3. 🎉 Merged PR [#25](https://github.com/Dexare/Voltare/pull/25) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+4. ❗️ Closed issue [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. 🗣 Commented on [#20](https://github.com/Dexare/Voltare/issues/20) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
