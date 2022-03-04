@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#261](https://github.com/trello-talk/WebhookAPI/issues/261) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-2. 🏷️ Published release [v1.0.2](https://github.com/Dexare/Voltare/releases/tag/v1.0.2) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-3. 🎉 Merged PR [#26](https://github.com/Dexare/Voltare/pull/26) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-4. 🏷️ Published release [v1.0.1](https://github.com/Dexare/Voltare/releases/tag/v1.0.1) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-5. 🎉 Merged PR [#25](https://github.com/Dexare/Voltare/pull/25) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+1. ✔️ Reviewed [#29](https://github.com/Dexare/Voltare/pull/29) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+2. ✔️ Reviewed [#29](https://github.com/Dexare/Voltare/pull/29) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+3. ✔️ Reviewed [#28](https://github.com/Dexare/Voltare/pull/28) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+4. ✔️ Reviewed [#28](https://github.com/Dexare/Voltare/pull/28) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. 🗣 Commented on [#261](https://github.com/trello-talk/WebhookAPI/issues/261) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
 <!--END_SECTION:activity-->
 
 ---
