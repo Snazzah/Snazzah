@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v5.3.0](https://github.com/Snazzah/slash-create/releases/tag/v5.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#28](https://github.com/Dexare/Voltare/pull/28) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-3. ✔️ Reviewed [#29](https://github.com/Dexare/Voltare/pull/29) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-4. ✔️ Reviewed [#29](https://github.com/Dexare/Voltare/pull/29) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
-5. ✔️ Reviewed [#28](https://github.com/Dexare/Voltare/pull/28) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+1. 🗣 Commented on [#1347](https://github.com/abalabahaha/eris/issues/1347) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+2. ❗️ Opened issue [#1347](https://github.com/abalabahaha/eris/issues/1347) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+3. 🏷️ Published release [v5.3.0](https://github.com/Snazzah/slash-create/releases/tag/v5.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#28](https://github.com/Dexare/Voltare/pull/28) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
+5. ✔️ Reviewed [#29](https://github.com/Dexare/Voltare/pull/29) in [Dexare/Voltare](https://github.com/Dexare/Voltare)
 <!--END_SECTION:activity-->
 
 ---
