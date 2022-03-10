@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#262](https://github.com/Snazzah/slash-create/pull/262) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#55](https://github.com/Snazzah/slash-up/issues/55) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. 🗣 Commented on [#1347](https://github.com/abalabahaha/eris/issues/1347) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-4. ❗️ Opened issue [#1347](https://github.com/abalabahaha/eris/issues/1347) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-5. 🏷️ Published release [v5.3.0](https://github.com/Snazzah/slash-create/releases/tag/v5.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#263](https://github.com/Snazzah/slash-create/pull/263) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#262](https://github.com/Snazzah/slash-create/pull/262) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#55](https://github.com/Snazzah/slash-up/issues/55) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. 🗣 Commented on [#1347](https://github.com/abalabahaha/eris/issues/1347) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+5. ❗️ Opened issue [#1347](https://github.com/abalabahaha/eris/issues/1347) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
 <!--END_SECTION:activity-->
 
 ---
