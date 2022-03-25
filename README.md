@@ -50,9 +50,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#270](https://github.com/Snazzah/slash-create/pull/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v2.2.4](https://github.com/Dexare/Dexare/releases/tag/v2.2.4) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-3. ❗️ Closed issue [#55](https://github.com/Snazzah/slash-up/issues/55) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+1. 🗣 Commented on [#270](https://github.com/Snazzah/slash-create/issues/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 💪 Opened PR [#270](https://github.com/Snazzah/slash-create/pull/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🏷️ Published release [v2.2.4](https://github.com/Dexare/Dexare/releases/tag/v2.2.4) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
 4. ❗️ Closed issue [#90](https://github.com/Snazzah/SublimeDiscordRP/issues/90) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 5. 🎉 Merged PR [#263](https://github.com/Snazzah/slash-create/pull/263) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
