@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#271](https://github.com/Snazzah/slash-create/issues/271) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#27](https://github.com/CraigChat/craig/issues/27) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. 🗣 Commented on [#27](https://github.com/CraigChat/craig/issues/27) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. 🗣 Commented on [#270](https://github.com/Snazzah/slash-create/issues/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#270](https://github.com/Snazzah/slash-create/pull/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#270](https://github.com/Snazzah/slash-create/pull/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#271](https://github.com/Snazzah/slash-create/issues/271) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#27](https://github.com/CraigChat/craig/issues/27) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. 🗣 Commented on [#27](https://github.com/CraigChat/craig/issues/27) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 🗣 Commented on [#270](https://github.com/Snazzah/slash-create/issues/270) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
