@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#1](https://github.com/Snazzah/slash-create-worker/issues/1) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
-3. 🗣 Commented on [#1](https://github.com/Snazzah/slash-create-worker/issues/1) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
-4. 🏷️ Published release [v1.1.0](https://github.com/Snazzah/slash-up/releases/tag/v1.1.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-5. 🗣 Commented on [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#5](https://github.com/CraigChat/webapp/pull/5) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+2. 🗣 Commented on [#239](https://github.com/Snazzah/slash-create/issues/239) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#1](https://github.com/Snazzah/slash-create-worker/issues/1) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
+4. 🗣 Commented on [#1](https://github.com/Snazzah/slash-create-worker/issues/1) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
+5. 🏷️ Published release [v1.1.0](https://github.com/Snazzah/slash-up/releases/tag/v1.1.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
 <!--END_SECTION:activity-->
 
 ---
