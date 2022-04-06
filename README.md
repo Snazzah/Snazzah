@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#230](https://github.com/skyra-project/discord-components/pull/230) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-2. 💪 Opened PR [#229](https://github.com/skyra-project/discord-components/pull/229) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-3. 🎉 Merged PR [#276](https://github.com/Snazzah/slash-create/pull/276) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#276](https://github.com/Snazzah/slash-create/pull/276) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🎉 Merged PR [#5](https://github.com/CraigChat/webapp/pull/5) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+1. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/eslint-config/releases/tag/v1.0.1) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+2. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.0.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+3. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/eslint-config-ts/releases/tag/v1.0.0) in [Snazzah/eslint-config-ts](https://github.com/Snazzah/eslint-config-ts)
+4. 💪 Opened PR [#230](https://github.com/skyra-project/discord-components/pull/230) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+5. 💪 Opened PR [#229](https://github.com/skyra-project/discord-components/pull/229) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
 <!--END_SECTION:activity-->
 
 ---
