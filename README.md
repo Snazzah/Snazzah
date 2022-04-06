@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.1.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.1.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-2. 🗣 Commented on [#2960](https://github.com/vscode-icons/vscode-icons/issues/2960) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 🎉 Merged PR [#14](https://github.com/CraigChat/webapp/pull/14) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-4. 💪 Opened PR [#14](https://github.com/CraigChat/webapp/pull/14) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-5. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/vuepress-plugin-jsonld/releases/tag/v1.0.1) in [Snazzah/vuepress-plugin-jsonld](https://github.com/Snazzah/vuepress-plugin-jsonld)
+1. 🏷️ Published release [v1.0.2](https://github.com/Dexare/logger/releases/tag/v1.0.2) in [Dexare/logger](https://github.com/Dexare/logger)
+2. 🏷️ Published release [v1.1.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.1.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+3. 🗣 Commented on [#2960](https://github.com/vscode-icons/vscode-icons/issues/2960) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 🎉 Merged PR [#14](https://github.com/CraigChat/webapp/pull/14) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+5. 💪 Opened PR [#14](https://github.com/CraigChat/webapp/pull/14) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
 <!--END_SECTION:activity-->
 
 ---
