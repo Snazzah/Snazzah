@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/eslint-config/releases/tag/v1.0.1) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-2. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.0.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-3. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/eslint-config-ts/releases/tag/v1.0.0) in [Snazzah/eslint-config-ts](https://github.com/Snazzah/eslint-config-ts)
-4. 💪 Opened PR [#230](https://github.com/skyra-project/discord-components/pull/230) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-5. 💪 Opened PR [#229](https://github.com/skyra-project/discord-components/pull/229) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+1. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/vuepress-plugin-jsonld/releases/tag/v1.0.1) in [Snazzah/vuepress-plugin-jsonld](https://github.com/Snazzah/vuepress-plugin-jsonld)
+2. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/vuepress-plugin-jsonld/releases/tag/v1.0.0) in [Snazzah/vuepress-plugin-jsonld](https://github.com/Snazzah/vuepress-plugin-jsonld)
+3. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/vuepress-plugin-jsonld/releases/tag/v1.0.0) in [Snazzah/vuepress-plugin-jsonld](https://github.com/Snazzah/vuepress-plugin-jsonld)
+4. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/eslint-config/releases/tag/v1.0.1) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+5. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.0.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 <!--END_SECTION:activity-->
 
 ---
