@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-2. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-3. 🏷️ Published release [v1.0.2](https://github.com/Dexare/logger/releases/tag/v1.0.2) in [Dexare/logger](https://github.com/Dexare/logger)
-4. 🏷️ Published release [v1.1.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.1.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-5. 🗣 Commented on [#2960](https://github.com/vscode-icons/vscode-icons/issues/2960) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+1. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+2. ❗️ Closed issue [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+3. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+4. 🏷️ Published release [v1.0.2](https://github.com/Dexare/logger/releases/tag/v1.0.2) in [Dexare/logger](https://github.com/Dexare/logger)
+5. 🏷️ Published release [v1.1.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.1.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 <!--END_SECTION:activity-->
 
 ---
