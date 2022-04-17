@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2972](https://github.com/vscode-icons/vscode-icons/pull/2972) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. ✔️ Reviewed [#2948](https://github.com/vscode-icons/vscode-icons/pull/2948) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 💪 Opened PR [#2971](https://github.com/vscode-icons/vscode-icons/pull/2971) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-4. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-5. ❗️ Closed issue [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+1. 💪 Opened PR [#152](https://github.com/uetchy/namae/pull/152) in [uetchy/namae](https://github.com/uetchy/namae)
+2. 💪 Opened PR [#2972](https://github.com/vscode-icons/vscode-icons/pull/2972) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. ✔️ Reviewed [#2948](https://github.com/vscode-icons/vscode-icons/pull/2948) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 💪 Opened PR [#2971](https://github.com/vscode-icons/vscode-icons/pull/2971) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+5. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
 <!--END_SECTION:activity-->
 
 ---
