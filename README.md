@@ -50,11 +50,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2971](https://github.com/vscode-icons/vscode-icons/pull/2971) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-3. ❗️ Closed issue [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-4. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-5. 🏷️ Published release [v1.0.2](https://github.com/Dexare/logger/releases/tag/v1.0.2) in [Dexare/logger](https://github.com/Dexare/logger)
+1. ✔️ Reviewed [#2948](https://github.com/vscode-icons/vscode-icons/pull/2948) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. 💪 Opened PR [#2971](https://github.com/vscode-icons/vscode-icons/pull/2971) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+4. ❗️ Closed issue [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+5. 🗣 Commented on [#510](https://github.com/trello-talk/Taco/issues/510) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
 <!--END_SECTION:activity-->
 
 ---
