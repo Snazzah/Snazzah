@@ -50,10 +50,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#289](https://github.com/Snazzah/slash-create/pull/289) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#2990](https://github.com/vscode-icons/vscode-icons/pull/2990) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 💪 Opened PR [#2989](https://github.com/vscode-icons/vscode-icons/pull/2989) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-4. 💪 Opened PR [#2972](https://github.com/vscode-icons/vscode-icons/pull/2972) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+1. 🎉 Merged PR [#289](https://github.com/Snazzah/slash-create/pull/289) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 💪 Opened PR [#289](https://github.com/Snazzah/slash-create/pull/289) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#2990](https://github.com/vscode-icons/vscode-icons/pull/2990) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 💪 Opened PR [#2989](https://github.com/vscode-icons/vscode-icons/pull/2989) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 5. ✔️ Reviewed [#2948](https://github.com/vscode-icons/vscode-icons/pull/2948) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 <!--END_SECTION:activity-->
 
