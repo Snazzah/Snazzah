@@ -68,39 +68,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=852121&title_color=fff&text_color=fff" />
   </a>
 </div>
-
----
-
-<details>
-  <summary><b>Projects</b></summary><br />
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=SublimeDiscordRP)](https://github.com/Snazzah/SublimeDiscordRP)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=dbots-pkg&repo=dbots.js&show_owner=true)](https://github.com/dbots-pkg/dbots.js)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=HotImage)](https://github.com/Snazzah/HotImage)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=trello-talk&repo=Taco&show_owner=true)](https://github.com/trello-talk/Taco)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=MediaSessionMaster)](https://github.com/Snazzah/MediaSessionMaster)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=Lightcord)](https://github.com/Snazzah/Lightcord)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Snazzah&repo=slash-create)](https://github.com/Snazzah/slash-create)
-
-</details>
-
-<details>
-  <summary><b>Contributions</b></summary><br />
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js)](https://github.com/discordjs/discord.js)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=AlexFlipnote&repo=Modesta&show_owner=true)](https://github.com/AlexFlipnote/Modesta)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=discordrb&repo=discordrb)](https://github.com/discordrb/discordrb)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Terminal&repo=botlist-servers&show_owner=true)](https://github.com/Terminal/botlist-servers)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=abalabahaha&repo=eris)](https://github.com/abalabahaha/eris)
-
-</details>
