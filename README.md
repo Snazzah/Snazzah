@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8811](https://github.com/darkreader/darkreader/pull/8811) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. 🗣 Commented on [#2994](https://github.com/vscode-icons/vscode-icons/issues/2994) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 💪 Opened PR [#291](https://github.com/Snazzah/slash-create/pull/291) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v5.5.3](https://github.com/Snazzah/slash-create/releases/tag/v5.5.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#2994](https://github.com/vscode-icons/vscode-icons/pull/2994) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+1. 💪 Opened PR [#133](https://github.com/Phineas/lanyard/pull/133) in [Phineas/lanyard](https://github.com/Phineas/lanyard)
+2. 💪 Opened PR [#8811](https://github.com/darkreader/darkreader/pull/8811) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. 🗣 Commented on [#2994](https://github.com/vscode-icons/vscode-icons/issues/2994) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 💪 Opened PR [#291](https://github.com/Snazzah/slash-create/pull/291) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v5.5.3](https://github.com/Snazzah/slash-create/releases/tag/v5.5.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
