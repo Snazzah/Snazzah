@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3006](https://github.com/vscode-icons/vscode-icons/pull/3006) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. 🏷️ Published release [v1.1.2](https://github.com/Snazzah/slash-up/releases/tag/v1.1.2) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. ❗️ Closed issue [#261](https://github.com/trello-talk/WebhookAPI/issues/261) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
-4. 🎉 Merged PR [#217](https://github.com/Snazzah/snazzah.com/pull/217) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
-5. 🏷️ Published release [v2.2.8](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.8) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. ❌ Closed PR [#26](https://github.com/LBRYFoundation/lbry.org/pull/26) in [LBRYFoundation/lbry.org](https://github.com/LBRYFoundation/lbry.org)
+2. 💪 Opened PR [#3006](https://github.com/vscode-icons/vscode-icons/pull/3006) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. 🏷️ Published release [v1.1.2](https://github.com/Snazzah/slash-up/releases/tag/v1.1.2) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. ❗️ Closed issue [#261](https://github.com/trello-talk/WebhookAPI/issues/261) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+5. 🎉 Merged PR [#217](https://github.com/Snazzah/snazzah.com/pull/217) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
 <!--END_SECTION:activity-->
 
 ---
