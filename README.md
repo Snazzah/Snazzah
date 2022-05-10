@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#298](https://github.com/Snazzah/slash-create/pull/298) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❌ Closed PR [#26](https://github.com/LBRYFoundation/lbry.org/pull/26) in [LBRYFoundation/lbry.org](https://github.com/LBRYFoundation/lbry.org)
-3. 💪 Opened PR [#3006](https://github.com/vscode-icons/vscode-icons/pull/3006) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-4. 🏷️ Published release [v1.1.2](https://github.com/Snazzah/slash-up/releases/tag/v1.1.2) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-5. ❗️ Closed issue [#261](https://github.com/trello-talk/WebhookAPI/issues/261) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+1. 💪 Opened PR [#245](https://github.com/skyra-project/discord-components/pull/245) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+2. 💪 Opened PR [#244](https://github.com/skyra-project/discord-components/pull/244) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+3. 💪 Opened PR [#243](https://github.com/skyra-project/discord-components/pull/243) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+4. 💪 Opened PR [#298](https://github.com/Snazzah/slash-create/pull/298) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❌ Closed PR [#26](https://github.com/LBRYFoundation/lbry.org/pull/26) in [LBRYFoundation/lbry.org](https://github.com/LBRYFoundation/lbry.org)
 <!--END_SECTION:activity-->
 
 ---
