@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/JohnyTheCarrot/discord-embed-previewer/pull/1) in [JohnyTheCarrot/discord-embed-previewer](https://github.com/JohnyTheCarrot/discord-embed-previewer)
-2. 💪 Opened PR [#245](https://github.com/skyra-project/discord-components/pull/245) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-3. 💪 Opened PR [#244](https://github.com/skyra-project/discord-components/pull/244) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-4. 💪 Opened PR [#243](https://github.com/skyra-project/discord-components/pull/243) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
-5. 💪 Opened PR [#298](https://github.com/Snazzah/slash-create/pull/298) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#1](https://github.com/JohnyTheCarrot/discord-embed-previewer/issues/1) in [JohnyTheCarrot/discord-embed-previewer](https://github.com/JohnyTheCarrot/discord-embed-previewer)
+2. 💪 Opened PR [#1](https://github.com/JohnyTheCarrot/discord-embed-previewer/pull/1) in [JohnyTheCarrot/discord-embed-previewer](https://github.com/JohnyTheCarrot/discord-embed-previewer)
+3. 💪 Opened PR [#245](https://github.com/skyra-project/discord-components/pull/245) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+4. 💪 Opened PR [#244](https://github.com/skyra-project/discord-components/pull/244) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+5. 💪 Opened PR [#243](https://github.com/skyra-project/discord-components/pull/243) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
 <!--END_SECTION:activity-->
 
 ---
