@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#298](https://github.com/Snazzah/slash-create/pull/298) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#3](https://github.com/Snazzah/slash-create-worker/issues/3) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
-3. 🗣 Commented on [#1](https://github.com/JohnyTheCarrot/discord-embed-previewer/issues/1) in [JohnyTheCarrot/discord-embed-previewer](https://github.com/JohnyTheCarrot/discord-embed-previewer)
-4. 💪 Opened PR [#1](https://github.com/JohnyTheCarrot/discord-embed-previewer/pull/1) in [JohnyTheCarrot/discord-embed-previewer](https://github.com/JohnyTheCarrot/discord-embed-previewer)
-5. 💪 Opened PR [#245](https://github.com/skyra-project/discord-components/pull/245) in [skyra-project/discord-components](https://github.com/skyra-project/discord-components)
+1. 🗣 Commented on [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+2. ❗️ Closed issue [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+3. 🏷️ Published release [v5.6.0](https://github.com/Snazzah/slash-create/releases/tag/v5.6.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#298](https://github.com/Snazzah/slash-create/pull/298) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#3](https://github.com/Snazzah/slash-create-worker/issues/3) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
 <!--END_SECTION:activity-->
 
 ---
