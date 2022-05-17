@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-2. ❗️ Closed issue [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-3. 🏷️ Published release [v5.6.0](https://github.com/Snazzah/slash-create/releases/tag/v5.6.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#298](https://github.com/Snazzah/slash-create/pull/298) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#3](https://github.com/Snazzah/slash-create-worker/issues/3) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
+1. 🗣 Commented on [#8](https://github.com/CraigChat/craig/issues/8) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ❗️ Closed issue [#8](https://github.com/CraigChat/craig/issues/8) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. 🗣 Commented on [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+4. ❗️ Closed issue [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
+5. 🏷️ Published release [v5.6.0](https://github.com/Snazzah/slash-create/releases/tag/v5.6.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
