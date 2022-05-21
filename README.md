@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/CraigChat/craig/issues/8) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. ❗️ Closed issue [#8](https://github.com/CraigChat/craig/issues/8) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. 🗣 Commented on [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-4. ❗️ Closed issue [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
-5. 🏷️ Published release [v5.6.0](https://github.com/Snazzah/slash-create/releases/tag/v5.6.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v5.6.1](https://github.com/Snazzah/slash-create/releases/tag/v5.6.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#301](https://github.com/Snazzah/slash-create/issues/301) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#8](https://github.com/CraigChat/craig/issues/8) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. ❗️ Closed issue [#8](https://github.com/CraigChat/craig/issues/8) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 🗣 Commented on [#528](https://github.com/trello-talk/Taco/issues/528) in [trello-talk/Taco](https://github.com/trello-talk/Taco)
 <!--END_SECTION:activity-->
 
 ---
