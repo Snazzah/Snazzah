@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#307](https://github.com/Snazzah/slash-create/pull/307) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#307](https://github.com/Snazzah/slash-create/issues/307) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 💪 Opened PR [#308](https://github.com/Snazzah/slash-create/pull/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Opened issue [#264](https://github.com/discordlist-gg/beta-issues/issues/264) in [discordlist-gg/beta-issues](https://github.com/discordlist-gg/beta-issues)
-5. ❗️ Opened issue [#262](https://github.com/discordlist-gg/beta-issues/issues/262) in [discordlist-gg/beta-issues](https://github.com/discordlist-gg/beta-issues)
+1. 🗣 Commented on [#302](https://github.com/Snazzah/slash-create/issues/302) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❌ Closed PR [#307](https://github.com/Snazzah/slash-create/pull/307) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#307](https://github.com/Snazzah/slash-create/issues/307) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 💪 Opened PR [#308](https://github.com/Snazzah/slash-create/pull/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Opened issue [#264](https://github.com/discordlist-gg/beta-issues/issues/264) in [discordlist-gg/beta-issues](https://github.com/discordlist-gg/beta-issues)
 <!--END_SECTION:activity-->
 
 ---
