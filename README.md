@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#308](https://github.com/Snazzah/slash-create/issues/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#161](https://github.com/uetchy/namae/issues/161) in [uetchy/namae](https://github.com/uetchy/namae)
-3. 🗣 Commented on [#302](https://github.com/Snazzah/slash-create/issues/302) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❌ Closed PR [#307](https://github.com/Snazzah/slash-create/pull/307) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#307](https://github.com/Snazzah/slash-create/issues/307) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#170](https://github.com/uetchy/namae/pull/170) in [uetchy/namae](https://github.com/uetchy/namae)
+2. 🗣 Commented on [#308](https://github.com/Snazzah/slash-create/issues/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#308](https://github.com/Snazzah/slash-create/issues/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#161](https://github.com/uetchy/namae/issues/161) in [uetchy/namae](https://github.com/uetchy/namae)
+5. 🗣 Commented on [#302](https://github.com/Snazzah/slash-create/issues/302) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
