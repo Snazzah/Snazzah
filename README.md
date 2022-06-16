@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/slash-up/releases/tag/v1.2.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. ❗️ Opened issue [#41](https://github.com/CraigChat/webapp-server/issues/41) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-3. 🎉 Merged PR [#308](https://github.com/Snazzah/slash-create/pull/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#314](https://github.com/Snazzah/slash-create/issues/314) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#314](https://github.com/Snazzah/slash-create/issues/314) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v3.0.0](https://github.com/Dexare/Dexare/releases/tag/v3.0.0) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+2. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/slash-up/releases/tag/v1.2.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. ❗️ Opened issue [#41](https://github.com/CraigChat/webapp-server/issues/41) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
+4. 🎉 Merged PR [#308](https://github.com/Snazzah/slash-create/pull/308) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#314](https://github.com/Snazzah/slash-create/issues/314) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
