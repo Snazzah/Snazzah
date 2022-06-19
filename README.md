@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#47](https://github.com/CraigChat/craig/pull/47) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. ✔️ Reviewed [#41](https://github.com/CraigChat/craig/pull/41) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. ✔️ Reviewed [#42](https://github.com/CraigChat/craig/pull/42) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. 🏷️ Published release [v3.0.0](https://github.com/Dexare/Dexare/releases/tag/v3.0.0) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-5. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/slash-up/releases/tag/v1.2.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+1. ✔️ Reviewed [#46](https://github.com/CraigChat/craig/pull/46) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ✔️ Reviewed [#47](https://github.com/CraigChat/craig/pull/47) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. ✔️ Reviewed [#41](https://github.com/CraigChat/craig/pull/41) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. ✔️ Reviewed [#42](https://github.com/CraigChat/craig/pull/42) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 🏷️ Published release [v3.0.0](https://github.com/Dexare/Dexare/releases/tag/v3.0.0) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
 <!--END_SECTION:activity-->
 
 ---
