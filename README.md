@@ -51,9 +51,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-2. 💪 Opened PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-3. 🎉 Merged PR [#65](https://github.com/CraigChat/craig/pull/65) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. ❗️ Opened issue [#463](https://github.com/dbots-pkg/dbots.js/issues/463) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+2. 🎉 Merged PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+3. 💪 Opened PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
 4. 💪 Opened PR [#65](https://github.com/CraigChat/craig/pull/65) in [CraigChat/craig](https://github.com/CraigChat/craig)
 5. ✔️ Reviewed [#42](https://github.com/CraigChat/craig/pull/42) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
