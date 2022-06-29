@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#463](https://github.com/dbots-pkg/dbots.js/issues/463) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-2. 🎉 Merged PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-3. 💪 Opened PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-4. 💪 Opened PR [#65](https://github.com/CraigChat/craig/pull/65) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. ✔️ Reviewed [#42](https://github.com/CraigChat/craig/pull/42) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. 🏷️ Published release [v2.2.9](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.9) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. ❗️ Closed issue [#97](https://github.com/Snazzah/SublimeDiscordRP/issues/97) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. ❗️ Closed issue [#96](https://github.com/Snazzah/SublimeDiscordRP/issues/96) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. ❗️ Opened issue [#463](https://github.com/dbots-pkg/dbots.js/issues/463) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+5. 🎉 Merged PR [#81](https://github.com/CraigChat/webapp/pull/81) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
 <!--END_SECTION:activity-->
 
 ---
