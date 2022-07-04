@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v5.7.0](https://github.com/Snazzah/slash-create/releases/tag/v5.7.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#466](https://github.com/dbots-pkg/dbots.js/pull/466) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-3. ✔️ Reviewed [#467](https://github.com/dbots-pkg/dbots.js/pull/467) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-4. 🏷️ Published release [v2.2.9](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.9) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. ❗️ Closed issue [#97](https://github.com/Snazzah/SublimeDiscordRP/issues/97) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🗣 Commented on [#69](https://github.com/CraigChat/helper/issues/69) in [CraigChat/helper](https://github.com/CraigChat/helper)
+2. 🏷️ Published release [v5.7.0](https://github.com/Snazzah/slash-create/releases/tag/v5.7.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#466](https://github.com/dbots-pkg/dbots.js/pull/466) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+4. ✔️ Reviewed [#467](https://github.com/dbots-pkg/dbots.js/pull/467) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+5. 🏷️ Published release [v2.2.9](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.9) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
