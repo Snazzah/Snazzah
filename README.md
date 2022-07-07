@@ -51,7 +51,7 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#69](https://github.com/CraigChat/helper/issues/69) in [CraigChat/helper](https://github.com/CraigChat/helper)
+1. ❗️ Opened issue [#312](https://github.com/Jarred-Sumner/bun/issues/312) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 2. 🏷️ Published release [v5.7.0](https://github.com/Snazzah/slash-create/releases/tag/v5.7.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 3. ✔️ Reviewed [#466](https://github.com/dbots-pkg/dbots.js/pull/466) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
 4. ✔️ Reviewed [#467](https://github.com/dbots-pkg/dbots.js/pull/467) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
