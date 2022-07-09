@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2994](https://github.com/vscode-icons/vscode-icons/issues/2994) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. 🗣 Commented on [#334](https://github.com/Snazzah/slash-create/issues/334) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#334](https://github.com/Snazzah/slash-create/issues/334) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#2994](https://github.com/vscode-icons/vscode-icons/issues/2994) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 3. 🗣 Commented on [#334](https://github.com/Snazzah/slash-create/issues/334) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#477](https://github.com/Jarred-Sumner/bun/pull/477) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-5. 💪 Opened PR [#470](https://github.com/Jarred-Sumner/bun/pull/470) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+4. 🗣 Commented on [#334](https://github.com/Snazzah/slash-create/issues/334) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#477](https://github.com/Jarred-Sumner/bun/pull/477) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 <!--END_SECTION:activity-->
 
 ---
