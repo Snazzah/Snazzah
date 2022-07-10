@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3070](https://github.com/vscode-icons/vscode-icons/issues/3070) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. ❌ Closed PR [#3081](https://github.com/vscode-icons/vscode-icons/pull/3081) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 🗣 Commented on [#3081](https://github.com/vscode-icons/vscode-icons/issues/3081) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-4. 💪 Opened PR [#3082](https://github.com/vscode-icons/vscode-icons/pull/3082) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-5. 💪 Opened PR [#536](https://github.com/Jarred-Sumner/bun/pull/536) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+1. 💪 Opened PR [#3087](https://github.com/vscode-icons/vscode-icons/pull/3087) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. 🗣 Commented on [#3070](https://github.com/vscode-icons/vscode-icons/issues/3070) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. ❌ Closed PR [#3081](https://github.com/vscode-icons/vscode-icons/pull/3081) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 🗣 Commented on [#3081](https://github.com/vscode-icons/vscode-icons/issues/3081) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+5. 💪 Opened PR [#3082](https://github.com/vscode-icons/vscode-icons/pull/3082) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 <!--END_SECTION:activity-->
 
 ---
