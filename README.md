@@ -52,10 +52,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#334](https://github.com/Snazzah/slash-create/issues/334) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🏷️ Published release [v5.7.1](https://github.com/Snazzah/slash-create/releases/tag/v5.7.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#336](https://github.com/Snazzah/slash-create/pull/336) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#3087](https://github.com/vscode-icons/vscode-icons/pull/3087) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. 🗣 Commented on [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#334](https://github.com/Snazzah/slash-create/issues/334) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🏷️ Published release [v5.7.1](https://github.com/Snazzah/slash-create/releases/tag/v5.7.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#336](https://github.com/Snazzah/slash-create/pull/336) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
