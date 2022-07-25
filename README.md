@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.2.10](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.10) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-2. ❗️ Closed issue [#98](https://github.com/Snazzah/SublimeDiscordRP/issues/98) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. 🎉 Merged PR [#95](https://github.com/Snazzah/SublimeDiscordRP/pull/95) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. ❗️ Closed issue [#339](https://github.com/Snazzah/slash-create/issues/339) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v5.7.1](https://github.com/Snazzah/slash-create/releases/tag/v5.7.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#142](https://github.com/Snazzah/slash-up/issues/142) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. 🗣 Commented on [#62](https://github.com/CraigChat/webapp-server/issues/62) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
+3. 🏷️ Published release [v2.2.10](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.10) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. ❗️ Closed issue [#98](https://github.com/Snazzah/SublimeDiscordRP/issues/98) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. 🎉 Merged PR [#95](https://github.com/Snazzah/SublimeDiscordRP/pull/95) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
