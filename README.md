@@ -51,9 +51,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/Snazzah/slash-up/issues/142) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. 🗣 Commented on [#62](https://github.com/CraigChat/webapp-server/issues/62) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-3. 🏷️ Published release [v2.2.10](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.2.10) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🎉 Merged PR [#51](https://github.com/Snazzah/eslint-config/pull/51) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+2. 🗣 Commented on [#142](https://github.com/Snazzah/slash-up/issues/142) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. 🗣 Commented on [#62](https://github.com/CraigChat/webapp-server/issues/62) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
 4. ❗️ Closed issue [#98](https://github.com/Snazzah/SublimeDiscordRP/issues/98) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 5. 🎉 Merged PR [#95](https://github.com/Snazzah/SublimeDiscordRP/pull/95) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
