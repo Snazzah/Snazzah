@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/Snazzah/eslint-config/pull/51) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-2. 🗣 Commented on [#142](https://github.com/Snazzah/slash-up/issues/142) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. 🗣 Commented on [#62](https://github.com/CraigChat/webapp-server/issues/62) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-4. ❗️ Closed issue [#98](https://github.com/Snazzah/SublimeDiscordRP/issues/98) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. 🎉 Merged PR [#95](https://github.com/Snazzah/SublimeDiscordRP/pull/95) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🎉 Merged PR [#311](https://github.com/Snazzah/snazzah.com/pull/311) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+2. 🎉 Merged PR [#309](https://github.com/Snazzah/snazzah.com/pull/309) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+3. 🎉 Merged PR [#55](https://github.com/Snazzah/eslint-config/pull/55) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+4. 🎉 Merged PR [#54](https://github.com/Snazzah/eslint-config/pull/54) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+5. 🎉 Merged PR [#53](https://github.com/Snazzah/eslint-config/pull/53) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 <!--END_SECTION:activity-->
 
 ---
