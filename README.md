@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#311](https://github.com/Snazzah/snazzah.com/pull/311) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
-2. 🎉 Merged PR [#309](https://github.com/Snazzah/snazzah.com/pull/309) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
-3. 🎉 Merged PR [#55](https://github.com/Snazzah/eslint-config/pull/55) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-4. 🎉 Merged PR [#54](https://github.com/Snazzah/eslint-config/pull/54) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-5. 🎉 Merged PR [#53](https://github.com/Snazzah/eslint-config/pull/53) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+1. 🎉 Merged PR [#312](https://github.com/Snazzah/snazzah.com/pull/312) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+2. 🎉 Merged PR [#313](https://github.com/Snazzah/snazzah.com/pull/313) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+3. 🎉 Merged PR [#314](https://github.com/Snazzah/snazzah.com/pull/314) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+4. 🎉 Merged PR [#315](https://github.com/Snazzah/snazzah.com/pull/315) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+5. 🎉 Merged PR [#311](https://github.com/Snazzah/snazzah.com/pull/311) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
 <!--END_SECTION:activity-->
 
 ---
