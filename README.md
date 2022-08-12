@@ -51,7 +51,7 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#316](https://github.com/Snazzah/snazzah.com/pull/316) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+1. 🏷️ Published release [v1.0.0](https://github.com/CraigChat/webapp-server/releases/tag/v1.0.0) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
 2. 🎉 Merged PR [#312](https://github.com/Snazzah/snazzah.com/pull/312) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
 3. 🎉 Merged PR [#313](https://github.com/Snazzah/snazzah.com/pull/313) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
 4. 🎉 Merged PR [#314](https://github.com/Snazzah/snazzah.com/pull/314) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
