@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3115](https://github.com/vscode-icons/vscode-icons/pull/3115) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. 💪 Opened PR [#3114](https://github.com/vscode-icons/vscode-icons/pull/3114) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 🗣 Commented on [#2822](https://github.com/mullvad/mullvadvpn-app/issues/2822) in [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-4. 🏷️ Published release [v1.0.0](https://github.com/CraigChat/webapp-server/releases/tag/v1.0.0) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-5. 🎉 Merged PR [#315](https://github.com/Snazzah/snazzah.com/pull/315) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+1. 🏷️ Published release [v1.1.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+2. 🏷️ Published release [v1.1.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+3. 💪 Opened PR [#3115](https://github.com/vscode-icons/vscode-icons/pull/3115) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 💪 Opened PR [#3114](https://github.com/vscode-icons/vscode-icons/pull/3114) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+5. 🗣 Commented on [#2822](https://github.com/mullvad/mullvadvpn-app/issues/2822) in [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
 <!--END_SECTION:activity-->
 
 ---
