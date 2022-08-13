@@ -51,10 +51,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2822](https://github.com/mullvad/mullvadvpn-app/issues/2822) in [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
-2. 🏷️ Published release [v1.0.0](https://github.com/CraigChat/webapp-server/releases/tag/v1.0.0) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-3. 🎉 Merged PR [#313](https://github.com/Snazzah/snazzah.com/pull/313) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
-4. 🎉 Merged PR [#314](https://github.com/Snazzah/snazzah.com/pull/314) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+1. 💪 Opened PR [#3115](https://github.com/vscode-icons/vscode-icons/pull/3115) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. 💪 Opened PR [#3114](https://github.com/vscode-icons/vscode-icons/pull/3114) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. 🗣 Commented on [#2822](https://github.com/mullvad/mullvadvpn-app/issues/2822) in [mullvad/mullvadvpn-app](https://github.com/mullvad/mullvadvpn-app)
+4. 🏷️ Published release [v1.0.0](https://github.com/CraigChat/webapp-server/releases/tag/v1.0.0) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
 5. 🎉 Merged PR [#315](https://github.com/Snazzah/snazzah.com/pull/315) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
 <!--END_SECTION:activity-->
 
