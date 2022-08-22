@@ -51,8 +51,8 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v5.8.0](https://github.com/Snazzah/slash-create/releases/tag/v5.8.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v1.1.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+1. 🏷️ Published release [v1.1.1](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.1) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+2. 🏷️ Published release [v5.8.0](https://github.com/Snazzah/slash-create/releases/tag/v5.8.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 3. 🏷️ Published release [v1.1.0](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.0) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
 4. 💪 Opened PR [#3115](https://github.com/vscode-icons/vscode-icons/pull/3115) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 5. 💪 Opened PR [#3114](https://github.com/vscode-icons/vscode-icons/pull/3114) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
