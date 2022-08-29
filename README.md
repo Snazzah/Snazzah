@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#357](https://github.com/Snazzah/slash-create/pull/357) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v8.1.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.1.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
-3. 🏷️ Published release [v1.0.0](https://github.com/trello-talk/TacoWS/releases/tag/v1.0.0) in [trello-talk/TacoWS](https://github.com/trello-talk/TacoWS)
-4. 🏷️ Published release [v1.0.0](https://github.com/trello-talk/TacoAuth/releases/tag/v1.0.0) in [trello-talk/TacoAuth](https://github.com/trello-talk/TacoAuth)
-5. 🏷️ Published release [v1.1.1](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.1) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+1. ❗️ Closed issue [#330](https://github.com/Snazzah/snazzah.com/issues/330) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+2. 🗣 Commented on [#330](https://github.com/Snazzah/snazzah.com/issues/330) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+3. 🎉 Merged PR [#357](https://github.com/Snazzah/slash-create/pull/357) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🏷️ Published release [v8.1.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.1.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
+5. 🏷️ Published release [v1.0.0](https://github.com/trello-talk/TacoWS/releases/tag/v1.0.0) in [trello-talk/TacoWS](https://github.com/trello-talk/TacoWS)
 <!--END_SECTION:activity-->
 
 ---
