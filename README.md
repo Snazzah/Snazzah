@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Sven65/TagBot/pull/4) in [Sven65/TagBot](https://github.com/Sven65/TagBot)
-2. ❗️ Closed issue [#330](https://github.com/Snazzah/snazzah.com/issues/330) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
-3. 🗣 Commented on [#330](https://github.com/Snazzah/snazzah.com/issues/330) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
-4. 🎉 Merged PR [#357](https://github.com/Snazzah/slash-create/pull/357) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v8.1.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.1.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
+1. 🎉 Merged PR [#358](https://github.com/Snazzah/slash-create/pull/358) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#358](https://github.com/Snazzah/slash-create/issues/358) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❌ Closed PR [#4](https://github.com/Sven65/TagBot/pull/4) in [Sven65/TagBot](https://github.com/Sven65/TagBot)
+4. ❗️ Closed issue [#330](https://github.com/Snazzah/snazzah.com/issues/330) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+5. 🗣 Commented on [#330](https://github.com/Snazzah/snazzah.com/issues/330) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
 <!--END_SECTION:activity-->
 
 ---
