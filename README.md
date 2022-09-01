@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#361](https://github.com/Snazzah/slash-create/pull/361) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#358](https://github.com/Snazzah/slash-create/pull/358) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#358](https://github.com/Snazzah/slash-create/issues/358) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❌ Closed PR [#4](https://github.com/Sven65/TagBot/pull/4) in [Sven65/TagBot](https://github.com/Sven65/TagBot)
+1. ❗️ Opened issue [#5413](https://github.com/discord/discord-api-docs/issues/5413) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🗣 Commented on [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#361](https://github.com/Snazzah/slash-create/pull/361) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#358](https://github.com/Snazzah/slash-create/pull/358) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#358](https://github.com/Snazzah/slash-create/issues/358) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
