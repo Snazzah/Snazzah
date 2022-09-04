@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#364](https://github.com/Snazzah/slash-create/pull/364) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 2. ❗️ Closed issue [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#342](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki/pull/342) in [Discord-Resources-Wiki/Discord-Resources-Wiki](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki)
-5. ❗️ Opened issue [#5413](https://github.com/discord/discord-api-docs/issues/5413) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. ❗️ Closed issue [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#342](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki/pull/342) in [Discord-Resources-Wiki/Discord-Resources-Wiki](https://github.com/Discord-Resources-Wiki/Discord-Resources-Wiki)
 <!--END_SECTION:activity-->
 
 ---
