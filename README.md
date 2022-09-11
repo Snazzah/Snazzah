@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#367](https://github.com/railwayapp/templates/issues/367) in [railwayapp/templates](https://github.com/railwayapp/templates)
-2. ❗️ Opened issue [#366](https://github.com/railwayapp/templates/issues/366) in [railwayapp/templates](https://github.com/railwayapp/templates)
-3. 🏷️ Published release [v5.9.0](https://github.com/Snazzah/slash-create/releases/tag/v5.9.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#364](https://github.com/Snazzah/slash-create/pull/364) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#338](https://github.com/Snazzah/slash-create/issues/338) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/magic-stopwatch/releases/tag/v1.0.0) in [Snazzah/magic-stopwatch](https://github.com/Snazzah/magic-stopwatch)
+2. ❗️ Opened issue [#367](https://github.com/railwayapp/templates/issues/367) in [railwayapp/templates](https://github.com/railwayapp/templates)
+3. ❗️ Opened issue [#366](https://github.com/railwayapp/templates/issues/366) in [railwayapp/templates](https://github.com/railwayapp/templates)
+4. 🏷️ Published release [v5.9.0](https://github.com/Snazzah/slash-create/releases/tag/v5.9.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#364](https://github.com/Snazzah/slash-create/pull/364) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
