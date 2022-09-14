@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.2.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-2. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/magic-stopwatch/releases/tag/v1.0.0) in [Snazzah/magic-stopwatch](https://github.com/Snazzah/magic-stopwatch)
-3. ❗️ Opened issue [#367](https://github.com/railwayapp/templates/issues/367) in [railwayapp/templates](https://github.com/railwayapp/templates)
-4. ❗️ Opened issue [#366](https://github.com/railwayapp/templates/issues/366) in [railwayapp/templates](https://github.com/railwayapp/templates)
-5. 🏷️ Published release [v5.9.0](https://github.com/Snazzah/slash-create/releases/tag/v5.9.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ❗️ Closed issue [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#365](https://github.com/Snazzah/slash-create/issues/365) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.2.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 <!--END_SECTION:activity-->
 
 ---
