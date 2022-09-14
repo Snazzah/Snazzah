@@ -51,7 +51,7 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/magic-stopwatch/releases/tag/v1.0.1) in [Snazzah/magic-stopwatch](https://github.com/Snazzah/magic-stopwatch)
+1. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.2.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 2. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/magic-stopwatch/releases/tag/v1.0.0) in [Snazzah/magic-stopwatch](https://github.com/Snazzah/magic-stopwatch)
 3. ❗️ Opened issue [#367](https://github.com/railwayapp/templates/issues/367) in [railwayapp/templates](https://github.com/railwayapp/templates)
 4. ❗️ Opened issue [#366](https://github.com/railwayapp/templates/issues/366) in [railwayapp/templates](https://github.com/railwayapp/templates)
