@@ -51,10 +51,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v0.1.0](https://github.com/Snazzah/stub/releases/tag/v0.1.0) in [Snazzah/stub](https://github.com/Snazzah/stub)
 2. ❗️ Closed issue [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#365](https://github.com/Snazzah/slash-create/issues/365) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#370](https://github.com/Snazzah/slash-create/issues/370) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. 🏷️ Published release [v1.2.0](https://github.com/Snazzah/eslint-config/releases/tag/v1.2.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 <!--END_SECTION:activity-->
 
