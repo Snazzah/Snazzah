@@ -51,11 +51,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. ❗️ Opened issue [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. ❗️ Opened issue [#13](https://github.com/Snazzah/stub/issues/13) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 🏷️ Published release [v0.1.1](https://github.com/Snazzah/stub/releases/tag/v0.1.1) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🏷️ Published release [v0.1.0](https://github.com/Snazzah/stub/releases/tag/v0.1.0) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🏷️ Published release [v0.1.2](https://github.com/Snazzah/stub/releases/tag/v0.1.2) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. 🗣 Commented on [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. ❗️ Opened issue [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. ❗️ Opened issue [#13](https://github.com/Snazzah/stub/issues/13) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 🏷️ Published release [v0.1.1](https://github.com/Snazzah/stub/releases/tag/v0.1.1) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
