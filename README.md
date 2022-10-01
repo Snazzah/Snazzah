@@ -1,6 +1,7 @@
+[![](https://snazzah.com/images/banner2.png)][website]
+
 <div align=center>
 
-[![](https://snazzah.com/images/banner2.png)][website]
 ![](https://komarev.com/ghpvc/?username=Snazzah&label=profile+views&color=fc2929) [![wakatime](https://wakatime.com/badge/user/eae27c19-37ad-4824-a6fc-801fed66e5b2.svg)](https://wakatime.com/@eae27c19-37ad-4824-a6fc-801fed66e5b2)
 ![](https://hit.yhype.me/github/profile?user_id=7025343)
   
@@ -68,3 +69,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snazzah&layout=compact&custom_title=Weekly%20Development%20Breakdown&hide_border=true&icon_color=fff&bg_color=852121&title_color=fff&text_color=fff" />
   </a>
 </div>
+
+---
+
+[![@snazzah's Holopin board](https://holopin.io/api/user/board?user=snazzah)](https://holopin.io/@snazzah)
