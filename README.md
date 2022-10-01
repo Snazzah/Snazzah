@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/Snazzah/stub/pull/31) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 🎉 Merged PR [#30](https://github.com/Snazzah/stub/pull/30) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 💪 Opened PR [#30](https://github.com/Snazzah/stub/pull/30) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 💪 Opened PR [#51](https://github.com/steven-tey/dub/pull/51) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. ❗️ Closed issue [#24](https://github.com/Snazzah/stub/issues/24) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 💪 Opened PR [#54](https://github.com/steven-tey/dub/pull/54) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. 🎉 Merged PR [#31](https://github.com/Snazzah/stub/pull/31) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 🎉 Merged PR [#30](https://github.com/Snazzah/stub/pull/30) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 💪 Opened PR [#30](https://github.com/Snazzah/stub/pull/30) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 💪 Opened PR [#51](https://github.com/steven-tey/dub/pull/51) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ---
