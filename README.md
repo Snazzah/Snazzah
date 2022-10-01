@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/steven-tey/dub/issues/54) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 💪 Opened PR [#10](https://github.com/Aru-Ku/hacktoberfest-issues/pull/10) in [Aru-Ku/hacktoberfest-issues](https://github.com/Aru-Ku/hacktoberfest-issues)
 2. 🗣 Commented on [#54](https://github.com/steven-tey/dub/issues/54) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 💪 Opened PR [#54](https://github.com/steven-tey/dub/pull/54) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. 🎉 Merged PR [#31](https://github.com/Snazzah/stub/pull/31) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🎉 Merged PR [#30](https://github.com/Snazzah/stub/pull/30) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 🗣 Commented on [#54](https://github.com/steven-tey/dub/issues/54) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. 💪 Opened PR [#54](https://github.com/steven-tey/dub/pull/54) in [steven-tey/dub](https://github.com/steven-tey/dub)
+5. 🎉 Merged PR [#31](https://github.com/Snazzah/stub/pull/31) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
