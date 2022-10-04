@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 💪 Opened PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🎉 Merged PR [#32](https://github.com/Snazzah/stub/pull/32) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 💪 Opened PR [#32](https://github.com/Snazzah/stub/pull/32) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 💪 Opened PR [#10](https://github.com/Aru-Ku/hacktoberfest-issues/pull/10) in [Aru-Ku/hacktoberfest-issues](https://github.com/Aru-Ku/hacktoberfest-issues)
+1. 🎉 Merged PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. ❗️ Closed issue [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 💪 Opened PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 🎉 Merged PR [#32](https://github.com/Snazzah/stub/pull/32) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 💪 Opened PR [#32](https://github.com/Snazzah/stub/pull/32) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
