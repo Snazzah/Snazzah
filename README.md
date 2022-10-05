@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/Snazzah/slash-up/issues/189) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. 🎉 Merged PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. ❗️ Closed issue [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 💪 Opened PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🎉 Merged PR [#32](https://github.com/Snazzah/stub/pull/32) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🏷️ Published release [v0.2.0](https://github.com/Snazzah/stub/releases/tag/v0.2.0) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. 🗣 Commented on [#189](https://github.com/Snazzah/slash-up/issues/189) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. 🎉 Merged PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. ❗️ Closed issue [#14](https://github.com/Snazzah/stub/issues/14) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 💪 Opened PR [#34](https://github.com/Snazzah/stub/pull/34) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
