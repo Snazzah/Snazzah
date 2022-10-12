@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18277](https://github.com/renovatebot/renovate/pull/18277) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
-2. 💪 Opened PR [#3151](https://github.com/vscode-icons/vscode-icons/pull/3151) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. 🎉 Merged PR [#48](https://github.com/Snazzah/stub/pull/48) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 💪 Opened PR [#48](https://github.com/Snazzah/stub/pull/48) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🎉 Merged PR [#39](https://github.com/Snazzah/stub/pull/39) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🗣 Commented on [#68](https://github.com/steven-tey/dub/issues/68) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. 💪 Opened PR [#18277](https://github.com/renovatebot/renovate/pull/18277) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+3. 💪 Opened PR [#3151](https://github.com/vscode-icons/vscode-icons/pull/3151) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. 🎉 Merged PR [#48](https://github.com/Snazzah/stub/pull/48) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 💪 Opened PR [#48](https://github.com/Snazzah/stub/pull/48) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
