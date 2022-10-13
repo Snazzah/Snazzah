@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/steven-tey/dub/issues/68) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#264](https://github.com/Snazzah/slash-create/issues/264) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 2. 🗣 Commented on [#68](https://github.com/steven-tey/dub/issues/68) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/slash-up/releases/tag/v1.2.1) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-4. 🗣 Commented on [#68](https://github.com/steven-tey/dub/issues/68) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. 💪 Opened PR [#18277](https://github.com/renovatebot/renovate/pull/18277) in [renovatebot/renovate](https://github.com/renovatebot/renovate)
+3. 🗣 Commented on [#68](https://github.com/steven-tey/dub/issues/68) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/slash-up/releases/tag/v1.2.1) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+5. 🗣 Commented on [#68](https://github.com/steven-tey/dub/issues/68) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ---
