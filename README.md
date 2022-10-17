@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#189](https://github.com/Snazzah/slash-up/issues/189) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. 🗣 Commented on [#189](https://github.com/Snazzah/slash-up/issues/189) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. ❗️ Closed issue [#383](https://github.com/Snazzah/slash-create/issues/383) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#264](https://github.com/Snazzah/slash-create/issues/264) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#384](https://github.com/Snazzah/slash-create/issues/384) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v5.10.0](https://github.com/Snazzah/slash-create/releases/tag/v5.10.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#189](https://github.com/Snazzah/slash-up/issues/189) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. 🗣 Commented on [#189](https://github.com/Snazzah/slash-up/issues/189) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. ❗️ Closed issue [#383](https://github.com/Snazzah/slash-create/issues/383) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#264](https://github.com/Snazzah/slash-create/issues/264) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
