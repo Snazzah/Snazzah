@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 🗣 Commented on [#57](https://github.com/Snazzah/stub/issues/57) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🏷️ Published release [v1.2.1](https://github.com/Snazzah/eslint-config/releases/tag/v1.2.1) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
+2. ❗️ Closed issue [#57](https://github.com/Snazzah/stub/issues/57) in [Snazzah/stub](https://github.com/Snazzah/stub)
 3. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 🏷️ Published release [v0.3.0](https://github.com/Snazzah/stub/releases/tag/v0.3.0) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🏷️ Published release [v5.10.0](https://github.com/Snazzah/slash-create/releases/tag/v5.10.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#57](https://github.com/Snazzah/stub/issues/57) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
