@@ -52,9 +52,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/OceanicJS/Oceanic/issues/26) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
-2. 💪 Opened PR [#26](https://github.com/OceanicJS/Oceanic/pull/26) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
-3. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 💪 Opened PR [#27](https://github.com/OceanicJS/Oceanic/pull/27) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
+2. 🗣 Commented on [#26](https://github.com/OceanicJS/Oceanic/issues/26) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
+3. 💪 Opened PR [#26](https://github.com/OceanicJS/Oceanic/pull/26) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
 4. 🏷️ Published release [v0.3.1](https://github.com/Snazzah/stub/releases/tag/v0.3.1) in [Snazzah/stub](https://github.com/Snazzah/stub)
 5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
