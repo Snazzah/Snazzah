@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/Snazzah/stub/pull/70) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 💪 Opened PR [#29](https://github.com/OceanicJS/Oceanic/pull/29) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
-3. 💪 Opened PR [#28](https://github.com/OceanicJS/Oceanic/pull/28) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
-4. 💪 Opened PR [#27](https://github.com/OceanicJS/Oceanic/pull/27) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
-5. 🗣 Commented on [#26](https://github.com/OceanicJS/Oceanic/issues/26) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
+1. 🎉 Merged PR [#70](https://github.com/Snazzah/stub/pull/70) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 🗣 Commented on [#71](https://github.com/Snazzah/stub/issues/71) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 💪 Opened PR [#70](https://github.com/Snazzah/stub/pull/70) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 💪 Opened PR [#29](https://github.com/OceanicJS/Oceanic/pull/29) in [OceanicJS/Oceanic](https://github.com/OceanicJS/Oceanic)
 <!--END_SECTION:activity-->
 
 ---
