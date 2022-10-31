@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v0.4.0](https://github.com/Snazzah/stub/releases/tag/v0.4.0) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 🎉 Merged PR [#70](https://github.com/Snazzah/stub/pull/70) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 🗣 Commented on [#71](https://github.com/Snazzah/stub/issues/71) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 💪 Opened PR [#70](https://github.com/Snazzah/stub/pull/70) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 💪 Opened PR [#95](https://github.com/steven-tey/dub/pull/95) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. 💪 Opened PR [#94](https://github.com/steven-tey/dub/pull/94) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 🏷️ Published release [v0.4.0](https://github.com/Snazzah/stub/releases/tag/v0.4.0) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 🎉 Merged PR [#70](https://github.com/Snazzah/stub/pull/70) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
