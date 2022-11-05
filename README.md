@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. ❗️ Closed issue [#81](https://github.com/Snazzah/stub/issues/81) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🗣 Commented on [#81](https://github.com/Snazzah/stub/issues/81) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 💪 Opened PR [#95](https://github.com/steven-tey/dub/pull/95) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. 💪 Opened PR [#94](https://github.com/steven-tey/dub/pull/94) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. ❗️ Closed issue [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. 🗣 Commented on [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. ❗️ Closed issue [#81](https://github.com/Snazzah/stub/issues/81) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 🗣 Commented on [#81](https://github.com/Snazzah/stub/issues/81) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
