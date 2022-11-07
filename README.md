@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 🗣 Commented on [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. ❗️ Closed issue [#81](https://github.com/Snazzah/stub/issues/81) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🗣 Commented on [#81](https://github.com/Snazzah/stub/issues/81) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🎉 Merged PR [#386](https://github.com/Snazzah/snazzah.com/pull/386) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+2. 💪 Opened PR [#386](https://github.com/Snazzah/snazzah.com/pull/386) in [Snazzah/snazzah.com](https://github.com/Snazzah/snazzah.com)
+3. ❗️ Closed issue [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 🗣 Commented on [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
+5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
