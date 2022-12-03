@@ -52,8 +52,8 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#396](https://github.com/Snazzah/slash-create/pull/396) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#396](https://github.com/Snazzah/slash-create/pull/396) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v1.1.2](https://github.com/trello-talk/WebhookAPI/releases/tag/v1.1.2) in [trello-talk/WebhookAPI](https://github.com/trello-talk/WebhookAPI)
+2. 🏷️ Published release [v8.1.1](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.1.1) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
 3. ❗️ Opened issue [#110](https://github.com/steven-tey/dub/issues/110) in [steven-tey/dub](https://github.com/steven-tey/dub)
 4. ❗️ Closed issue [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
 5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
