@@ -52,9 +52,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/Snazzah/stub/pull/119) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 🏷️ Published release [v8.1.1](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.1.1) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
-3. ❗️ Opened issue [#110](https://github.com/steven-tey/dub/issues/110) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#549](https://github.com/dbots-pkg/dbots.js/issues/549) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+2. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 🎉 Merged PR [#119](https://github.com/Snazzah/stub/pull/119) in [Snazzah/stub](https://github.com/Snazzah/stub)
 4. ❗️ Closed issue [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
 5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
