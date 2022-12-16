@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#549](https://github.com/dbots-pkg/dbots.js/issues/549) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
-2. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🎉 Merged PR [#119](https://github.com/Snazzah/stub/pull/119) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. ❗️ Closed issue [#82](https://github.com/Snazzah/stub/issues/82) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🎉 Merged PR [#124](https://github.com/Snazzah/stub/pull/124) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. 🗣 Commented on [#549](https://github.com/dbots-pkg/dbots.js/issues/549) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+3. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 🎉 Merged PR [#119](https://github.com/Snazzah/stub/pull/119) in [Snazzah/stub](https://github.com/Snazzah/stub)
 5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
