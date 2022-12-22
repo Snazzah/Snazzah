@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v5.11.0](https://github.com/Snazzah/slash-create/releases/tag/v5.11.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#125](https://github.com/Snazzah/stub/pull/125) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🎉 Merged PR [#124](https://github.com/Snazzah/stub/pull/124) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 🗣 Commented on [#549](https://github.com/dbots-pkg/dbots.js/issues/549) in [dbots-pkg/dbots.js](https://github.com/dbots-pkg/dbots.js)
+1. 🎉 Merged PR [#415](https://github.com/Snazzah/slash-create/pull/415) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🏷️ Published release [v5.11.0](https://github.com/Snazzah/slash-create/releases/tag/v5.11.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#125](https://github.com/Snazzah/stub/pull/125) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 🎉 Merged PR [#124](https://github.com/Snazzah/stub/pull/124) in [Snazzah/stub](https://github.com/Snazzah/stub)
 5. 🗣 Commented on [#56](https://github.com/Snazzah/stub/issues/56) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
