@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#418](https://github.com/Snazzah/slash-create/issues/418) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#418](https://github.com/Snazzah/slash-create/issues/418) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. 🗣 Commented on [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 🎉 Merged PR [#125](https://github.com/Snazzah/stub/pull/125) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 🗣 Commented on [#420](https://github.com/Snazzah/slash-create/issues/420) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#419](https://github.com/Snazzah/slash-create/pull/419) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#418](https://github.com/Snazzah/slash-create/issues/418) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#418](https://github.com/Snazzah/slash-create/issues/418) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
