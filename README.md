@@ -52,9 +52,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#72](https://github.com/Snazzah/SublimeDiscordRP/issues/72) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-2. 🎉 Merged PR [#104](https://github.com/Snazzah/SublimeDiscordRP/pull/104) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. 🗣 Commented on [#418](https://github.com/Snazzah/slash-create/issues/418) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v2.3.0](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.0) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. ❗️ Closed issue [#72](https://github.com/Snazzah/SublimeDiscordRP/issues/72) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. 🎉 Merged PR [#104](https://github.com/Snazzah/SublimeDiscordRP/pull/104) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 4. 🗣 Commented on [#418](https://github.com/Snazzah/slash-create/issues/418) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
