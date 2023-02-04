@@ -52,9 +52,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/projectdysnomia/dysnomia/pull/29) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 🏷️ Published release [v2.3.0](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.0) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. ❗️ Closed issue [#72](https://github.com/Snazzah/SublimeDiscordRP/issues/72) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. ❗️ Closed issue [#429](https://github.com/Snazzah/slash-create/issues/429) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#429](https://github.com/Snazzah/slash-create/issues/429) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#29](https://github.com/projectdysnomia/dysnomia/pull/29) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 4. 🎉 Merged PR [#104](https://github.com/Snazzah/SublimeDiscordRP/pull/104) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 5. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
