@@ -52,8 +52,8 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/wukko/cobalt/pull/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
-2. ❗️ Closed issue [#429](https://github.com/Snazzah/slash-create/issues/429) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v3.0.1](https://github.com/Dexare/Dexare/releases/tag/v3.0.1) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+2. 💪 Opened PR [#79](https://github.com/wukko/cobalt/pull/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
 3. 🗣 Commented on [#429](https://github.com/Snazzah/slash-create/issues/429) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 💪 Opened PR [#29](https://github.com/projectdysnomia/dysnomia/pull/29) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 5. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
