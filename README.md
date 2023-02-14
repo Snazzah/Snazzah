@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/projectdysnomia/dysnomia/pull/31) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 🏷️ Published release [v3.0.1](https://github.com/Dexare/Dexare/releases/tag/v3.0.1) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-3. 💪 Opened PR [#79](https://github.com/wukko/cobalt/pull/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
-4. 💪 Opened PR [#29](https://github.com/projectdysnomia/dysnomia/pull/29) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+1. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
+2. 💪 Opened PR [#31](https://github.com/projectdysnomia/dysnomia/pull/31) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 🏷️ Published release [v3.0.1](https://github.com/Dexare/Dexare/releases/tag/v3.0.1) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+4. 💪 Opened PR [#79](https://github.com/wukko/cobalt/pull/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
 5. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
