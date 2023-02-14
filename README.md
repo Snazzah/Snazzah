@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
-2. 💪 Opened PR [#31](https://github.com/projectdysnomia/dysnomia/pull/31) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-3. 🏷️ Published release [v3.0.1](https://github.com/Dexare/Dexare/releases/tag/v3.0.1) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-4. 💪 Opened PR [#79](https://github.com/wukko/cobalt/pull/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
-5. ❗️ Closed issue [#118](https://github.com/Snazzah/duck-duck-scrape/issues/118) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. ❗️ Closed issue [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. 🗣 Commented on [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🏷️ Published release [v2.2.2](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.2) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
+5. 💪 Opened PR [#31](https://github.com/projectdysnomia/dysnomia/pull/31) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 <!--END_SECTION:activity-->
 
 ---
