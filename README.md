@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#120](https://github.com/Snazzah/duck-duck-scrape/issues/120) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-2. 🗣 Commented on [#120](https://github.com/Snazzah/duck-duck-scrape/issues/120) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🏷️ Published release [v2.2.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. ❗️ Closed issue [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 🗣 Commented on [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#32](https://github.com/projectdysnomia/dysnomia/pull/32) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. ❗️ Closed issue [#120](https://github.com/Snazzah/duck-duck-scrape/issues/120) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🗣 Commented on [#120](https://github.com/Snazzah/duck-duck-scrape/issues/120) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🏷️ Published release [v2.2.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. ❗️ Closed issue [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
