@@ -52,9 +52,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/projectdysnomia/dysnomia/pull/38) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 🗣 Commented on [#439](https://github.com/Snazzah/slash-create/issues/439) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#120](https://github.com/Snazzah/duck-duck-scrape/issues/120) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. ✔️ Reviewed [#38](https://github.com/projectdysnomia/dysnomia/pull/38) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. 💪 Opened PR [#38](https://github.com/projectdysnomia/dysnomia/pull/38) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 🗣 Commented on [#439](https://github.com/Snazzah/slash-create/issues/439) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🗣 Commented on [#120](https://github.com/Snazzah/duck-duck-scrape/issues/120) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 5. 🏷️ Published release [v2.2.3](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.3) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
