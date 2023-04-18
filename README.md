@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#149](https://github.com/CraigChat/helper/pull/149) in [CraigChat/helper](https://github.com/CraigChat/helper)
-2. 🏷️ Published release [v3.0.2](https://github.com/Dexare/Dexare/releases/tag/v3.0.2) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
-3. ❗️ Closed issue [#199](https://github.com/Snazzah/stub/issues/199) in [Snazzah/stub](https://github.com/Snazzah/stub)
-4. 🗣 Commented on [#421](https://github.com/Snazzah/slash-create/issues/421) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#68](https://github.com/projectdysnomia/dysnomia/pull/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. 🎉 Merged PR [#149](https://github.com/CraigChat/helper/pull/149) in [CraigChat/helper](https://github.com/CraigChat/helper)
+3. 🏷️ Published release [v3.0.2](https://github.com/Dexare/Dexare/releases/tag/v3.0.2) in [Dexare/Dexare](https://github.com/Dexare/Dexare)
+4. ❗️ Closed issue [#199](https://github.com/Snazzah/stub/issues/199) in [Snazzah/stub](https://github.com/Snazzah/stub)
 5. ✔️ Reviewed [#38](https://github.com/projectdysnomia/dysnomia/pull/38) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 <!--END_SECTION:activity-->
 
