@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#130](https://github.com/Rob--W/crxviewer/pull/130) in [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer)
-2. 🏷️ Published release [v5.12.0](https://github.com/Snazzah/slash-create/releases/tag/v5.12.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#68](https://github.com/projectdysnomia/dysnomia/pull/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 💪 Opened PR [#68](https://github.com/projectdysnomia/dysnomia/pull/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-5. 🎉 Merged PR [#149](https://github.com/CraigChat/helper/pull/149) in [CraigChat/helper](https://github.com/CraigChat/helper)
+1. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
+2. 💪 Opened PR [#130](https://github.com/Rob--W/crxviewer/pull/130) in [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer)
+3. 🏷️ Published release [v5.12.0](https://github.com/Snazzah/slash-create/releases/tag/v5.12.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#68](https://github.com/projectdysnomia/dysnomia/pull/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 💪 Opened PR [#68](https://github.com/projectdysnomia/dysnomia/pull/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 <!--END_SECTION:activity-->
 
 ---
