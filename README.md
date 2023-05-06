@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
+1. 💪 Opened PR [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 2. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
-3. 💪 Opened PR [#130](https://github.com/Rob--W/crxviewer/pull/130) in [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer)
-4. 🏷️ Published release [v5.12.0](https://github.com/Snazzah/slash-create/releases/tag/v5.12.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#79](https://github.com/wukko/cobalt/issues/79) in [wukko/cobalt](https://github.com/wukko/cobalt)
+4. 💪 Opened PR [#130](https://github.com/Rob--W/crxviewer/pull/130) in [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer)
 5. ✔️ Reviewed [#68](https://github.com/projectdysnomia/dysnomia/pull/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 <!--END_SECTION:activity-->
 
