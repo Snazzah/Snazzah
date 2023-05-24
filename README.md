@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 🏷️ Published release [v2.2.4](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.4) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#134](https://github.com/wukko/cobalt/pull/134) in [wukko/cobalt](https://github.com/wukko/cobalt)
+2. 💪 Opened PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
