@@ -52,7 +52,7 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/wukko/cobalt/pull/134) in [wukko/cobalt](https://github.com/wukko/cobalt)
+1. 🏷️ Published release [v5.13.0](https://github.com/Snazzah/slash-create/releases/tag/v5.13.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 2. 💪 Opened PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 3. 🎉 Merged PR [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. ✔️ Reviewed [#470](https://github.com/Snazzah/slash-create/pull/470) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
