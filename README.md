@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#179](https://github.com/CraigChat/craig/issues/179) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. 💪 Opened PR [#1](https://github.com/uGuardian/YOMIH_MultiHustle/pull/1) in [uGuardian/YOMIH_MultiHustle](https://github.com/uGuardian/YOMIH_MultiHustle)
-4. 🏷️ Published release [v5.13.0](https://github.com/Snazzah/slash-create/releases/tag/v5.13.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#119](https://github.com/Snazzah/duck-duck-scrape/issues/119) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#3](https://github.com/uGuardian/YOMIH_MultiHustle/pull/3) in [uGuardian/YOMIH_MultiHustle](https://github.com/uGuardian/YOMIH_MultiHustle)
+2. 💪 Opened PR [#2](https://github.com/uGuardian/YOMIH_MultiHustle/pull/2) in [uGuardian/YOMIH_MultiHustle](https://github.com/uGuardian/YOMIH_MultiHustle)
+3. ❌ Closed PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#179](https://github.com/CraigChat/craig/issues/179) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 💪 Opened PR [#1](https://github.com/uGuardian/YOMIH_MultiHustle/pull/1) in [uGuardian/YOMIH_MultiHustle](https://github.com/uGuardian/YOMIH_MultiHustle)
 <!--END_SECTION:activity-->
 
 ---
