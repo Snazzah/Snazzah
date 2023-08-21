@@ -27,7 +27,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://api.iconify.design/simple-icons:css3.svg?color=%23c23616&height=26" />
 <img align="left" alt="JavaScript" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23c23616&height=26" />
 <img align="left" alt="TypeScript" width="26px" src="https://api.iconify.design/simple-icons:typescript.svg?color=%23c23616&height=26" />
-<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/simple-icons:node-dot-js.svg?color=%23c23616&height=26" />
+<img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%23c23616&height=26" />
 <img align="left" alt="Python" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23c23616&height=26" />
 <img align="left" alt="Ruby" width="26px" src="https://api.iconify.design/simple-icons:ruby.svg?color=%23c23616&height=26" />
 <img align="left" alt="Stylus" width="26px" src="https://api.iconify.design/simple-icons:stylus.svg?color=%23c23616&height=26" />
@@ -41,7 +41,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23c23616&height=26" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://api.iconify.design/simple-icons:postgresql.svg?color=%23c23616&height=26" />
 <img align="left" alt="Redis" width="26px" src="https://api.iconify.design/simple-icons:redis.svg?color=%23c23616&height=26" />
-<img align="left" alt="Vue" width="26px" src="https://api.iconify.design/simple-icons:vue-dot-js.svg?color=%23c23616&height=26" />
+<img align="left" alt="Vue" width="26px" src="https://api.iconify.design/mdi:vuejs.svg?color=%23c23616&height=26" />
 <img align="left" alt="React" width="26px" src="https://api.iconify.design/akar-icons:react-fill.svg?color=%23c23616&height=26" />
 <img align="left" alt="NGINX" width="26px" src="https://api.iconify.design/cib:nginx.svg?color=%23c23616&height=26" />
 
