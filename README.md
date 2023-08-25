@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/steven-tey/dub/issues/12) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. 💪 Opened PR [#3343](https://github.com/vscode-icons/vscode-icons/pull/3343) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-3. ❌ Closed PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
-4. 💪 Opened PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
-5. 🗣 Commented on [#12](https://github.com/steven-tey/dub/issues/12) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 💪 Opened PR [#3344](https://github.com/vscode-icons/vscode-icons/pull/3344) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. 🗣 Commented on [#12](https://github.com/steven-tey/dub/issues/12) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 💪 Opened PR [#3343](https://github.com/vscode-icons/vscode-icons/pull/3343) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+4. ❌ Closed PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
+5. 💪 Opened PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
 <!--END_SECTION:activity-->
 
 ---
