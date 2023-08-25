@@ -52,7 +52,7 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#214](https://github.com/trello-talk/TacoInteractions/pull/214) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
+1. 🗣 Commented on [#12](https://github.com/steven-tey/dub/issues/12) in [steven-tey/dub](https://github.com/steven-tey/dub)
 2. 💪 Opened PR [#214](https://github.com/trello-talk/TacoInteractions/pull/214) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
 3. ❌ Closed PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🗣 Commented on [#179](https://github.com/CraigChat/craig/issues/179) in [CraigChat/craig](https://github.com/CraigChat/craig)
