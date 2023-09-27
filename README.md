@@ -52,8 +52,8 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#515](https://github.com/Snazzah/slash-create/pull/515) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#3344](https://github.com/vscode-icons/vscode-icons/pull/3344) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+1. 🏷️ Published release [v5.14.0](https://github.com/Snazzah/slash-create/releases/tag/v5.14.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#515](https://github.com/Snazzah/slash-create/pull/515) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 3. 🗣 Commented on [#12](https://github.com/steven-tey/dub/issues/12) in [steven-tey/dub](https://github.com/steven-tey/dub)
 4. 💪 Opened PR [#3343](https://github.com/vscode-icons/vscode-icons/pull/3343) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
 5. ❌ Closed PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
