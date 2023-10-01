@@ -53,9 +53,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#68](https://github.com/projectdysnomia/dysnomia/issues/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 🏷️ Published release [v5.14.0](https://github.com/Snazzah/slash-create/releases/tag/v5.14.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#515](https://github.com/Snazzah/slash-create/pull/515) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#3343](https://github.com/vscode-icons/vscode-icons/pull/3343) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+2. 🗣 Commented on [#68](https://github.com/projectdysnomia/dysnomia/issues/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 🏷️ Published release [v5.14.0](https://github.com/Snazzah/slash-create/releases/tag/v5.14.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#515](https://github.com/Snazzah/slash-create/pull/515) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. ❌ Closed PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
 <!--END_SECTION:activity-->
 
