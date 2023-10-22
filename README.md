@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#539](https://github.com/Snazzah/slash-create/issues/539) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#68](https://github.com/projectdysnomia/dysnomia/issues/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. 🗣 Commented on [#539](https://github.com/Snazzah/slash-create/issues/539) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 3. 🗣 Commented on [#68](https://github.com/projectdysnomia/dysnomia/issues/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 🏷️ Published release [v5.14.0](https://github.com/Snazzah/slash-create/releases/tag/v5.14.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❌ Closed PR [#1](https://github.com/Snazzah/vscode-icons/pull/1) in [Snazzah/vscode-icons](https://github.com/Snazzah/vscode-icons)
+4. 🗣 Commented on [#68](https://github.com/projectdysnomia/dysnomia/issues/68) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 🏷️ Published release [v5.14.0](https://github.com/Snazzah/slash-create/releases/tag/v5.14.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
