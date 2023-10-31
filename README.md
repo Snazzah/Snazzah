@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#233](https://github.com/wukko/cobalt/pull/233) in [wukko/cobalt](https://github.com/wukko/cobalt)
-2. 🗣 Commented on [#439](https://github.com/Snazzah/slash-create/issues/439) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❌ Reopened PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#539](https://github.com/Snazzah/slash-create/issues/539) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#539](https://github.com/Snazzah/slash-create/issues/539) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ❗️ Closed issue [#1](https://github.com/Snazzah/botsgg-widget/issues/1) in [Snazzah/botsgg-widget](https://github.com/Snazzah/botsgg-widget)
+2. 🎉 Merged PR [#2](https://github.com/Snazzah/botsgg-widget/pull/2) in [Snazzah/botsgg-widget](https://github.com/Snazzah/botsgg-widget)
+3. 💪 Opened PR [#233](https://github.com/wukko/cobalt/pull/233) in [wukko/cobalt](https://github.com/wukko/cobalt)
+4. 🗣 Commented on [#439](https://github.com/Snazzah/slash-create/issues/439) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❌ Reopened PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
