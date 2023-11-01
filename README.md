@@ -52,7 +52,7 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Snazzah/botsgg-widget/issues/1) in [Snazzah/botsgg-widget](https://github.com/Snazzah/botsgg-widget)
+1. 🏷️ Published release [v2.0.0](https://github.com/Snazzah/eslint-config/releases/tag/v2.0.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 2. 🎉 Merged PR [#2](https://github.com/Snazzah/botsgg-widget/pull/2) in [Snazzah/botsgg-widget](https://github.com/Snazzah/botsgg-widget)
 3. 💪 Opened PR [#233](https://github.com/wukko/cobalt/pull/233) in [wukko/cobalt](https://github.com/wukko/cobalt)
 4. 🗣 Commented on [#439](https://github.com/Snazzah/slash-create/issues/439) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
