@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v2.0.0](https://github.com/Snazzah/eslint-config/releases/tag/v2.0.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
-2. 🎉 Merged PR [#2](https://github.com/Snazzah/botsgg-widget/pull/2) in [Snazzah/botsgg-widget](https://github.com/Snazzah/botsgg-widget)
-3. 💪 Opened PR [#233](https://github.com/wukko/cobalt/pull/233) in [wukko/cobalt](https://github.com/wukko/cobalt)
-4. 🗣 Commented on [#439](https://github.com/Snazzah/slash-create/issues/439) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. 🏷️ Published release [v2.0.0](https://github.com/Snazzah/eslint-config/releases/tag/v2.0.0) in [Snazzah/eslint-config](https://github.com/Snazzah/eslint-config)
 5. ❌ Reopened PR [#475](https://github.com/Snazzah/slash-create/pull/475) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
