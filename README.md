@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.4.0](https://github.com/Snazzah/slash-up/releases/tag/v1.4.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. 🏷️ Published release [v1.4.0](https://github.com/Snazzah/slash-up/releases/tag/v1.4.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🏷️ Published release [v1.4.1](https://github.com/Snazzah/slash-up/releases/tag/v1.4.1) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. 🏷️ Published release [v1.4.0](https://github.com/Snazzah/slash-up/releases/tag/v1.4.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+4. 🏷️ Published release [v1.4.0](https://github.com/Snazzah/slash-up/releases/tag/v1.4.0) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
 5. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
