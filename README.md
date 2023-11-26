@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Snazzah/slash-create-worker/issues/5) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
-2. ❗️ Closed issue [#6](https://github.com/Snazzah/slash-create-worker/issues/6) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
-3. ❗️ Closed issue [#4](https://github.com/Snazzah/slash-create-worker/issues/4) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
-4. 🏷️ Published release [v2.3.2](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.2) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. ✔️ Reviewed [#111](https://github.com/Snazzah/SublimeDiscordRP/pull/111) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🎉 Merged PR [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ✔️ Reviewed [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. ❗️ Closed issue [#5](https://github.com/Snazzah/slash-create-worker/issues/5) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
+4. ❗️ Closed issue [#6](https://github.com/Snazzah/slash-create-worker/issues/6) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
+5. ❗️ Closed issue [#4](https://github.com/Snazzah/slash-create-worker/issues/4) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
 <!--END_SECTION:activity-->
 
 ---
