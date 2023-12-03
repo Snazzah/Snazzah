@@ -53,10 +53,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#289](https://github.com/Snazzah/slash-up/issues/289) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. ❗️ Opened issue [#1](https://github.com/Snazzah/YOMIRecord/issues/1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-3. 🎉 Merged PR [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. ✔️ Reviewed [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. ❗️ Closed issue [#5](https://github.com/Snazzah/slash-create-worker/issues/5) in [Snazzah/slash-create-worker](https://github.com/Snazzah/slash-create-worker)
+2. 🗣 Commented on [#289](https://github.com/Snazzah/slash-up/issues/289) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+3. ❗️ Opened issue [#1](https://github.com/Snazzah/YOMIRecord/issues/1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+4. 🎉 Merged PR [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. ✔️ Reviewed [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
