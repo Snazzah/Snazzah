@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/Snazzah/slash-up/issues/289) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-2. 🗣 Commented on [#289](https://github.com/Snazzah/slash-up/issues/289) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
-3. ❗️ Opened issue [#1](https://github.com/Snazzah/YOMIRecord/issues/1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-4. 🎉 Merged PR [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. ✔️ Reviewed [#196](https://github.com/CraigChat/craig/pull/196) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. 🗣 Commented on [#136](https://github.com/Snazzah/duck-duck-scrape/issues/136) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. ❌ Closed PR [#136](https://github.com/Snazzah/duck-duck-scrape/pull/136) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🎉 Merged PR [#135](https://github.com/Snazzah/duck-duck-scrape/pull/135) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. ✔️ Reviewed [#135](https://github.com/Snazzah/duck-duck-scrape/pull/135) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. 🗣 Commented on [#289](https://github.com/Snazzah/slash-up/issues/289) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
 <!--END_SECTION:activity-->
 
 ---
