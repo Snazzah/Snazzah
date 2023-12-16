@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Snazzah/YOMIRecord/issues/1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-2. 🏷️ Published release [v1.3.1](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-3. 🏷️ Published release [v6.0.2](https://github.com/Snazzah/slash-create/releases/tag/v6.0.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v1.3.0](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.0) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-5. 🗣 Commented on [#136](https://github.com/Snazzah/duck-duck-scrape/issues/136) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 🏷️ Published release [v1.3.2](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+2. ❗️ Closed issue [#1](https://github.com/Snazzah/YOMIRecord/issues/1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+3. 🏷️ Published release [v1.3.1](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+4. 🏷️ Published release [v6.0.2](https://github.com/Snazzah/slash-create/releases/tag/v6.0.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v1.3.0](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.0) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
 <!--END_SECTION:activity-->
 
 ---
