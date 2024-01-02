@@ -52,9 +52,9 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v1.3.2](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-2. ❗️ Closed issue [#1](https://github.com/Snazzah/YOMIRecord/issues/1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-3. 🏷️ Published release [v1.3.1](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.1) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+1. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. 🏷️ Published release [v1.3.2](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
 4. 🏷️ Published release [v6.0.2](https://github.com/Snazzah/slash-create/releases/tag/v6.0.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. 🏷️ Published release [v1.3.0](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.0) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
 <!--END_SECTION:activity-->
