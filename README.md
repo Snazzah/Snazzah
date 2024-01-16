@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#287](https://github.com/Snazzah/stub/pull/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
-2. 🗣 Commented on [#287](https://github.com/Snazzah/stub/issues/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
-3. 🎉 Merged PR [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. ❗️ Closed issue [#573](https://github.com/Snazzah/slash-create/issues/573) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#287](https://github.com/Snazzah/stub/pull/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
+3. 🗣 Commented on [#287](https://github.com/Snazzah/stub/issues/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
+4. 🎉 Merged PR [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
 5. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
