@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. 🗣 Commented on [#287](https://github.com/Snazzah/stub/issues/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
+2. 🎉 Merged PR [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
 3. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
 4. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. 🏷️ Published release [v1.3.2](https://github.com/Snazzah/YOMIRecord/releases/tag/v1.3.2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+5. ✔️ Reviewed [#197](https://github.com/CraigChat/craig/pull/197) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
