@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8035](https://github.com/PreMiD/Presences/pull/8035) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 💪 Opened PR [#558](https://github.com/dubinc/dub/pull/558) in [dubinc/dub](https://github.com/dubinc/dub)
-3. ❗️ Closed issue [#573](https://github.com/Snazzah/slash-create/issues/573) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#287](https://github.com/Snazzah/stub/pull/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
-5. 🗣 Commented on [#287](https://github.com/Snazzah/stub/issues/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
+1. 💪 Opened PR [#623](https://github.com/dubinc/dub/pull/623) in [dubinc/dub](https://github.com/dubinc/dub)
+2. 💪 Opened PR [#8035](https://github.com/PreMiD/Presences/pull/8035) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+3. 💪 Opened PR [#558](https://github.com/dubinc/dub/pull/558) in [dubinc/dub](https://github.com/dubinc/dub)
+4. ❗️ Closed issue [#573](https://github.com/Snazzah/slash-create/issues/573) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#287](https://github.com/Snazzah/stub/pull/287) in [Snazzah/stub](https://github.com/Snazzah/stub)
 <!--END_SECTION:activity-->
 
 ---
