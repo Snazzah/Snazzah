@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8124](https://github.com/PreMiD/Presences/pull/8124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-2. 💪 Opened PR [#626](https://github.com/dubinc/dub/pull/626) in [dubinc/dub](https://github.com/dubinc/dub)
-3. 🗣 Commented on [#623](https://github.com/dubinc/dub/issues/623) in [dubinc/dub](https://github.com/dubinc/dub)
-4. 💪 Opened PR [#624](https://github.com/dubinc/dub/pull/624) in [dubinc/dub](https://github.com/dubinc/dub)
-5. 💪 Opened PR [#623](https://github.com/dubinc/dub/pull/623) in [dubinc/dub](https://github.com/dubinc/dub)
+1. 🎉 Merged PR [#607](https://github.com/Snazzah/slash-create/pull/607) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#607](https://github.com/Snazzah/slash-create/pull/607) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#8124](https://github.com/PreMiD/Presences/pull/8124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 💪 Opened PR [#626](https://github.com/dubinc/dub/pull/626) in [dubinc/dub](https://github.com/dubinc/dub)
+5. 🗣 Commented on [#623](https://github.com/dubinc/dub/issues/623) in [dubinc/dub](https://github.com/dubinc/dub)
 <!--END_SECTION:activity-->
 
 ---
