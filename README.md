@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#610](https://github.com/Snazzah/slash-create/issues/610) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v6.1.1](https://github.com/Snazzah/slash-create/releases/tag/v6.1.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#608](https://github.com/Snazzah/slash-create/pull/608) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#608](https://github.com/Snazzah/slash-create/pull/608) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🏷️ Published release [v6.1.0](https://github.com/Snazzah/slash-create/releases/tag/v6.1.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#290](https://github.com/Snazzah/slash-up/issues/290) in [Snazzah/slash-up](https://github.com/Snazzah/slash-up)
+2. 🗣 Commented on [#610](https://github.com/Snazzah/slash-create/issues/610) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🏷️ Published release [v6.1.1](https://github.com/Snazzah/slash-create/releases/tag/v6.1.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#608](https://github.com/Snazzah/slash-create/pull/608) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ✔️ Reviewed [#608](https://github.com/Snazzah/slash-create/pull/608) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
