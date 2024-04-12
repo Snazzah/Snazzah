@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
-2. 🏷️ Published release [v2.3.3](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.3) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
+1. ❌ Closed PR [#82](https://github.com/microsoft/sarif-js-sdk/pull/82) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
+2. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
+3. 🏷️ Published release [v2.3.3](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.3) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 4. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
-5. 🎉 Merged PR [#114](https://github.com/Snazzah/SublimeDiscordRP/pull/114) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+5. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
 <!--END_SECTION:activity-->
 
 ---
