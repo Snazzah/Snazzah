@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#41](https://github.com/CraigChat/webapp-server/issues/41) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-2. ❌ Closed PR [#82](https://github.com/microsoft/sarif-js-sdk/pull/82) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
-3. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
-4. 🏷️ Published release [v2.3.3](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.3) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
+1. 💪 Opened PR [#429](https://github.com/wukko/cobalt/pull/429) in [wukko/cobalt](https://github.com/wukko/cobalt)
+2. ❗️ Closed issue [#41](https://github.com/CraigChat/webapp-server/issues/41) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
+3. ❌ Closed PR [#82](https://github.com/microsoft/sarif-js-sdk/pull/82) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
+4. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
+5. 🏷️ Published release [v2.3.3](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.3) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
