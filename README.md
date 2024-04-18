@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#429](https://github.com/wukko/cobalt/pull/429) in [wukko/cobalt](https://github.com/wukko/cobalt)
-2. ❗️ Closed issue [#41](https://github.com/CraigChat/webapp-server/issues/41) in [CraigChat/webapp-server](https://github.com/CraigChat/webapp-server)
-3. ❌ Closed PR [#82](https://github.com/microsoft/sarif-js-sdk/pull/82) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
-4. ✔️ Reviewed [#83](https://github.com/microsoft/sarif-js-sdk/pull/83) in [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk)
-5. 🏷️ Published release [v2.3.3](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.3) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 🗣 Commented on [#611](https://github.com/Snazzah/slash-create/issues/611) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#611](https://github.com/Snazzah/slash-create/issues/611) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#612](https://github.com/Snazzah/slash-create/issues/612) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❌ Closed PR [#612](https://github.com/Snazzah/slash-create/pull/612) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#429](https://github.com/wukko/cobalt/pull/429) in [wukko/cobalt](https://github.com/wukko/cobalt)
 <!--END_SECTION:activity-->
 
 ---
