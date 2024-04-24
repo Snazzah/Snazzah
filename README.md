@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v6.1.3](https://github.com/Snazzah/slash-create/releases/tag/v6.1.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❌ Closed PR [#8124](https://github.com/PreMiD/Presences/pull/8124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
-3. 🗣 Commented on [#611](https://github.com/Snazzah/slash-create/issues/611) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#611](https://github.com/Snazzah/slash-create/issues/611) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#612](https://github.com/Snazzah/slash-create/issues/612) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#131](https://github.com/projectdysnomia/dysnomia/pull/131) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. 🏷️ Published release [v6.1.3](https://github.com/Snazzah/slash-create/releases/tag/v6.1.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❌ Closed PR [#8124](https://github.com/PreMiD/Presences/pull/8124) in [PreMiD/Presences](https://github.com/PreMiD/Presences)
+4. 🗣 Commented on [#611](https://github.com/Snazzah/slash-create/issues/611) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#611](https://github.com/Snazzah/slash-create/issues/611) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
