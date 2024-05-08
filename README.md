@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-2. 🗣 Commented on [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-3. 🗣 Commented on [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-4. 💪 Opened PR [#131](https://github.com/projectdysnomia/dysnomia/pull/131) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-5. 🏷️ Published release [v6.1.3](https://github.com/Snazzah/slash-create/releases/tag/v6.1.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+4. 🗣 Commented on [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+5. 🗣 Commented on [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
 <!--END_SECTION:activity-->
 
 ---
