@@ -52,10 +52,10 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-4. 🗣 Commented on [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+1. 🎉 Merged PR [#614](https://github.com/Snazzah/slash-create/pull/614) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
 5. 🗣 Commented on [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
 <!--END_SECTION:activity-->
 
