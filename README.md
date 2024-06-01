@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/wukko/cobalt/issues/429) in [wukko/cobalt](https://github.com/wukko/cobalt)
-2. 🎉 Merged PR [#614](https://github.com/Snazzah/slash-create/pull/614) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. ❗️ Closed issue [#1](https://github.com/Snazzah/catcut/issues/1) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+1. ✔️ Reviewed [#534](https://github.com/imputnet/cobalt/pull/534) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
+2. ✔️ Reviewed [#534](https://github.com/imputnet/cobalt/pull/534) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
+3. 🗣 Commented on [#429](https://github.com/wukko/cobalt/issues/429) in [wukko/cobalt](https://github.com/wukko/cobalt)
+4. 🎉 Merged PR [#614](https://github.com/Snazzah/slash-create/pull/614) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#613](https://github.com/Snazzah/slash-create/pull/613) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
