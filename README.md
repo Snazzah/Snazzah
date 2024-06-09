@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#131](https://github.com/Snazzah/duck-duck-scrape/issues/131) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-2. ✔️ Reviewed [#534](https://github.com/imputnet/cobalt/pull/534) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
-3. ✔️ Reviewed [#534](https://github.com/imputnet/cobalt/pull/534) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
-4. 🗣 Commented on [#429](https://github.com/wukko/cobalt/issues/429) in [wukko/cobalt](https://github.com/wukko/cobalt)
-5. 🎉 Merged PR [#614](https://github.com/Snazzah/slash-create/pull/614) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#616](https://github.com/Snazzah/slash-create/pull/616) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#616](https://github.com/Snazzah/slash-create/pull/616) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#131](https://github.com/Snazzah/duck-duck-scrape/issues/131) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. ✔️ Reviewed [#534](https://github.com/imputnet/cobalt/pull/534) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
+5. ✔️ Reviewed [#534](https://github.com/imputnet/cobalt/pull/534) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
 <!--END_SECTION:activity-->
 
 ---
