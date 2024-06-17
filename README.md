@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#575](https://github.com/imputnet/cobalt/pull/575) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
-2. 🏷️ Published release [v6.1.4](https://github.com/Snazzah/slash-create/releases/tag/v6.1.4) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#616](https://github.com/Snazzah/slash-create/pull/616) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#616](https://github.com/Snazzah/slash-create/pull/616) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#131](https://github.com/Snazzah/duck-duck-scrape/issues/131) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#15](https://github.com/dimdenGD/YeahTwitter/pull/15) in [dimdenGD/YeahTwitter](https://github.com/dimdenGD/YeahTwitter)
+2. 💪 Opened PR [#575](https://github.com/imputnet/cobalt/pull/575) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
+3. 🏷️ Published release [v6.1.4](https://github.com/Snazzah/slash-create/releases/tag/v6.1.4) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#616](https://github.com/Snazzah/slash-create/pull/616) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ✔️ Reviewed [#616](https://github.com/Snazzah/slash-create/pull/616) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
