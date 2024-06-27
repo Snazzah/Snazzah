@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#618](https://github.com/Snazzah/slash-create/pull/618) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#618](https://github.com/Snazzah/slash-create/pull/618) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#617](https://github.com/Snazzah/slash-create/pull/617) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#617](https://github.com/Snazzah/slash-create/pull/617) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#15](https://github.com/dimdenGD/YeahTwitter/pull/15) in [dimdenGD/YeahTwitter](https://github.com/dimdenGD/YeahTwitter)
+1. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.1) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
+2. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.1) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
+3. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.0) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
+4. 🎉 Merged PR [#618](https://github.com/Snazzah/slash-create/pull/618) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ✔️ Reviewed [#618](https://github.com/Snazzah/slash-create/pull/618) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
