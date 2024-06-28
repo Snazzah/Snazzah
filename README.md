@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#619](https://github.com/Snazzah/slash-create/issues/619) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.1) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
-3. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.1) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
-4. 🏷️ Published release [v1.0.0](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.0) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
-5. 🎉 Merged PR [#618](https://github.com/Snazzah/slash-create/pull/618) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ✔️ Reviewed [#621](https://github.com/Snazzah/slash-create/pull/621) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#621](https://github.com/Snazzah/slash-create/pull/621) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#621](https://github.com/Snazzah/slash-create/issues/621) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#619](https://github.com/Snazzah/slash-create/issues/619) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v1.0.1](https://github.com/Snazzah/TweetDiff/releases/tag/v1.0.1) in [Snazzah/TweetDiff](https://github.com/Snazzah/TweetDiff)
 <!--END_SECTION:activity-->
 
 ---
