@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v6.2.1](https://github.com/Snazzah/slash-create/releases/tag/v6.2.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#622](https://github.com/Snazzah/slash-create/pull/622) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#622](https://github.com/Snazzah/slash-create/pull/622) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#1521](https://github.com/abalabahaha/eris/pull/1521) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-5. 🏷️ Published release [v6.2.0](https://github.com/Snazzah/slash-create/releases/tag/v6.2.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#1](https://github.com/Steemcord/Presences/pull/1) in [Steemcord/Presences](https://github.com/Steemcord/Presences)
+2. 🏷️ Published release [v6.2.1](https://github.com/Snazzah/slash-create/releases/tag/v6.2.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#622](https://github.com/Snazzah/slash-create/pull/622) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#622](https://github.com/Snazzah/slash-create/pull/622) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#1521](https://github.com/abalabahaha/eris/pull/1521) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
 <!--END_SECTION:activity-->
 
 ---
