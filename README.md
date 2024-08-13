@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Steemcord/Steemcord/pull/5) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
-2. ✔️ Reviewed [#5](https://github.com/Steemcord/Steemcord/pull/5) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
-3. 🎉 Merged PR [#6](https://github.com/Steemcord/Steemcord/pull/6) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
-4. ✔️ Reviewed [#6](https://github.com/Steemcord/Steemcord/pull/6) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
-5. 🎉 Merged PR [#4](https://github.com/Steemcord/Steemcord/pull/4) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
+1. 🎉 Merged PR [#189](https://github.com/CraigChat/webapp/pull/189) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+2. 🎉 Merged PR [#190](https://github.com/CraigChat/webapp/pull/190) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+3. 🎉 Merged PR [#5](https://github.com/Steemcord/Steemcord/pull/5) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
+4. ✔️ Reviewed [#5](https://github.com/Steemcord/Steemcord/pull/5) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
+5. 🎉 Merged PR [#6](https://github.com/Steemcord/Steemcord/pull/6) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
 <!--END_SECTION:activity-->
 
 ---
