@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/projectdysnomia/dysnomia/issues/156) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 💪 Opened PR [#156](https://github.com/projectdysnomia/dysnomia/pull/156) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-3. 🎉 Merged PR [#189](https://github.com/CraigChat/webapp/pull/189) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-4. 🎉 Merged PR [#190](https://github.com/CraigChat/webapp/pull/190) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
-5. 🎉 Merged PR [#5](https://github.com/Steemcord/Steemcord/pull/5) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
+1. ✔️ Reviewed [#115](https://github.com/Snazzah/SublimeDiscordRP/pull/115) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+2. 🗣 Commented on [#156](https://github.com/projectdysnomia/dysnomia/issues/156) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 💪 Opened PR [#156](https://github.com/projectdysnomia/dysnomia/pull/156) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+4. 🎉 Merged PR [#189](https://github.com/CraigChat/webapp/pull/189) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
+5. 🎉 Merged PR [#190](https://github.com/CraigChat/webapp/pull/190) in [CraigChat/webapp](https://github.com/CraigChat/webapp)
 <!--END_SECTION:activity-->
 
 ---
