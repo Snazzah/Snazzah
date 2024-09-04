@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#116](https://github.com/Snazzah/SublimeDiscordRP/pull/116) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 💪 Opened PR [#161](https://github.com/projectdysnomia/dysnomia/pull/161) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 2. ✔️ Reviewed [#116](https://github.com/Snazzah/SublimeDiscordRP/pull/116) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-3. 💪 Opened PR [#160](https://github.com/projectdysnomia/dysnomia/pull/160) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 🏷️ Published release [v2.3.4](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.4) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. ❗️ Closed issue [#113](https://github.com/Snazzah/SublimeDiscordRP/issues/113) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+3. ✔️ Reviewed [#116](https://github.com/Snazzah/SublimeDiscordRP/pull/116) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+4. 💪 Opened PR [#160](https://github.com/projectdysnomia/dysnomia/pull/160) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 🏷️ Published release [v2.3.4](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.4) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
 <!--END_SECTION:activity-->
 
 ---
