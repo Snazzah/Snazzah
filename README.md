@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-2. 🗣 Commented on [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-3. 🏷️ Published release [v8.2.1](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.2.1) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
-4. 🏷️ Published release [v8.2.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.2.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
-5. 🏷️ Published release [v2.3.5](https://github.com/Snazzah/SublimeDiscordRP/releases/tag/v2.3.5) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
+1. 💪 Opened PR [#163](https://github.com/projectdysnomia/dysnomia/pull/163) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. ❗️ Closed issue [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+3. 🗣 Commented on [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+4. 🏷️ Published release [v8.2.1](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.2.1) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
+5. 🏷️ Published release [v8.2.0](https://github.com/trello-talk/TacoInteractions/releases/tag/v8.2.0) in [trello-talk/TacoInteractions](https://github.com/trello-talk/TacoInteractions)
 <!--END_SECTION:activity-->
 
 ---
