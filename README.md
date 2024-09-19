@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#165](https://github.com/projectdysnomia/dysnomia/pull/165) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 💪 Opened PR [#1542](https://github.com/abalabahaha/eris/pull/1542) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-3. 💪 Opened PR [#163](https://github.com/projectdysnomia/dysnomia/pull/163) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. ❗️ Closed issue [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-5. 🗣 Commented on [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+1. ❗️ Opened issue [#7158](https://github.com/discord/discord-api-docs/issues/7158) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 💪 Opened PR [#165](https://github.com/projectdysnomia/dysnomia/pull/165) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 💪 Opened PR [#1542](https://github.com/abalabahaha/eris/pull/1542) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+4. 💪 Opened PR [#163](https://github.com/projectdysnomia/dysnomia/pull/163) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. ❗️ Closed issue [#4](https://github.com/Snazzah/catcut/issues/4) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
 <!--END_SECTION:activity-->
 
 ---
