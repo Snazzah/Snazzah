@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1548](https://github.com/abalabahaha/eris/pull/1548) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-2. 💪 Opened PR [#1547](https://github.com/abalabahaha/eris/pull/1547) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-3. 🗣 Commented on [#1544](https://github.com/abalabahaha/eris/issues/1544) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-4. 💪 Opened PR [#7164](https://github.com/discord/discord-api-docs/pull/7164) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-5. ❗️ Opened issue [#7158](https://github.com/discord/discord-api-docs/issues/7158) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. 🏷️ Published release [v6.3.0](https://github.com/Snazzah/slash-create/releases/tag/v6.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 💪 Opened PR [#1548](https://github.com/abalabahaha/eris/pull/1548) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+3. 💪 Opened PR [#1547](https://github.com/abalabahaha/eris/pull/1547) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+4. 🗣 Commented on [#1544](https://github.com/abalabahaha/eris/issues/1544) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+5. 💪 Opened PR [#7164](https://github.com/discord/discord-api-docs/pull/7164) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
 <!--END_SECTION:activity-->
 
 ---
