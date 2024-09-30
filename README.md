@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#169](https://github.com/projectdysnomia/dysnomia/pull/169) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 💪 Opened PR [#1557](https://github.com/abalabahaha/eris/pull/1557) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-3. 💪 Opened PR [#168](https://github.com/projectdysnomia/dysnomia/pull/168) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 🎉 Merged PR [#7](https://github.com/Steemcord/Steemcord/pull/7) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
-5. 🏷️ Published release [v6.3.0](https://github.com/Snazzah/slash-create/releases/tag/v6.3.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#1558](https://github.com/abalabahaha/eris/pull/1558) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+2. 💪 Opened PR [#169](https://github.com/projectdysnomia/dysnomia/pull/169) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 💪 Opened PR [#1557](https://github.com/abalabahaha/eris/pull/1557) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+4. 💪 Opened PR [#168](https://github.com/projectdysnomia/dysnomia/pull/168) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 🎉 Merged PR [#7](https://github.com/Steemcord/Steemcord/pull/7) in [Steemcord/Steemcord](https://github.com/Steemcord/Steemcord)
 <!--END_SECTION:activity-->
 
 ---
