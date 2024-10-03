@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#15](https://github.com/meew0/webhook-test/pull/15) in [meew0/webhook-test](https://github.com/meew0/webhook-test)
-2. ❌ Closed PR [#1](https://github.com/meew0/rubot/pull/1) in [meew0/rubot](https://github.com/meew0/rubot)
-3. 💪 Opened PR [#1558](https://github.com/abalabahaha/eris/pull/1558) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
-4. 💪 Opened PR [#169](https://github.com/projectdysnomia/dysnomia/pull/169) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-5. 💪 Opened PR [#1557](https://github.com/abalabahaha/eris/pull/1557) in [abalabahaha/eris](https://github.com/abalabahaha/eris)
+1. ❗️ Closed issue [#195](https://github.com/CraigChat/craig/issues/195) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ❗️ Closed issue [#194](https://github.com/CraigChat/craig/issues/194) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. ❗️ Closed issue [#164](https://github.com/CraigChat/craig/issues/164) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. ❗️ Closed issue [#198](https://github.com/CraigChat/craig/issues/198) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. ❌ Closed PR [#15](https://github.com/meew0/webhook-test/pull/15) in [meew0/webhook-test](https://github.com/meew0/webhook-test)
 <!--END_SECTION:activity-->
 
 ---
