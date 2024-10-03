@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#195](https://github.com/CraigChat/craig/issues/195) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. ❗️ Closed issue [#194](https://github.com/CraigChat/craig/issues/194) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. ❗️ Closed issue [#164](https://github.com/CraigChat/craig/issues/164) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. ❗️ Closed issue [#198](https://github.com/CraigChat/craig/issues/198) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. ❌ Closed PR [#15](https://github.com/meew0/webhook-test/pull/15) in [meew0/webhook-test](https://github.com/meew0/webhook-test)
+1. 🎉 Merged PR [#201](https://github.com/CraigChat/craig/pull/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. 🗣 Commented on [#201](https://github.com/CraigChat/craig/issues/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. ❗️ Closed issue [#195](https://github.com/CraigChat/craig/issues/195) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. ❗️ Closed issue [#194](https://github.com/CraigChat/craig/issues/194) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. ❗️ Closed issue [#164](https://github.com/CraigChat/craig/issues/164) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
