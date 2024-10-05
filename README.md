@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/AlexFlipnote/discord.http/pull/4) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-2. 💪 Opened PR [#2](https://github.com/AlexFlipnote/discord.http/pull/2) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-3. 🎉 Merged PR [#201](https://github.com/CraigChat/craig/pull/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. 🗣 Commented on [#201](https://github.com/CraigChat/craig/issues/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. ❗️ Closed issue [#195](https://github.com/CraigChat/craig/issues/195) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. 💪 Opened PR [#6](https://github.com/AlexFlipnote/discord.http/pull/6) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+2. 💪 Opened PR [#4](https://github.com/AlexFlipnote/discord.http/pull/4) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+3. 💪 Opened PR [#2](https://github.com/AlexFlipnote/discord.http/pull/2) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+4. 🎉 Merged PR [#201](https://github.com/CraigChat/craig/pull/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 🗣 Commented on [#201](https://github.com/CraigChat/craig/issues/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
