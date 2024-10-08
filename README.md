@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/AlexFlipnote/discord.http/pull/6) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-2. 💪 Opened PR [#4](https://github.com/AlexFlipnote/discord.http/pull/4) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-3. 💪 Opened PR [#2](https://github.com/AlexFlipnote/discord.http/pull/2) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-4. 🎉 Merged PR [#201](https://github.com/CraigChat/craig/pull/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. 🗣 Commented on [#201](https://github.com/CraigChat/craig/issues/201) in [CraigChat/craig](https://github.com/CraigChat/craig)
+1. 🗣 Commented on [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. ❗️ Closed issue [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 💪 Opened PR [#6](https://github.com/AlexFlipnote/discord.http/pull/6) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+4. 💪 Opened PR [#4](https://github.com/AlexFlipnote/discord.http/pull/4) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+5. 💪 Opened PR [#2](https://github.com/AlexFlipnote/discord.http/pull/2) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
 <!--END_SECTION:activity-->
 
 ---
