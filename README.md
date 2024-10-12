@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3602](https://github.com/vscode-icons/vscode-icons/pull/3602) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
-2. 🎉 Merged PR [#625](https://github.com/Snazzah/slash-create/pull/625) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#10](https://github.com/AlexFlipnote/discord.http/pull/10) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+2. 💪 Opened PR [#3602](https://github.com/vscode-icons/vscode-icons/pull/3602) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+3. 🎉 Merged PR [#625](https://github.com/Snazzah/slash-create/pull/625) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. 🗣 Commented on [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. ❗️ Closed issue [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. 🗣 Commented on [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
