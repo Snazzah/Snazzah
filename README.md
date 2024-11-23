@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/Snazzah/duck-duck-scrape/issues/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-2. 🗣 Commented on [#140](https://github.com/Snazzah/duck-duck-scrape/issues/140) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🗣 Commented on [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. 💪 Opened PR [#10](https://github.com/AlexFlipnote/discord.http/pull/10) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-5. 💪 Opened PR [#3602](https://github.com/vscode-icons/vscode-icons/pull/3602) in [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons)
+1. 🏷️ Published release [v2.2.6](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.6) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. 🎉 Merged PR [#141](https://github.com/Snazzah/duck-duck-scrape/pull/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🗣 Commented on [#141](https://github.com/Snazzah/duck-duck-scrape/issues/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🗣 Commented on [#140](https://github.com/Snazzah/duck-duck-scrape/issues/140) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. 🗣 Commented on [#139](https://github.com/Snazzah/duck-duck-scrape/issues/139) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
