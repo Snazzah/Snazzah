@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#188](https://github.com/projectdysnomia/dysnomia/pull/188) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 🏷️ Published release [v2.2.6](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.6) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🎉 Merged PR [#141](https://github.com/Snazzah/duck-duck-scrape/pull/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-4. 🗣 Commented on [#141](https://github.com/Snazzah/duck-duck-scrape/issues/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 🗣 Commented on [#140](https://github.com/Snazzah/duck-duck-scrape/issues/140) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 🗣 Commented on [#140](https://github.com/Snazzah/duck-duck-scrape/issues/140) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. 💪 Opened PR [#188](https://github.com/projectdysnomia/dysnomia/pull/188) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 🏷️ Published release [v2.2.6](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.6) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 🎉 Merged PR [#141](https://github.com/Snazzah/duck-duck-scrape/pull/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+5. 🗣 Commented on [#141](https://github.com/Snazzah/duck-duck-scrape/issues/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
