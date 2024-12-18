@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🗣 Commented on [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#2](https://github.com/Snazzah/YOMIRecord/issues/2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
-5. 🎉 Merged PR [#2](https://github.com/Snazzah/YOMIRecord/pull/2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+1. 🏷️ Published release [v6.3.1](https://github.com/Snazzah/slash-create/releases/tag/v6.3.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ❗️ Closed issue [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#2](https://github.com/Snazzah/YOMIRecord/issues/2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
 <!--END_SECTION:activity-->
 
 ---
