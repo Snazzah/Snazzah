@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#204](https://github.com/CraigChat/craig/pull/204) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. 🗣 Commented on [#140](https://github.com/Snazzah/duck-duck-scrape/issues/140) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 💪 Opened PR [#188](https://github.com/projectdysnomia/dysnomia/pull/188) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 🏷️ Published release [v2.2.6](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.6) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-5. 🎉 Merged PR [#141](https://github.com/Snazzah/duck-duck-scrape/pull/141) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 🗣 Commented on [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🗣 Commented on [#2](https://github.com/Snazzah/YOMIRecord/issues/2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+4. 🎉 Merged PR [#2](https://github.com/Snazzah/YOMIRecord/pull/2) in [Snazzah/YOMIRecord](https://github.com/Snazzah/YOMIRecord)
+5. 🎉 Merged PR [#204](https://github.com/CraigChat/craig/pull/204) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
