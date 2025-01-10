@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/AlexFlipnote/discord.http/pull/13) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
-2. 🏷️ Published release [v6.3.1](https://github.com/Snazzah/slash-create/releases/tag/v6.3.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#626](https://github.com/Snazzah/slash-create/issues/626) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.7) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+2. ❗️ Closed issue [#143](https://github.com/Snazzah/duck-duck-scrape/issues/143) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+3. 🎉 Merged PR [#142](https://github.com/Snazzah/duck-duck-scrape/pull/142) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+4. 💪 Opened PR [#13](https://github.com/AlexFlipnote/discord.http/pull/13) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+5. 🏷️ Published release [v6.3.1](https://github.com/Snazzah/slash-create/releases/tag/v6.3.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
