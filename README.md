@@ -52,8 +52,8 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#575](https://github.com/imputnet/cobalt/issues/575) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
-2. 🏷️ Published release [v2.2.7](https://github.com/Snazzah/duck-duck-scrape/releases/tag/v2.2.7) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
+1. 💪 Opened PR [#628](https://github.com/Snazzah/slash-create/pull/628) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#575](https://github.com/imputnet/cobalt/issues/575) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
 3. ❗️ Closed issue [#143](https://github.com/Snazzah/duck-duck-scrape/issues/143) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 4. 🎉 Merged PR [#142](https://github.com/Snazzah/duck-duck-scrape/pull/142) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 5. 💪 Opened PR [#13](https://github.com/AlexFlipnote/discord.http/pull/13) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
