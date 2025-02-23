@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 💪 Opened PR [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-3. 💪 Opened PR [#628](https://github.com/Snazzah/slash-create/pull/628) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#575](https://github.com/imputnet/cobalt/issues/575) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
-5. 💪 Opened PR [#13](https://github.com/AlexFlipnote/discord.http/pull/13) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+1. 🎉 Merged PR [#207](https://github.com/CraigChat/craig/pull/207) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ✔️ Reviewed [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. 💪 Opened PR [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+4. 💪 Opened PR [#628](https://github.com/Snazzah/slash-create/pull/628) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#575](https://github.com/imputnet/cobalt/issues/575) in [imputnet/cobalt](https://github.com/imputnet/cobalt)
 <!--END_SECTION:activity-->
 
 ---
