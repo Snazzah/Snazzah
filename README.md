@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v0.1.0](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.0) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
-2. 🎉 Merged PR [#207](https://github.com/CraigChat/craig/pull/207) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. ✔️ Reviewed [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 💪 Opened PR [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-5. 💪 Opened PR [#628](https://github.com/Snazzah/slash-create/pull/628) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v0.1.1](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.1) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
+2. 🏷️ Published release [v0.1.0](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.0) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
+3. 🎉 Merged PR [#207](https://github.com/CraigChat/craig/pull/207) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. ✔️ Reviewed [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 💪 Opened PR [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 <!--END_SECTION:activity-->
 
 ---
