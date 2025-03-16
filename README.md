@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v0.1.1](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.1) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
-2. 🏷️ Published release [v0.1.0](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.0) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
-3. 🎉 Merged PR [#207](https://github.com/CraigChat/craig/pull/207) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. ✔️ Reviewed [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-5. 💪 Opened PR [#194](https://github.com/projectdysnomia/dysnomia/pull/194) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+1. 🎉 Merged PR [#629](https://github.com/Snazzah/slash-create/pull/629) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. ✔️ Reviewed [#629](https://github.com/Snazzah/slash-create/pull/629) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🏷️ Published release [v0.1.1](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.1) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
+4. 🏷️ Published release [v0.1.0](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.0) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
+5. 🎉 Merged PR [#207](https://github.com/CraigChat/craig/pull/207) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
