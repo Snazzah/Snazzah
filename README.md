@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#196](https://github.com/projectdysnomia/dysnomia/pull/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-2. 🎉 Merged PR [#146](https://github.com/Snazzah/duck-duck-scrape/pull/146) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
-3. 🗣 Commented on [#118](https://github.com/Snazzah/SublimeDiscordRP/issues/118) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-4. ❗️ Closed issue [#118](https://github.com/Snazzah/SublimeDiscordRP/issues/118) in [Snazzah/SublimeDiscordRP](https://github.com/Snazzah/SublimeDiscordRP)
-5. 🎉 Merged PR [#629](https://github.com/Snazzah/slash-create/pull/629) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ✔️ Reviewed [#196](https://github.com/projectdysnomia/dysnomia/pull/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. ✔️ Reviewed [#196](https://github.com/projectdysnomia/dysnomia/pull/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+3. ✔️ Reviewed [#196](https://github.com/projectdysnomia/dysnomia/pull/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+4. 💪 Opened PR [#196](https://github.com/projectdysnomia/dysnomia/pull/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 🎉 Merged PR [#146](https://github.com/Snazzah/duck-duck-scrape/pull/146) in [Snazzah/duck-duck-scrape](https://github.com/Snazzah/duck-duck-scrape)
 <!--END_SECTION:activity-->
 
 ---
