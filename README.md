@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#630](https://github.com/Snazzah/slash-create/issues/630) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v6.3.2](https://github.com/Snazzah/slash-create/releases/tag/v6.3.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#630](https://github.com/Snazzah/slash-create/issues/630) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🎉 Merged PR [#631](https://github.com/Snazzah/slash-create/pull/631) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#631](https://github.com/Snazzah/slash-create/pull/631) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#95](https://github.com/Ennoriel/svelte-awesome-color-picker/pull/95) in [Ennoriel/svelte-awesome-color-picker](https://github.com/Ennoriel/svelte-awesome-color-picker)
+2. 🗣 Commented on [#630](https://github.com/Snazzah/slash-create/issues/630) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🏷️ Published release [v6.3.2](https://github.com/Snazzah/slash-create/releases/tag/v6.3.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#630](https://github.com/Snazzah/slash-create/issues/630) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🎉 Merged PR [#631](https://github.com/Snazzah/slash-create/pull/631) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
