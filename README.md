@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1750](https://github.com/openmls/openmls/pull/1750) in [openmls/openmls](https://github.com/openmls/openmls)
-2. 💪 Opened PR [#197](https://github.com/projectdysnomia/dysnomia/pull/197) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-3. 🎉 Merged PR [#208](https://github.com/CraigChat/craig/pull/208) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. 💪 Opened PR [#95](https://github.com/Ennoriel/svelte-awesome-color-picker/pull/95) in [Ennoriel/svelte-awesome-color-picker](https://github.com/Ennoriel/svelte-awesome-color-picker)
-5. 🗣 Commented on [#630](https://github.com/Snazzah/slash-create/issues/630) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#1750](https://github.com/openmls/openmls/issues/1750) in [openmls/openmls](https://github.com/openmls/openmls)
+2. 💪 Opened PR [#1750](https://github.com/openmls/openmls/pull/1750) in [openmls/openmls](https://github.com/openmls/openmls)
+3. 💪 Opened PR [#197](https://github.com/projectdysnomia/dysnomia/pull/197) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+4. 🎉 Merged PR [#208](https://github.com/CraigChat/craig/pull/208) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 💪 Opened PR [#95](https://github.com/Ennoriel/svelte-awesome-color-picker/pull/95) in [Ennoriel/svelte-awesome-color-picker](https://github.com/Ennoriel/svelte-awesome-color-picker)
 <!--END_SECTION:activity-->
 
 ---
