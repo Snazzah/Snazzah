@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-2. ❗️ Closed issue [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-3. 🎉 Merged PR [#7](https://github.com/Snazzah/catcut/pull/7) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-4. ✔️ Reviewed [#7](https://github.com/Snazzah/catcut/pull/7) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-5. 🗣 Commented on [#1750](https://github.com/openmls/openmls/issues/1750) in [openmls/openmls](https://github.com/openmls/openmls)
+1. 🎉 Merged PR [#2](https://github.com/Steemcord/Presences/pull/2) in [Steemcord/Presences](https://github.com/Steemcord/Presences)
+2. 🗣 Commented on [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+3. ❗️ Closed issue [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+4. 🎉 Merged PR [#7](https://github.com/Snazzah/catcut/pull/7) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+5. ✔️ Reviewed [#7](https://github.com/Snazzah/catcut/pull/7) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
 <!--END_SECTION:activity-->
 
 ---
