@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#628](https://github.com/Snazzah/slash-create/pull/628) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#2](https://github.com/Steemcord/Presences/pull/2) in [Steemcord/Presences](https://github.com/Steemcord/Presences)
-3. 🗣 Commented on [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-4. ❗️ Closed issue [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
-5. 🎉 Merged PR [#7](https://github.com/Snazzah/catcut/pull/7) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
+1. ❗️ Closed issue [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#628](https://github.com/Snazzah/slash-create/pull/628) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#2](https://github.com/Steemcord/Presences/pull/2) in [Steemcord/Presences](https://github.com/Steemcord/Presences)
+5. 🗣 Commented on [#3](https://github.com/Snazzah/catcut/issues/3) in [Snazzah/catcut](https://github.com/Snazzah/catcut)
 <!--END_SECTION:activity-->
 
 ---
