@@ -52,11 +52,11 @@
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v6.4.1](https://github.com/Snazzah/slash-create/releases/tag/v6.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ❗️ Closed issue [#632](https://github.com/Snazzah/slash-create/issues/632) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🏷️ Published release [v6.4.0](https://github.com/Snazzah/slash-create/releases/tag/v6.4.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 💪 Opened PR [#16](https://github.com/AlexFlipnote/discord.http/pull/16) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+2. 🏷️ Published release [v6.4.1](https://github.com/Snazzah/slash-create/releases/tag/v6.4.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ❗️ Closed issue [#632](https://github.com/Snazzah/slash-create/issues/632) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🏷️ Published release [v6.4.0](https://github.com/Snazzah/slash-create/releases/tag/v6.4.0) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#627](https://github.com/Snazzah/slash-create/issues/627) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
