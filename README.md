@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v0.1.2](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.2) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
-2. 💪 Opened PR [#311](https://github.com/advaith1/libs/pull/311) in [advaith1/libs](https://github.com/advaith1/libs)
-3. 🗣 Commented on [#1](https://github.com/CraigChat/translations/issues/1) in [CraigChat/translations](https://github.com/CraigChat/translations)
-4. ❌ Closed PR [#1](https://github.com/CraigChat/translations/pull/1) in [CraigChat/translations](https://github.com/CraigChat/translations)
-5. 💪 Opened PR [#18](https://github.com/AlexFlipnote/discord.http/pull/18) in [AlexFlipnote/discord.http](https://github.com/AlexFlipnote/discord.http)
+1. 💪 Opened PR [#458](https://github.com/apostrophecms/docs/pull/458) in [apostrophecms/docs](https://github.com/apostrophecms/docs)
+2. 🏷️ Published release [v0.1.2](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.2) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
+3. 💪 Opened PR [#311](https://github.com/advaith1/libs/pull/311) in [advaith1/libs](https://github.com/advaith1/libs)
+4. 🗣 Commented on [#1](https://github.com/CraigChat/translations/issues/1) in [CraigChat/translations](https://github.com/CraigChat/translations)
+5. ❌ Closed PR [#1](https://github.com/CraigChat/translations/pull/1) in [CraigChat/translations](https://github.com/CraigChat/translations)
 <!--END_SECTION:activity-->
 
 ---
