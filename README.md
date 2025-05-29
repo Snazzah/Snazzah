@@ -30,9 +30,9 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/CraigChat/craig/issues/224) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. 💪 Opened PR [#458](https://github.com/apostrophecms/docs/pull/458) in [apostrophecms/docs](https://github.com/apostrophecms/docs)
-3. 🏷️ Published release [v0.1.2](https://github.com/Snazzah/emoji-sync/releases/tag/v0.1.2) in [Snazzah/emoji-sync](https://github.com/Snazzah/emoji-sync)
+1. ✔️ Reviewed [#224](https://github.com/CraigChat/craig/pull/224) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. 🏷️ Published release [v0.1.0](https://github.com/CraigChat/otterpack/releases/tag/v0.1.0) in [CraigChat/otterpack](https://github.com/CraigChat/otterpack)
+3. 🗣 Commented on [#224](https://github.com/CraigChat/craig/issues/224) in [CraigChat/craig](https://github.com/CraigChat/craig)
 4. 🗣 Commented on [#1](https://github.com/CraigChat/translations/issues/1) in [CraigChat/translations](https://github.com/CraigChat/translations)
 5. ❌ Closed PR [#1](https://github.com/CraigChat/translations/pull/1) in [CraigChat/translations](https://github.com/CraigChat/translations)
 <!--END_SECTION:activity-->
