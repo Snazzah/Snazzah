@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10918](https://github.com/discordjs/discord.js/pull/10918) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 💪 Opened PR [#1257](https://github.com/discordjs/discord-api-types/pull/1257) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
-3. ❌ Closed PR [#160](https://github.com/Snazzah/discord.js/pull/160) in [Snazzah/discord.js](https://github.com/Snazzah/discord.js)
-4. 🎉 Merged PR [#222](https://github.com/CraigChat/helper/pull/222) in [CraigChat/helper](https://github.com/CraigChat/helper)
-5. 💪 Opened PR [#222](https://github.com/CraigChat/helper/pull/222) in [CraigChat/helper](https://github.com/CraigChat/helper)
+1. 💪 Opened PR [#1259](https://github.com/discordjs/discord-api-types/pull/1259) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+2. 💪 Opened PR [#7592](https://github.com/discord/discord-api-docs/pull/7592) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+3. 💪 Opened PR [#10918](https://github.com/discordjs/discord.js/pull/10918) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+4. 💪 Opened PR [#1257](https://github.com/discordjs/discord-api-types/pull/1257) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+5. ❌ Closed PR [#160](https://github.com/Snazzah/discord.js/pull/160) in [Snazzah/discord.js](https://github.com/Snazzah/discord.js)
 <!--END_SECTION:activity-->
 
 ---
