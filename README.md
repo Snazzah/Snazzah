@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1260](https://github.com/discordjs/discord-api-types/pull/1260) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
-2. 💪 Opened PR [#1259](https://github.com/discordjs/discord-api-types/pull/1259) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
-3. 💪 Opened PR [#7592](https://github.com/discord/discord-api-docs/pull/7592) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-4. 💪 Opened PR [#10918](https://github.com/discordjs/discord.js/pull/10918) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-5. 💪 Opened PR [#1257](https://github.com/discordjs/discord-api-types/pull/1257) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+1. 💪 Opened PR [#1261](https://github.com/discordjs/discord-api-types/pull/1261) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+2. 💪 Opened PR [#1260](https://github.com/discordjs/discord-api-types/pull/1260) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+3. 💪 Opened PR [#1259](https://github.com/discordjs/discord-api-types/pull/1259) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+4. 💪 Opened PR [#7592](https://github.com/discord/discord-api-docs/pull/7592) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+5. 💪 Opened PR [#10918](https://github.com/discordjs/discord.js/pull/10918) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 <!--END_SECTION:activity-->
 
 ---
