@@ -30,7 +30,7 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ✔️ Reviewed [#10921](https://github.com/discordjs/discord.js/pull/10921) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+1. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 2. ✔️ Reviewed [#10921](https://github.com/discordjs/discord.js/pull/10921) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 3. ✔️ Reviewed [#10921](https://github.com/discordjs/discord.js/pull/10921) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 4. ✔️ Reviewed [#10921](https://github.com/discordjs/discord.js/pull/10921) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
