@@ -30,7 +30,7 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+1. ✔️ Reviewed [#196](https://github.com/projectdysnomia/dysnomia/pull/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 2. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 3. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 4. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
