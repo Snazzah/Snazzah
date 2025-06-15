@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. ✔️ Reviewed [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ❗️ Closed issue [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🗣 Commented on [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🎉 Merged PR [#633](https://github.com/Snazzah/slash-create/pull/633) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🏷️ Published release [v6.4.2](https://github.com/Snazzah/slash-create/releases/tag/v6.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ❗️ Closed issue [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🗣 Commented on [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
