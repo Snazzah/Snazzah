@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v6.4.2](https://github.com/Snazzah/slash-create/releases/tag/v6.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🎉 Merged PR [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❗️ Closed issue [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🗣 Commented on [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. 🏷️ Published release [v6.4.2](https://github.com/Snazzah/slash-create/releases/tag/v6.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. ✔️ Reviewed [#634](https://github.com/Snazzah/slash-create/pull/634) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❗️ Closed issue [#445](https://github.com/Snazzah/slash-create/issues/445) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
