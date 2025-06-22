@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#231](https://github.com/CraigChat/craig/issues/231) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. ❗️ Closed issue [#202](https://github.com/CraigChat/craig/issues/202) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. 💪 Opened PR [#205](https://github.com/projectdysnomia/dysnomia/pull/205) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-4. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-5. 🏷️ Published release [v6.4.2](https://github.com/Snazzah/slash-create/releases/tag/v6.4.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🗣 Commented on [#205](https://github.com/projectdysnomia/dysnomia/issues/205) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+2. ❗️ Closed issue [#231](https://github.com/CraigChat/craig/issues/231) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. ❗️ Closed issue [#202](https://github.com/CraigChat/craig/issues/202) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. 💪 Opened PR [#205](https://github.com/projectdysnomia/dysnomia/pull/205) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+5. 🗣 Commented on [#196](https://github.com/projectdysnomia/dysnomia/issues/196) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
 <!--END_SECTION:activity-->
 
 ---
