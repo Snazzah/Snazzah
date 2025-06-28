@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1283](https://github.com/discordjs/discord-api-types/pull/1283) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
-2. 🗣 Commented on [#205](https://github.com/projectdysnomia/dysnomia/issues/205) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
-3. ❗️ Closed issue [#231](https://github.com/CraigChat/craig/issues/231) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. ❗️ Closed issue [#202](https://github.com/CraigChat/craig/issues/202) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. 💪 Opened PR [#205](https://github.com/projectdysnomia/dysnomia/pull/205) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+1. 💪 Opened PR [#9738](https://github.com/PreMiD/Activities/pull/9738) in [PreMiD/Activities](https://github.com/PreMiD/Activities)
+2. 💪 Opened PR [#1283](https://github.com/discordjs/discord-api-types/pull/1283) in [discordjs/discord-api-types](https://github.com/discordjs/discord-api-types)
+3. 🗣 Commented on [#205](https://github.com/projectdysnomia/dysnomia/issues/205) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+4. ❗️ Closed issue [#231](https://github.com/CraigChat/craig/issues/231) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. ❗️ Closed issue [#202](https://github.com/CraigChat/craig/issues/202) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
