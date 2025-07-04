@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#636](https://github.com/Snazzah/slash-create/issues/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 💪 Opened PR [#637](https://github.com/Snazzah/slash-create/pull/637) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. ✔️ Reviewed [#638](https://github.com/Snazzah/slash-create/pull/638) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🗣 Commented on [#636](https://github.com/Snazzah/slash-create/issues/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 💪 Opened PR [#637](https://github.com/Snazzah/slash-create/pull/637) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 4. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#9738](https://github.com/PreMiD/Activities/pull/9738) in [PreMiD/Activities](https://github.com/PreMiD/Activities)
+5. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
