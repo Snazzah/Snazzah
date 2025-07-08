@@ -32,9 +32,9 @@ Hi, I often do things.
 <!--START_SECTION:activity-->
 1. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 2. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🗣 Commented on [#639](https://github.com/Snazzah/slash-create/issues/639) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ❌ Closed PR [#639](https://github.com/Snazzah/slash-create/pull/639) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 🎉 Merged PR [#638](https://github.com/Snazzah/slash-create/pull/638) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🗣 Commented on [#639](https://github.com/Snazzah/slash-create/issues/639) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. ❌ Closed PR [#639](https://github.com/Snazzah/slash-create/pull/639) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
