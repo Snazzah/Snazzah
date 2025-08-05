@@ -30,10 +30,10 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#21492](https://github.com/oven-sh/bun/issues/21492) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. 🎉 Merged PR [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#224](https://github.com/CraigChat/craig/pull/224) in [CraigChat/craig](https://github.com/CraigChat/craig)
+2. ✔️ Reviewed [#224](https://github.com/CraigChat/craig/pull/224) in [CraigChat/craig](https://github.com/CraigChat/craig)
+3. ❗️ Opened issue [#21492](https://github.com/oven-sh/bun/issues/21492) in [oven-sh/bun](https://github.com/oven-sh/bun)
+4. 🎉 Merged PR [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 5. ✔️ Reviewed [#636](https://github.com/Snazzah/slash-create/pull/636) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
