@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#258](https://github.com/CraigChat/craig/pull/258) in [CraigChat/craig](https://github.com/CraigChat/craig)
-2. ✔️ Reviewed [#258](https://github.com/CraigChat/craig/pull/258) in [CraigChat/craig](https://github.com/CraigChat/craig)
-3. 🎉 Merged PR [#257](https://github.com/CraigChat/craig/pull/257) in [CraigChat/craig](https://github.com/CraigChat/craig)
-4. ✔️ Reviewed [#257](https://github.com/CraigChat/craig/pull/257) in [CraigChat/craig](https://github.com/CraigChat/craig)
-5. 🗣 Commented on [#217](https://github.com/projectdysnomia/dysnomia/issues/217) in [projectdysnomia/dysnomia](https://github.com/projectdysnomia/dysnomia)
+1. 💪 Opened PR [#642](https://github.com/Snazzah/slash-create/pull/642) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 🎉 Merged PR [#641](https://github.com/Snazzah/slash-create/pull/641) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🎉 Merged PR [#258](https://github.com/CraigChat/craig/pull/258) in [CraigChat/craig](https://github.com/CraigChat/craig)
+4. ✔️ Reviewed [#258](https://github.com/CraigChat/craig/pull/258) in [CraigChat/craig](https://github.com/CraigChat/craig)
+5. 🎉 Merged PR [#257](https://github.com/CraigChat/craig/pull/257) in [CraigChat/craig](https://github.com/CraigChat/craig)
 <!--END_SECTION:activity-->
 
 ---
