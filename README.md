@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [py-0.1.0rc2](https://github.com/Snazzah/davey/releases/tag/py-0.1.0rc2) in [Snazzah/davey](https://github.com/Snazzah/davey)
-2. 🎉 Merged PR [#2](https://github.com/Snazzah/davey/pull/2) in [Snazzah/davey](https://github.com/Snazzah/davey)
-3. 🗣 Commented on [#643](https://github.com/Snazzah/slash-create/issues/643) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 🏷️ Published release [v6.6.1](https://github.com/Snazzah/slash-create/releases/tag/v6.6.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-5. 💪 Opened PR [#2](https://github.com/Snazzah/davey/pull/2) in [Snazzah/davey](https://github.com/Snazzah/davey)
+1. 💪 Opened PR [#7828](https://github.com/discord/discord-api-docs/pull/7828) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+2. 🏷️ Published release [py-0.1.0rc2](https://github.com/Snazzah/davey/releases/tag/py-0.1.0rc2) in [Snazzah/davey](https://github.com/Snazzah/davey)
+3. 🎉 Merged PR [#2](https://github.com/Snazzah/davey/pull/2) in [Snazzah/davey](https://github.com/Snazzah/davey)
+4. 🗣 Commented on [#643](https://github.com/Snazzah/slash-create/issues/643) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 🏷️ Published release [v6.6.1](https://github.com/Snazzah/slash-create/releases/tag/v6.6.1) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
 <!--END_SECTION:activity-->
 
 ---
