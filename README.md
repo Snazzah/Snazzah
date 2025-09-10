@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11100](https://github.com/discordjs/discord.js/pull/11100) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 💪 Opened PR [#7828](https://github.com/discord/discord-api-docs/pull/7828) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
-3. 🏷️ Published release [py-0.1.0rc2](https://github.com/Snazzah/davey/releases/tag/py-0.1.0rc2) in [Snazzah/davey](https://github.com/Snazzah/davey)
-4. 🎉 Merged PR [#2](https://github.com/Snazzah/davey/pull/2) in [Snazzah/davey](https://github.com/Snazzah/davey)
-5. 🗣 Commented on [#643](https://github.com/Snazzah/slash-create/issues/643) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+1. 🎉 Merged PR [#642](https://github.com/Snazzah/slash-create/pull/642) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+2. 💪 Opened PR [#11100](https://github.com/discordjs/discord.js/pull/11100) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 💪 Opened PR [#7828](https://github.com/discord/discord-api-docs/pull/7828) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+4. 🏷️ Published release [py-0.1.0rc2](https://github.com/Snazzah/davey/releases/tag/py-0.1.0rc2) in [Snazzah/davey](https://github.com/Snazzah/davey)
+5. 🎉 Merged PR [#2](https://github.com/Snazzah/davey/pull/2) in [Snazzah/davey](https://github.com/Snazzah/davey)
 <!--END_SECTION:activity-->
 
 ---
