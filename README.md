@@ -30,11 +30,11 @@ Hi, I often do things.
 ####  Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🏷️ Published release [v6.6.3](https://github.com/Snazzah/slash-create/releases/tag/v6.6.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-2. 🏷️ Published release [v6.6.2](https://github.com/Snazzah/slash-create/releases/tag/v6.6.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-3. 🎉 Merged PR [#642](https://github.com/Snazzah/slash-create/pull/642) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
-4. 💪 Opened PR [#11100](https://github.com/discordjs/discord.js/pull/11100) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-5. 💪 Opened PR [#7828](https://github.com/discord/discord-api-docs/pull/7828) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❗️ Opened issue [#16842](https://github.com/sveltejs/svelte/issues/16842) in [sveltejs/svelte](https://github.com/sveltejs/svelte)
+2. 🏷️ Published release [v6.6.3](https://github.com/Snazzah/slash-create/releases/tag/v6.6.3) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+3. 🏷️ Published release [v6.6.2](https://github.com/Snazzah/slash-create/releases/tag/v6.6.2) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+4. 🎉 Merged PR [#642](https://github.com/Snazzah/slash-create/pull/642) in [Snazzah/slash-create](https://github.com/Snazzah/slash-create)
+5. 💪 Opened PR [#11100](https://github.com/discordjs/discord.js/pull/11100) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
 <!--END_SECTION:activity-->
 
 ---
